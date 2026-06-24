@@ -1,6 +1,6 @@
 ﻿{
-  "version": "1.0.0",
-  "installer_url": "https://raw.githubusercontent.com/mitvodich9x/walmart-scanner-releases/main/WalmartScannerProSetup-1.0.0.exe",
-  "sha256": "",
-  "notes": "Khoi tao manifest cap nhat. Chua phat hanh installer moi."
+  "version": "1.0.1",
+  "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.1/WalmartScannerProSetup-1.0.1.exe",
+  "sha256": "9AAAA667581E11EE18341DB673BF87CEE7C40CF79DD49E0733AC3E637B421EAC",
+  "notes": "Ban cai dat 1.0.1. Khong dong goi file .ovpn."
 }
