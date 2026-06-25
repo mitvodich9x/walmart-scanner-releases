@@ -1,6 +1,1 @@
-﻿{
-  "version": "1.0.1",
-  "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.1/WalmartScannerProSetup-1.0.1.exe",
-  "sha256": "9AAAA667581E11EE18341DB673BF87CEE7C40CF79DD49E0733AC3E637B421EAC",
-  "notes": "Ban cai dat 1.0.1. Khong dong goi file .ovpn."
-}
+{"version":"1.0.2","installer_url":"https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.2/WalmartScannerProSetup-1.0.2.exe","sha256":"C96B706C67ECA5943CDBA9FE6DE6A58E949E05DFE3FB4EBF743FDC6D752AB97F","notes":"Ban 1.0.2: them lay size/dung tich mug/cup trong Broad Search. Khong dong goi file .ovpn."}
