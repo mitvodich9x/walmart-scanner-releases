@@ -1,1 +1,6 @@
-{"version":"1.0.5","installer_url":"https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.5/WalmartScannerProSetup-1.0.5.exe","sha256":"10C71936872D2081EE24C56600AD18852D1749A50EE78730F2E13FF6DC0AEBC0","notes":"Ban 1.0.5: Broad Search van chay browser-only khi Walmart API auth 401; tang timeout launch Chrome profile va tu dong dong profile launch fail. Khong dong goi file .ovpn."}
+{
+  "version": "1.0.7",
+  "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/raw/main/WalmartScannerProSetup-1.0.7.exe",
+  "sha256": "B2AA2170EA1B639926D676C819E05878E9ABB2A75F4E97380EB7ECFC448D5E3C",
+  "notes": "Ban 1.0.7: Broad Search doc __NEXT_DATA__ va ItemByIdBtf de lay day du variant IDs theo Color x Clothing Size."
+}
