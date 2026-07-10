@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.12",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.12/WalmartScannerProSetup-1.0.12.exe",
-    "sha256":  "A68E289CB04C90278A5C9454D74092BF7C5CD8A93E5AA05D814E7079B281BE1C",
-    "notes":  "Walmart Scanner Pro 1.0.12 release."
+    "version":  "1.0.13",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.13/WalmartScannerProSetup-1.0.13.exe",
+    "sha256":  "25C0E688FFFCCCC7940236926A34321D64E0B1E32C915F3D8417128072D41F67",
+    "notes":  "Fix installer runtime packaging: install the app as a stable on-disk folder instead of extracting Python DLLs to a temp _MEI folder."
 }
