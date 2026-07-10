@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.8/WalmartScannerProSetup-1.0.8.exe",
-  "sha256": "D04AF59C00120610DC6525C7D6A30C45DE017B9249F7A5D513A4E7DD69120460",
-  "notes": "Broad Search: VMLogin port pool 35020-35099, shared queue, robot requeue, Chrome fallback, VMLogin auto-start, short URL support. Public release asset URL fixed."
+    "version":  "1.0.9",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.9/WalmartScannerProSetup-1.0.9.exe",
+    "sha256":  "C72C0B261F3A3DEC1E339014BB985680D1406EA6175CFA382D4818379AFE5651",
+    "notes":  "Walmart Scanner Pro 1.0.9 release."
 }
