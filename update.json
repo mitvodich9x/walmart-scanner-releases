@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.23",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.23/WalmartScannerProSetup-1.0.23.exe",
-    "sha256":  "3FB9263741D677979136D315CE92C25692A7C549BE9B8B13345CC910C9624F4F",
-    "notes":  "HJListingMultiSelect"
+    "version":  "1.0.24",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.24/WalmartScannerProSetup-1.0.24.exe",
+    "sha256":  "93DA068E87D8C06AF1777EFF9F785AA2FB765F740636A74B9C3F9DC75B729C46",
+    "notes":  "HJAutoFillByTitle"
 }
