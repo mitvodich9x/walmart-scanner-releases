@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.17",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.17/WalmartScannerProSetup-1.0.17.exe",
-    "sha256":  "9BEA93FB04A0010BC34B818A3E2CA6A18FD5391778460731759E3FD1283A49D6",
-    "notes":  "Fix Lumi listing manager sale_code selection and auto login hydration"
+    "version":  "1.0.18",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.18/WalmartScannerProSetup-1.0.18.exe",
+    "sha256":  "17C6BFB89DF3AA6B83B7570584347B408FF275E8B8F20CF22F72E1457AE68551",
+    "notes":  "Fix Quick Listing manager loading from Lumi me fallback and enable manual column resizing"
 }
