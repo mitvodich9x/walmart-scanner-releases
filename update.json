@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.22",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.22/WalmartScannerProSetup-1.0.22.exe",
-    "sha256":  "DD295FF99350100F5C31570AE6508907681435948E0476091FFFEA62A146FC9F",
-    "notes":  "Run duplicate check again before importing Broad Search items into HJ Listing"
+    "version":  "1.0.23",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.23/WalmartScannerProSetup-1.0.23.exe",
+    "sha256":  "3FB9263741D677979136D315CE92C25692A7C549BE9B8B13345CC910C9624F4F",
+    "notes":  "HJListingMultiSelect"
 }
