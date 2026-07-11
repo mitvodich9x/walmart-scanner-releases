@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.19",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.19/WalmartScannerProSetup-1.0.19.exe",
-    "sha256":  "06F57E85CCB0FE5495F168EC2B047AE149BB993040813B4B55A42DAFC7987EC9",
-    "notes":  "Harden Quick Listing blocked keyword check and show manager load hint"
+    "version":  "1.0.20",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.20/WalmartScannerProSetup-1.0.20.exe",
+    "sha256":  "28E8EC1C33DB1CEBA8E35F9153777C7BE97D77783E104D28A707EDC327ED0523",
+    "notes":  "Populate Quick Listing manager combo on page load and use logged-in user fallback"
 }
