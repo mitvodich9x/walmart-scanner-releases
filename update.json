@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.21",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.21/WalmartScannerProSetup-1.0.21.exe",
-    "sha256":  "65B581B50DE87358740DFB0EB609A148A110CE967FC8A59C547FE623F5558733",
-    "notes":  "Add guided shop walmartId to duplicate check, Broad Search, mining, and HJ Listing workflow"
+    "version":  "1.0.22",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.22/WalmartScannerProSetup-1.0.22.exe",
+    "sha256":  "DD295FF99350100F5C31570AE6508907681435948E0476091FFFEA62A146FC9F",
+    "notes":  "Run duplicate check again before importing Broad Search items into HJ Listing"
 }
