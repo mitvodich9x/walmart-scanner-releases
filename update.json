@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.18",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.18/WalmartScannerProSetup-1.0.18.exe",
-    "sha256":  "17C6BFB89DF3AA6B83B7570584347B408FF275E8B8F20CF22F72E1457AE68551",
-    "notes":  "Fix Quick Listing manager loading from Lumi me fallback and enable manual column resizing"
+    "version":  "1.0.19",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.19/WalmartScannerProSetup-1.0.19.exe",
+    "sha256":  "06F57E85CCB0FE5495F168EC2B047AE149BB993040813B4B55A42DAFC7987EC9",
+    "notes":  "Harden Quick Listing blocked keyword check and show manager load hint"
 }
