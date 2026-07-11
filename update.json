@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.24",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.24/WalmartScannerProSetup-1.0.24.exe",
-    "sha256":  "93DA068E87D8C06AF1777EFF9F785AA2FB765F740636A74B9C3F9DC75B729C46",
-    "notes":  "HJAutoFillByTitle"
+    "version":  "1.0.25",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.25/WalmartScannerProSetup-1.0.25.exe",
+    "sha256":  "96344BF6BC7B76E6B6A6AAA65092AE132D6A869B6BEC1AA5952157205AD3EECB",
+    "notes":  "ColumnFillControls"
 }
