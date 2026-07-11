@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.14",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.14/WalmartScannerProSetup-1.0.14.exe",
-    "sha256":  "F94154F3ED90B3DB54BCE1E29C176115FE328D2C82042E6BC23F52A4729569E3",
-    "notes":  "Auto-select the logged-in Lumi user as the listing manager for Create Listing and HJ Listing."
+    "version":  "1.0.15",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.15/WalmartScannerProSetup-1.0.15.exe",
+    "sha256":  "9DF4C6CD7BD3D2704094D1433C272AB325DD44E7A8330DDB575F03F60DDB8322",
+    "notes":  "Restore Broad Search profile-count prompt and make Shop Crawl reuse VMLogin or real Chrome browser profiles."
 }
