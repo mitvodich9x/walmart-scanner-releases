@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.26",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.26/WalmartScannerProSetup-1.0.26.exe",
-    "sha256":  "1D79C99CE30A9F52B3E1995EE4323C37E8FAD526434B6F6B67BCC42390CD6993",
-    "notes":  "ComboNoWheelKeywordFix"
+    "version":  "1.0.27",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.27/WalmartScannerProSetup-1.0.27.exe",
+    "sha256":  "D35017BD0D3F27DA2225FD16C45B1AB1FFC2C61B4681135BF759D837646BAB94",
+    "notes":  "Broad Search now accepts Category + ID or ID + Category and applies the entered category to all discovered variants."
 }
