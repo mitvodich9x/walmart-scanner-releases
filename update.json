@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.27",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.27/WalmartScannerProSetup-1.0.27.exe",
-    "sha256":  "D35017BD0D3F27DA2225FD16C45B1AB1FFC2C61B4681135BF759D837646BAB94",
-    "notes":  "Broad Search now accepts Category + ID or ID + Category and applies the entered category to all discovered variants."
+    "version":  "1.0.28",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.28/WalmartScannerProSetup-1.0.28.exe",
+    "sha256":  "9E08294D2551CAD5F29E65953B6816755DB9EAAAFFD463CE5BF20C20EB564893",
+    "notes":  "Thêm chức năng gửi file import từ Dashboard, Tạo Listing và Tạo HJ Listing sang Lumi File Import."
 }
