@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.28",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.28/WalmartScannerProSetup-1.0.28.exe",
-    "sha256":  "9E08294D2551CAD5F29E65953B6816755DB9EAAAFFD463CE5BF20C20EB564893",
-    "notes":  "Thêm chức năng gửi file import từ Dashboard, Tạo Listing và Tạo HJ Listing sang Lumi File Import."
+    "version":  "1.0.30",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.30/WalmartScannerProSetup-1.0.30.exe",
+    "sha256":  "374F561F551834C66A0011D33AF7D1F864E027E2B249FD8489308A1B7575012D",
+    "notes":  "Walmart Scanner Pro 1.0.30 release."
 }
