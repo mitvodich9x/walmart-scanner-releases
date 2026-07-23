@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.37",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.37/WalmartScannerProSetup-1.0.37.exe",
-    "sha256":  "79E65550823E508071D6C10C6D4113695869518144F757F46152AD9C94CC0F28",
-    "notes":  "Convert anh: tu dong chuan hoa link eBay ve dang https://www.ebay.com/itm/\u003cid\u003e (bo tham so theo doi) va TU MO Chrome debug khi chua chay, nho do lay du toan bo anh gallery thay vi chi 1 anh chinh. Them tuy chon \u0027Tu mo Chrome debug\u0027 tren giao dien."
+    "version":  "1.0.38",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.38/WalmartScannerProSetup-1.0.38.exe",
+    "sha256":  "5EC06309A540C811D87C1782DBE624DF9B39B6CB824D58E52F30A4A894B6A524",
+    "notes":  "Dashboard: import lai duoc file Excel do chinh tool xuat ra (item_id/title/images/color_raw/count...). Truoc day cac file nay bi skip toan bo vi ten cot khong khop. productType lay theo file thay vi luon mac dinh Necklaces; category khong khop map necklace thi giu nguyen gia tri trong file."
 }
