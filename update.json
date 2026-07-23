@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.35",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.35/WalmartScannerProSetup-1.0.35.exe",
-    "sha256":  "BC630DF6016CD86CA79829E25B52876C0D50B414B790E50C62C4B711BB4061EF",
-    "notes":  "Tai file import tu Lumi ve tool de xu ly tiep (HH/CG tai tat ca, sale khac chi file cua minh); gui them file da xu ly vao cung 1 muc tren web (danh version), khong tao muc moi."
+    "version":  "1.0.36",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.36/WalmartScannerProSetup-1.0.36.exe",
+    "sha256":  "C00014A7B0E233EADCE7D90D101265CB74D08D339C05ABC31984F2D9E75C31F0",
+    "notes":  "Them trang Convert anh: dan link san pham eBay hoac link anh truc tiep, tu lay toan bo anh gallery, convert sang JPG va upload len CDN free (freeimage.host) de lay link moi. Ho tro nhieu link, moi dong 1 link."
 }
