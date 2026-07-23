@@ -1,6 +1,6 @@
 {
     "version":  "1.0.35",
     "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.35/WalmartScannerProSetup-1.0.35.exe",
-    "sha256":  "E4A8B425A0B2FF1446FB761F0B0C9BEE3594F2D3C859C01CDD1E760EAA1E9367",
-    "notes":  "Dong bo phien lam viec theo tai khoan; an/hien cot bang du lieu + cuon ngang; tu dong dien danh muc san pham trung ten; tu nhan dong mau Gildan/Comfort."
+    "sha256":  "BC630DF6016CD86CA79829E25B52876C0D50B414B790E50C62C4B711BB4061EF",
+    "notes":  "Tai file import tu Lumi ve tool de xu ly tiep (HH/CG tai tat ca, sale khac chi file cua minh); gui them file da xu ly vao cung 1 muc tren web (danh version), khong tao muc moi."
 }
