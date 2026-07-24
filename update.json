@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.38",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.38/WalmartScannerProSetup-1.0.38.exe",
-    "sha256":  "5EC06309A540C811D87C1782DBE624DF9B39B6CB824D58E52F30A4A894B6A524",
-    "notes":  "Dashboard: import lai duoc file Excel do chinh tool xuat ra (item_id/title/images/color_raw/count...). Truoc day cac file nay bi skip toan bo vi ten cot khong khop. productType lay theo file thay vi luon mac dinh Necklaces; category khong khop map necklace thi giu nguyen gia tri trong file."
+    "version":  "1.0.39",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.39/WalmartScannerProSetup-1.0.39.exe",
+    "sha256":  "617FA2D34D091B364439717F20B78AE45CDB596A65DBF7191B3D2E8376CB2E22",
+    "notes":  "Dashboard: cot Type + Danh muc thanh combobox chon tu Lumi API, tu dien danh muc trung ten, tu nhan theo mau gildan/comfort, khoa dong da sua tay. Chan lan chuot doi gia tri combobox + khong go truc tiep tren ca 3 bang. Sua Fill cot (fill-all). Them Xoa dong + Loc trung tren Dashboard, Xoa dong cho Tao HJ. Mining/Retry chay duoc vao tab Import. Tai file tu web nap thang vao bang. Sidebar highlight muc dang mo. Chong crash toan cuc (error.log)."
 }
