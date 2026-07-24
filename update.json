@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.39",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.39/WalmartScannerProSetup-1.0.39.exe",
-    "sha256":  "617FA2D34D091B364439717F20B78AE45CDB596A65DBF7191B3D2E8376CB2E22",
-    "notes":  "Dashboard: cot Type + Danh muc thanh combobox chon tu Lumi API, tu dien danh muc trung ten, tu nhan theo mau gildan/comfort, khoa dong da sua tay. Chan lan chuot doi gia tri combobox + khong go truc tiep tren ca 3 bang. Sua Fill cot (fill-all). Them Xoa dong + Loc trung tren Dashboard, Xoa dong cho Tao HJ. Mining/Retry chay duoc vao tab Import. Tai file tu web nap thang vao bang. Sidebar highlight muc dang mo. Chong crash toan cuc (error.log)."
+    "version":  "1.0.40",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.40/WalmartScannerProSetup-1.0.40.exe",
+    "sha256":  "2509C3231A6DD3817CDCCF65A2D37C0FBA18F427C924DAFC2F366545960237F9",
+    "notes":  "Broad Search: them tuy chon \u0027Bo ID trung HJ (1 ngay)\u0027 - bo qua ID da co tren HJ Listings hoac da Broad Search trong 1 ngay qua, luu ID moi vao bang tam tren Lumi (dung chung nhieu may, tu don sau 1 ngay hoac khi ID da len HJ)."
 }
