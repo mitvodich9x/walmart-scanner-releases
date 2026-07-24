@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.40",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.40/WalmartScannerProSetup-1.0.40.exe",
-    "sha256":  "2509C3231A6DD3817CDCCF65A2D37C0FBA18F427C924DAFC2F366545960237F9",
-    "notes":  "Broad Search: them tuy chon \u0027Bo ID trung HJ (1 ngay)\u0027 - bo qua ID da co tren HJ Listings hoac da Broad Search trong 1 ngay qua, luu ID moi vao bang tam tren Lumi (dung chung nhieu may, tu don sau 1 ngay hoac khi ID da len HJ)."
+    "version":  "1.0.41",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.41/WalmartScannerProSetup-1.0.41.exe",
+    "sha256":  "ADC665D6D4F27031866828C46602E331EB6C674902A95C393B1E7747CAC08178",
+    "notes":  "Hien so version tren tieu de cua so + sidebar de de xac nhan ban dang chay. Gom day du: Mining/Retry chay vao tab Import, combobox Type/Danh muc chon tu Lumi (khong scroll doi gia tri, khong go tay), Fill cot, Xoa dong, Loc trung, sidebar highlight, Broad Search bo ID trung HJ (1 ngay)."
 }
