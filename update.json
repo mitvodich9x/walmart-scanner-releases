@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.47",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.47/WalmartScannerProSetup-1.0.47.exe",
-    "sha256":  "CDDF28D114FCBC36C91953AC525B7626D17F3025BE341C0086EE8E5D81AEC460",
-    "notes":  "Fix: tai/khoi phuc phien cu -\u003e itemId khong con \u0027.0\u0027 (chuan hoa ca key va gia tri, giu nguyen danh muc/size dang lam). Ket hop fix .0 khi doc file va tu kiem tra cap nhat khi mo app."
+    "version":  "1.0.48",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.48/WalmartScannerProSetup-1.0.48.exe",
+    "sha256":  "9BB24871401BAE0262398DB36CB22E9187FF964DDEB960F1D33B20F400414409",
+    "notes":  "Sua loi Tai file tu web hien bang trang sau khi Delete: import khong xoa cache loc cu (list rong) nen refresh tra ve rong du da nap du item. Nay import + clear_table deu invalidate cache loc va reset ve trang 1."
 }
