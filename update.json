@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.41",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.41/WalmartScannerProSetup-1.0.41.exe",
-    "sha256":  "ADC665D6D4F27031866828C46602E331EB6C674902A95C393B1E7747CAC08178",
-    "notes":  "Hien so version tren tieu de cua so + sidebar de de xac nhan ban dang chay. Gom day du: Mining/Retry chay vao tab Import, combobox Type/Danh muc chon tu Lumi (khong scroll doi gia tri, khong go tay), Fill cot, Xoa dong, Loc trung, sidebar highlight, Broad Search bo ID trung HJ (1 ngay)."
+    "version":  "1.0.42",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.42/WalmartScannerProSetup-1.0.42.exe",
+    "sha256":  "638AE0256BA915DEEDC653812958D6A9FCD3646D4E14CF833D31DD50C04554EB",
+    "notes":  "Sua tu chay khi mo may: mo dung ban .exe da cai (giu nguyen license, khong bat nhap key lai). Them toggle \u0027Tu mo app khi bat may\u0027 trong Settings + tu sua launcher cu tro vao ban source."
 }
