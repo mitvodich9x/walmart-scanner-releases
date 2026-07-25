@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.42",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.42/WalmartScannerProSetup-1.0.42.exe",
-    "sha256":  "638AE0256BA915DEEDC653812958D6A9FCD3646D4E14CF833D31DD50C04554EB",
-    "notes":  "Sua tu chay khi mo may: mo dung ban .exe da cai (giu nguyen license, khong bat nhap key lai). Them toggle \u0027Tu mo app khi bat may\u0027 trong Settings + tu sua launcher cu tro vao ban source."
+    "version":  "1.0.43",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.43/WalmartScannerProSetup-1.0.43.exe",
+    "sha256":  "A753246E46B861D0867028827E350B2445EE720430D52A5D45BB913EF17F8A39",
+    "notes":  "Sua loi tai file tu web/import: itemId khong con duoi \u0027.0\u0027 (17441661049.0 -\u003e 17441661049); o price bi Excel doi nham thanh ngay thi de trong thay vi hien ra ngay."
 }
