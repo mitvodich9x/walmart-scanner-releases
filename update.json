@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.43",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.43/WalmartScannerProSetup-1.0.43.exe",
-    "sha256":  "A753246E46B861D0867028827E350B2445EE720430D52A5D45BB913EF17F8A39",
-    "notes":  "Sua loi tai file tu web/import: itemId khong con duoi \u0027.0\u0027 (17441661049.0 -\u003e 17441661049); o price bi Excel doi nham thanh ngay thi de trong thay vi hien ra ngay."
+    "version":  "1.0.44",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.44/WalmartScannerProSetup-1.0.44.exe",
+    "sha256":  "7814BD5C52C4D603A95EC27E6D08E21577368080AC4803309C5E553CC6606D1C",
+    "notes":  "Convert anh: them cot \u0027SP\u0027 (so san pham) + to mau nhom theo san pham de phan biet anh cua tung SP khi import nhieu link 1 lan. Them nut \u0027Copy theo SP\u0027 (gop link theo tung san pham)."
 }
