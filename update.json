@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.46",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.46/WalmartScannerProSetup-1.0.46.exe",
-    "sha256":  "A43E5E552673653E38D04A12127687116407BA37152422AA0926C1508E66B933",
-    "notes":  "Fix item_id con .0 ca khi luu dang chuoi. TU KIEM TRA CAP NHAT khi mo app (nhac cai ban moi ngay, khong con ket ban cu). Kem: convert anh xuat Excel/CSV theo SP, autostart mo dung ban da cai, ID tam 1 ngay HJ."
+    "version":  "1.0.47",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.47/WalmartScannerProSetup-1.0.47.exe",
+    "sha256":  "CDDF28D114FCBC36C91953AC525B7626D17F3025BE341C0086EE8E5D81AEC460",
+    "notes":  "Fix: tai/khoi phuc phien cu -\u003e itemId khong con \u0027.0\u0027 (chuan hoa ca key va gia tri, giu nguyen danh muc/size dang lam). Ket hop fix .0 khi doc file va tu kiem tra cap nhat khi mo app."
 }
