@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.44",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.44/WalmartScannerProSetup-1.0.44.exe",
-    "sha256":  "7814BD5C52C4D603A95EC27E6D08E21577368080AC4803309C5E553CC6606D1C",
-    "notes":  "Convert anh: them cot \u0027SP\u0027 (so san pham) + to mau nhom theo san pham de phan biet anh cua tung SP khi import nhieu link 1 lan. Them nut \u0027Copy theo SP\u0027 (gop link theo tung san pham)."
+    "version":  "1.0.45",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.45/WalmartScannerProSetup-1.0.45.exe",
+    "sha256":  "B4725D5CFCC552B5DC074536253E95B9286FD36928B070B8E9CB393B096DBE0B",
+    "notes":  "Convert anh: them \u0027Xuat Excel\u0027 va \u0027Copy CSV\u0027 dang 2 cot item_id + images theo tung san pham. Co the nhap item_id truoc link (cach bang khoang trang); thieu thi tu lay so item eBay tu link."
 }
