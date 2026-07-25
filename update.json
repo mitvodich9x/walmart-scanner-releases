@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.45",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.45/WalmartScannerProSetup-1.0.45.exe",
-    "sha256":  "B4725D5CFCC552B5DC074536253E95B9286FD36928B070B8E9CB393B096DBE0B",
-    "notes":  "Convert anh: them \u0027Xuat Excel\u0027 va \u0027Copy CSV\u0027 dang 2 cot item_id + images theo tung san pham. Co the nhap item_id truoc link (cach bang khoang trang); thieu thi tu lay so item eBay tu link."
+    "version":  "1.0.46",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.46/WalmartScannerProSetup-1.0.46.exe",
+    "sha256":  "A43E5E552673653E38D04A12127687116407BA37152422AA0926C1508E66B933",
+    "notes":  "Fix item_id con .0 ca khi luu dang chuoi. TU KIEM TRA CAP NHAT khi mo app (nhac cai ban moi ngay, khong con ket ban cu). Kem: convert anh xuat Excel/CSV theo SP, autostart mo dung ban da cai, ID tam 1 ngay HJ."
 }
