@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.50",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.50/WalmartScannerProSetup-1.0.50.exe",
-    "sha256":  "2B4DA325C83C3014C5C40306002EE7FA95E3BD75DE438423E9CC0DBE62EA49DD",
-    "notes":  "Sua loi \u0027unable to open database file\u0027 khi app tu khoi dong luc boot: dua CWD ve dung thu muc cai (ban frozen) de cac file tuong doi history.db/session_data.json/walmart_config.db mo duoc, thay vi CWD la System32."
+    "version":  "1.0.51",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.51/WalmartScannerProSetup-1.0.51.exe",
+    "sha256":  "61B64DE02243526C3ECD7481B5C7BC012B43C03FCCA2F3924CC24FE1BB4C261E",
+    "notes":  "Import Excel: uu tien danh muc tu FILE. Neu danh muc file co trong Lumi API (vd Phone Case - Tough Case) thi cap nhat danh muc theo file thay vi ep ve Necklaces. Danh muc khong thuoc Lumi thi giu nguyen danh muc file + GTIN. Necklace map giu nguyen nhu cu."
 }
