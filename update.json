@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.49",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.49/WalmartScannerProSetup-1.0.49.exe",
-    "sha256":  "746EFBABF53ECB00302DE39090E3DE4912866065CE0B91EE55192F76E4731620",
-    "notes":  "Convert anh: lay link anh eBay chay song song theo batch (giong cao shop) - nhanh hon nhieu lan. Them o \u0027Luong lay link\u0027 (1-8, mac dinh 4) de chinh so link xu ly cung luc. Giu dung thu tu san pham."
+    "version":  "1.0.50",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.50/WalmartScannerProSetup-1.0.50.exe",
+    "sha256":  "2B4DA325C83C3014C5C40306002EE7FA95E3BD75DE438423E9CC0DBE62EA49DD",
+    "notes":  "Sua loi \u0027unable to open database file\u0027 khi app tu khoi dong luc boot: dua CWD ve dung thu muc cai (ban frozen) de cac file tuong doi history.db/session_data.json/walmart_config.db mo duoc, thay vi CWD la System32."
 }
