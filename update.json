@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.48",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.48/WalmartScannerProSetup-1.0.48.exe",
-    "sha256":  "9BB24871401BAE0262398DB36CB22E9187FF964DDEB960F1D33B20F400414409",
-    "notes":  "Sua loi Tai file tu web hien bang trang sau khi Delete: import khong xoa cache loc cu (list rong) nen refresh tra ve rong du da nap du item. Nay import + clear_table deu invalidate cache loc va reset ve trang 1."
+    "version":  "1.0.49",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.49/WalmartScannerProSetup-1.0.49.exe",
+    "sha256":  "746EFBABF53ECB00302DE39090E3DE4912866065CE0B91EE55192F76E4731620",
+    "notes":  "Convert anh: lay link anh eBay chay song song theo batch (giong cao shop) - nhanh hon nhieu lan. Them o \u0027Luong lay link\u0027 (1-8, mac dinh 4) de chinh so link xu ly cung luc. Giu dung thu tu san pham."
 }
