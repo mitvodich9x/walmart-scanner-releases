@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.51",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.51/WalmartScannerProSetup-1.0.51.exe",
-    "sha256":  "61B64DE02243526C3ECD7481B5C7BC012B43C03FCCA2F3924CC24FE1BB4C261E",
-    "notes":  "Import Excel: uu tien danh muc tu FILE. Neu danh muc file co trong Lumi API (vd Phone Case - Tough Case) thi cap nhat danh muc theo file thay vi ep ve Necklaces. Danh muc khong thuoc Lumi thi giu nguyen danh muc file + GTIN. Necklace map giu nguyen nhu cu."
+    "version":  "1.0.52",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.52/WalmartScannerProSetup-1.0.52.exe",
+    "sha256":  "63AB9EC540B4A7C78A64F626437171BE2630B0637E91A0B1F9438E328083A8BA",
+    "notes":  "Tu dong day phien lam viec len Lumi moi 5 phut (cung chu ky autosave local): chay nen khong treo UI, khong popup, ghi log ket qua. Bo qua neu chua cau hinh Lumi, khong co du lieu, hoac lan day truoc con chay."
 }
