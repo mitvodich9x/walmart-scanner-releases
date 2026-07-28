@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.57",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.57/WalmartScannerProSetup-1.0.57.exe",
-    "sha256":  "0FB62E74988137FD2CD3A9C031C30642DAEA773A8582FA31346F3B51716E2DF8",
-    "notes":  "Gui file len Lumi: mac dinh Deadline = hom nay + 2 ngay (van cho sua/xoa) thay vi de trong."
+    "version":  "1.0.58",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.58/WalmartScannerProSetup-1.0.58.exe",
+    "sha256":  "87D8A5813ADD93ECB09629D73D1BF70D10870DC70B1D0E6790ED9B4274829212",
+    "notes":  "O \u0027Dan danh sach ID/link\u0027 o Dashboard: cao co dinh cung 157px (setFixedHeight), khong con gian day het khoang trong con lai. Nhieu ID thi cuon."
 }
