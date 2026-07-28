@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.59",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.59/WalmartScannerProSetup-1.0.59.exe",
-    "sha256":  "1DDF2141B90CB988FAA7330B80B2E89A2E5EF0B9105B67E052CD3441F23FAEED",
-    "notes":  "O \u0027Dan danh sach ID/link\u0027 o Dashboard: gian full phan trong con lai cua cot (stretch=1) thay vi khoa cung. Nhieu ID thi cuon trong o."
+    "version":  "1.0.60",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.60/WalmartScannerProSetup-1.0.60.exe",
+    "sha256":  "23C1FEF6FC4B606582DF15608CE5037862C7B5B75DBFC5269048C9CDEA201A91",
+    "notes":  "Cao Shop: them xoa nhieu dong. Bang ket qua cho chon nhieu dong (Ctrl/Shift/keo), nut \u0027Xoa nhieu (dang chon)\u0027 xoa hang loat khoi ket qua. Cap nhat Huong dan muc Cao Shop."
 }
