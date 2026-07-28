@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.55",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.55/WalmartScannerProSetup-1.0.55.exe",
-    "sha256":  "B1AF1940EF2C41659B09085C0A76D3BB2FC962242813A33A4BFADA694629B1ED",
-    "notes":  "Cap nhat trang Huong dan day du toan bo tinh nang: File Import (gui/tai), Luu phien + auto-save/auto-day Lumi 5p, Bo ID trung HJ (temp 1 ngay), So sanh gia, Tu cam, Tao Listing/HJ, Convert anh, Loc trung, Chia file CSV, Cao Shop, Competitor, VMLogin, Settings (autostart + auto-update). Icon pheu tren moi cot Dashboard."
+    "version":  "1.0.56",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.56/WalmartScannerProSetup-1.0.56.exe",
+    "sha256":  "6C3198AF659CA121E82924D97B9B1762778464F0F04BF0EC5DD8C92838B5AB99",
+    "notes":  "Broad Search input: tach checkbox \u0027Bo ID trung HJ (1 ngay)\u0027 xuong hang rieng (het bi cat chu), chia control lam 2 hang, gioi han chieu cao o nhap ID (khong keo cao het cot)."
 }
