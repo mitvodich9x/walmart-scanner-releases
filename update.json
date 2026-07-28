@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.53",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.53/WalmartScannerProSetup-1.0.53.exe",
-    "sha256":  "A4D278BB7EAA21C99B8D29517FC7267998939E38EC5A8ADDE87F0F671FA4C9EA",
-    "notes":  "Dashboard: them filter kieu Excel tren tung cot. Bam tieu de cot -\u003e popup tick chon gia tri (co o tim + Chon tat ca), danh sach gia tri thu hep theo cac cot da loc. Nut \u0027Xoa dong loc\u0027 xoa toan bo dong dang hien thi theo filter; nut \u0027Bo loc\u0027 go het. Cot da loc co dau tam giac tren tieu de."
+    "version":  "1.0.54",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.54/WalmartScannerProSetup-1.0.54.exe",
+    "sha256":  "8785CC398273A6CEBA051BA2445D5B11B89525DB0A604ACA361A08A77EBEF8AC",
+    "notes":  "Hien icon pheu tren MOI cot loc duoc cua Dashboard (xam=loc duoc, vang=dang loc) de nguoi dung biet co the bam de loc. Them muc huong dan day du kieu tour ve tinh nang loc cot vao trang Huong dan (co mo phong truc quan popup + cac nut)."
 }
