@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.60",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.60/WalmartScannerProSetup-1.0.60.exe",
-    "sha256":  "23C1FEF6FC4B606582DF15608CE5037862C7B5B75DBFC5269048C9CDEA201A91",
-    "notes":  "Cao Shop: them xoa nhieu dong. Bang ket qua cho chon nhieu dong (Ctrl/Shift/keo), nut \u0027Xoa nhieu (dang chon)\u0027 xoa hang loat khoi ket qua. Cap nhat Huong dan muc Cao Shop."
+    "version":  "1.0.61",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.61/WalmartScannerProSetup-1.0.61.exe",
+    "sha256":  "289AD47D60C253BA2068E4A2162A1D63E55069659EF422502EFBA92D76A47404",
+    "notes":  "Auto-save/day phien + Luu phien: log va thong bao hien so dong TUNG TAB (VD \u0027Broad 59, Import 7970\u0027) de biet du lieu nam o tab nao. Phien gom ca 3 tab; neu Import con du lieu cu, sang tab do bam Clear."
 }
