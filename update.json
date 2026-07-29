@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.61",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.61/WalmartScannerProSetup-1.0.61.exe",
-    "sha256":  "289AD47D60C253BA2068E4A2162A1D63E55069659EF422502EFBA92D76A47404",
-    "notes":  "Auto-save/day phien + Luu phien: log va thong bao hien so dong TUNG TAB (VD \u0027Broad 59, Import 7970\u0027) de biet du lieu nam o tab nao. Phien gom ca 3 tab; neu Import con du lieu cu, sang tab do bam Clear."
+    "version":  "1.0.62",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.62/WalmartScannerProSetup-1.0.62.exe",
+    "sha256":  "702DCC31B27723D66C1CF1F9480D214FC6703540ECD67C4540CA0B0CFF2F2592",
+    "notes":  "Import Excel / Tai file tu web: khi tab Import da co du lieu cu, hoi THAY THE (mac dinh) hay GOP - tranh cong don thanh 2x (VD 8k import vao bang con 8k cu -\u003e 16k). Chon Thay the -\u003e so dong dung bang file."
 }
