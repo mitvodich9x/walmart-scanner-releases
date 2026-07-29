@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.62",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.62/WalmartScannerProSetup-1.0.62.exe",
-    "sha256":  "702DCC31B27723D66C1CF1F9480D214FC6703540ECD67C4540CA0B0CFF2F2592",
-    "notes":  "Import Excel / Tai file tu web: khi tab Import da co du lieu cu, hoi THAY THE (mac dinh) hay GOP - tranh cong don thanh 2x (VD 8k import vao bang con 8k cu -\u003e 16k). Chon Thay the -\u003e so dong dung bang file."
+    "version":  "1.0.63",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.63/WalmartScannerProSetup-1.0.63.exe",
+    "sha256":  "392E6B3C1BDD406272A8A05551109871152706CD9C82A04DA42EBADAF53EA6FD",
+    "notes":  "Them nut \u0027Xoa tat ca\u0027 (xoa sach ca 3 tab Broad/Direct/Import + phien local) de dut diem tinh trang auto-save van bao so dong du bang dang xem trong (du lieu an o tab khac). Nut \u0027Clear\u0027 cu chi xoa tab hien tai."
 }
