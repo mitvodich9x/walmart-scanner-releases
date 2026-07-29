@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.63",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.63/WalmartScannerProSetup-1.0.63.exe",
-    "sha256":  "392E6B3C1BDD406272A8A05551109871152706CD9C82A04DA42EBADAF53EA6FD",
-    "notes":  "Them nut \u0027Xoa tat ca\u0027 (xoa sach ca 3 tab Broad/Direct/Import + phien local) de dut diem tinh trang auto-save van bao so dong du bang dang xem trong (du lieu an o tab khac). Nut \u0027Clear\u0027 cu chi xoa tab hien tai."
+    "version":  "1.0.64",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.64/WalmartScannerProSetup-1.0.64.exe",
+    "sha256":  "A8494F8CCF8CF1CA787499296983593B8CB09898365BA638621B3057C2F80CC3",
+    "notes":  "Fix bug: chuyen tab (Broad/Direct/Import) khong ve lai bang -\u003e tab co du lieu (VD sau khoi phuc phien chi render tab Broad) hien trong du table_data van co (auto-save bao so dong ma bang trong). Nay chuyen tab se render lai bang cua tab do."
 }
