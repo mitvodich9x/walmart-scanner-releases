@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.68",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.68/WalmartScannerProSetup-1.0.68.exe",
-    "sha256":  "511860F192739D3797858D8CEA6725B5A055142D10A0650FDCA02DE4FE5F2E97",
-    "notes":  "Gui file import: bootstrap loi khong lam chet form (van mo form gui). Neu upload khong nhan duoc ID thi bao canh bao ro kem phan hoi may chu (khong bao \u0027thanh cong\u0027 gia voi ID/Rows rong). Da verify upload that chay dung (tra ve id + so dong)."
+    "version":  "1.0.69",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.69/WalmartScannerProSetup-1.0.69.exe",
+    "sha256":  "6A8B059C3C61FD48BE1D4FD91A5ED2F4B37808AD91795EA333C2C0A9E508A22E",
+    "notes":  "Gui file import tu tab Import: ep dung tab cua nut truoc khi gui -\u003e doc dung du lieu tab Import (hien prompt \u0027Gui du lieu bang hien tai?\u0027) thay vi doc nham tab rong roi roi vao chon file/loi. Kem: bootstrap loi khong lam chet form; upload khong nhan ID thi bao canh bao ro (khong bao thanh cong gia)."
 }
