@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.65",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.65/WalmartScannerProSetup-1.0.65.exe",
-    "sha256":  "D9712B3609E6DC1A12FCEEE62544E4A60BC08E6192DB642A6C1A6D8570D80CA9",
-    "notes":  "Convert anh: (1) ho tro link PicClick (tu lay eBay item id -\u003e anh goc). (2) Che do \u0027Chi lay LINK GOC\u0027 (mac dinh bat): xuat thang i.ebayimg.com, khong convert/upload - eBay khong chan CDN cua ho, ne viec iili.io bi chan. (3) Them CDN thay the: catbox.moe (files.catbox.moe, khong can key) + imgbb (i.ibb.co) ngoai freeimage."
+    "version":  "1.0.66",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.66/WalmartScannerProSetup-1.0.66.exe",
+    "sha256":  "CB07BEEEC5E39126E3F183FBDE1B8446492F2CE556BACECA932ED49E23756385",
+    "notes":  "Convert anh: (1) CHINH SUA ANH cho khac anh goc eBay (cat mep + resize + jitter + nhieu) - moi anh unique, nhin y het, tranh eBay nhan dien trung. Mac dinh BAT. (2) Ho tro link PicClick. (3) CDN imgbb (i.ibb.co) khuyen dung + luu key khoi nhap lai; catbox/freeimage la lua chon khac. Doi default: \u0027link goc\u0027 TAT, \u0027chinh sua anh\u0027 BAT."
 }
