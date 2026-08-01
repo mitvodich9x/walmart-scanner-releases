@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.75",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.75/WalmartScannerProSetup-1.0.75.exe",
-    "sha256":  "9D4C03AF8A61F3C776DB1873212763CCF50D583FEB6D6EE725BB16E34A5F751F",
-    "notes":  "Chuan hoa size phonecase khi cao GTIN: size dang for iPhone 13, iPhone 13 Mini 5.4 inch, iPhone 12 Pro Max 6.7 inch tu dong ve size chuan Lumi. Sua loi khop nham Pro/ProMax/Plus vao model goc bang cach chon size dai nhat. Khong anh huong apparel/necklace."
+    "version":  "1.0.76",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.76/WalmartScannerProSetup-1.0.76.exe",
+    "sha256":  "29357DD1347F37BC1DDA80098F830F54F2BAF53D283DECFA4530F8FD311E65B2",
+    "notes":  "Them action \u0027Chuan hoa size\u0027 (canh So sanh gia): doi size cao duoc cua tat ca dong ve size chuan danh muc - dung sua file cu da cao GTIN. Gom: fix cot Size doc dung combo Type/Danh muc; fix khop size Pro/ProMax/Plus/Mini/Ultra cho phonecase."
 }
