@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.71",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.71/WalmartScannerProSetup-1.0.71.exe",
-    "sha256":  "7F4ECEB7E8BD4B0B2C9A6F74EBF631DE04720FE5BF43EC567EBA0D12C16A2792",
-    "notes":  "Broad Search: 5 luong DUNG CHUNG 1 token Marketplace (xin token 1 lan) thay vi moi luong tu xin -\u003e het loi Auth Failed 401 hang loat do Walmart rate-limit token khi 5 request cung luc. Them khoa double-check trong get_access_token. Da verify: 5 luong dong thoi chi goi token 1 lan, lay duoc du lieu."
+    "version":  "1.0.72",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.72/WalmartScannerProSetup-1.0.72.exe",
+    "sha256":  "DD8B2BE5E1EB0ACDA7E9BF0841EA50003595C74FAFC4DB5C7498AE675DD41B12",
+    "notes":  "Broad Search: doc du lieu san pham tu __NEXT_DATA__ (trang da tai) ngay ca khi SP khong co bien the -\u003e lay duoc title/gia/anh/gtin du Marketplace API loi 401 va ItemByIdBtf 418. Truoc day SP khong bien the tra rong -\u003e 0 items. Nay browser-only mode co du lieu that."
 }
