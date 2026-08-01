@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.74",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.74/WalmartScannerProSetup-1.0.74.exe",
-    "sha256":  "5BC886DACD577A660B77A3437421F799EF7AE8D394BFDDCDEDAC142FE603F0AD",
-    "notes":  "Bang Broad Search: cot Size gio lay dung size theo danh muc dang chon. Loi cu: doc danh muc qua item.text() cua o combobox (rong) -\u003e tra tat ca size. Nay doc gia tri tu combobox (Type col6 / Danh muc col7) -\u003e Size chi hien size cua danh muc do (VD Phone Case -\u003e iPhone/Samsung)."
+    "version":  "1.0.75",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.75/WalmartScannerProSetup-1.0.75.exe",
+    "sha256":  "9D4C03AF8A61F3C776DB1873212763CCF50D583FEB6D6EE725BB16E34A5F751F",
+    "notes":  "Chuan hoa size phonecase khi cao GTIN: size dang for iPhone 13, iPhone 13 Mini 5.4 inch, iPhone 12 Pro Max 6.7 inch tu dong ve size chuan Lumi. Sua loi khop nham Pro/ProMax/Plus vao model goc bang cach chon size dai nhat. Khong anh huong apparel/necklace."
 }
