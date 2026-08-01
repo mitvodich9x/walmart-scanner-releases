@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.77",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.77/WalmartScannerProSetup-1.0.77.exe",
-    "sha256":  "1E02D139212209018F6C1E3FE1E02B90DFD1B0665B14CA970E8D9129600B6FAA",
-    "notes":  "Retry missing GTIN: item luu literal \u0027k co Gtin\u0027 (tu file cu/export) truoc day bi coi nham la da co GTIN nen Retry bao \u0027da du\u0027 va bo qua. Nay coi gtin rong / \u0027k co Gtin\u0027 / khong phai day so deu la THIEU -\u003e Retry cao lai dung. Ap dung ca tab Broad Search lan Import."
+    "version":  "1.0.78",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.78/WalmartScannerProSetup-1.0.78.exe",
+    "sha256":  "21528911007A2D5253BA030C1611EE60A015F1DFFC8C326FD00F63455B6BB4C0",
+    "notes":  "Fix mo tool bi giat lag: truoc day load danh muc Lumi (endpoint product-catalog cham ~20s) chay DONG BO trong __init__ -\u003e UI treo ~20s moi lan mo. Nay load o LUONG NEN -\u003e UI hien ngay, combo Type/Danh muc tu cap nhat khi tai xong."
 }
