@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.73",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.73/WalmartScannerProSetup-1.0.73.exe",
-    "sha256":  "D6EAD2B84E7FBB05801277B62D9D75C02BBA4398A0483A00B85A414A493E3163",
-    "notes":  "Fill cot: \u0027Dien tat ca\u0027 gio ton trong CA lang loc danh muc lan loc cot (Excel) - chi dien cac dong dang trong bo loc, khong dung dong bi an. Truoc day chi ap loc danh muc, bo qua loc cot."
+    "version":  "1.0.74",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.74/WalmartScannerProSetup-1.0.74.exe",
+    "sha256":  "5BC886DACD577A660B77A3437421F799EF7AE8D394BFDDCDEDAC142FE603F0AD",
+    "notes":  "Bang Broad Search: cot Size gio lay dung size theo danh muc dang chon. Loi cu: doc danh muc qua item.text() cua o combobox (rong) -\u003e tra tat ca size. Nay doc gia tri tu combobox (Type col6 / Danh muc col7) -\u003e Size chi hien size cua danh muc do (VD Phone Case -\u003e iPhone/Samsung)."
 }
