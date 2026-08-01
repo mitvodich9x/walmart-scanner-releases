@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.70",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.70/WalmartScannerProSetup-1.0.70.exe",
-    "sha256":  "AED66C6B7034A6194FAEE0D3C7B8C42BE8BB015BE2E38813D941FD9848BE6CA5",
-    "notes":  "Broad Search: chong cascade \u0027Auth Failed (401)\u0027. Walmart token endpoint doi khi tra 401/429/5xx tam thoi (rate-limit) du credentials dung -\u003e truoc day lan dau fail thi ca batch fail theo. Nay retry token co backoff (3s/6s/9s, 4 lan) de phuc hoi trong phien. Da verify token + get_item_by_id chay tot."
+    "version":  "1.0.71",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.71/WalmartScannerProSetup-1.0.71.exe",
+    "sha256":  "7F4ECEB7E8BD4B0B2C9A6F74EBF631DE04720FE5BF43EC567EBA0D12C16A2792",
+    "notes":  "Broad Search: 5 luong DUNG CHUNG 1 token Marketplace (xin token 1 lan) thay vi moi luong tu xin -\u003e het loi Auth Failed 401 hang loat do Walmart rate-limit token khi 5 request cung luc. Them khoa double-check trong get_access_token. Da verify: 5 luong dong thoi chi goi token 1 lan, lay duoc du lieu."
 }
