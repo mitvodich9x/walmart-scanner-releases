@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.78",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.78/WalmartScannerProSetup-1.0.78.exe",
-    "sha256":  "21528911007A2D5253BA030C1611EE60A015F1DFFC8C326FD00F63455B6BB4C0",
-    "notes":  "Fix mo tool bi giat lag: truoc day load danh muc Lumi (endpoint product-catalog cham ~20s) chay DONG BO trong __init__ -\u003e UI treo ~20s moi lan mo. Nay load o LUONG NEN -\u003e UI hien ngay, combo Type/Danh muc tu cap nhat khi tai xong."
+    "version":  "1.0.79",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.79/WalmartScannerProSetup-1.0.79.exe",
+    "sha256":  "B76C4556A5E8E205291EBC44DD199661D963EB889D33F125FBB37CD1539583B7",
+    "notes":  "Them tinh nang \u0027Loc SKU loi\u0027 vao sidebar: xoa cac dong co SKU loi khoi file up (Repricer/Inventory). Import hoac dan danh sach SKU loi; them nhieu file XLSX/CSV hoac dan CSV; tu do cot SKU, giu nguyen cau truc file template Walmart, luu ban sach duoi _cleaned."
 }
