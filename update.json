@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.79",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.79/WalmartScannerProSetup-1.0.79.exe",
-    "sha256":  "B76C4556A5E8E205291EBC44DD199661D963EB889D33F125FBB37CD1539583B7",
-    "notes":  "Them tinh nang \u0027Loc SKU loi\u0027 vao sidebar: xoa cac dong co SKU loi khoi file up (Repricer/Inventory). Import hoac dan danh sach SKU loi; them nhieu file XLSX/CSV hoac dan CSV; tu do cot SKU, giu nguyen cau truc file template Walmart, luu ban sach duoi _cleaned."
+    "version":  "1.0.80",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.80/WalmartScannerProSetup-1.0.80.exe",
+    "sha256":  "B6174BE309A89394A187D5EA443BD39512512A060B14A9A92209FEEE16AF698A",
+    "notes":  "Fix Loc SKU loi lam hong file template Walmart: openpyxl khi save BO sharedStrings.xml + doi styles -\u003e Walmart bao \u0027SKU required\u0027 + header hien thi loi. Nay xoa dong bang phau thuat XML truc tiep tren zip: giu nguyen sharedStrings/styles/sheet an/merged cells, chi bo \u003crow\u003e khop SKU + danh so dong lai. File cleaned up len Walmart chay dung."
 }
