@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.82",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.82/WalmartScannerProSetup-1.0.82.exe",
-    "sha256":  "E9643529ED9421E159B05B6690D3404FAA954C89F6C4BA6ACB93601A7EE048E7",
-    "notes":  "Walmart Scanner Pro 1.0.82 release."
+    "version":  "1.0.83",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.83/WalmartScannerProSetup-1.0.83.exe",
+    "sha256":  "358925DC83B46E6DD015C64E79802EF7B2A46F1D613EBF8CB0309996A39688D3",
+    "notes":  "Walmart Scanner Pro 1.0.83 release."
 }
