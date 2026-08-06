@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.81",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.81/WalmartScannerProSetup-1.0.81.exe",
-    "sha256":  "F989364CCAB0DF498A1494FD2E57F59497612E8B6E454065B58ECE9E95EAEC9D",
-    "notes":  "Fix mo file cleaned bi Excel doi recover: ban truoc dung ElementTree serialize lam doi namespace prefix (r: -\u003e ns2:, mc: -\u003e ns1:) + bo standalone -\u003e file hong. Nay chi dung ET de DOC, con SUA bang string/regex -\u003e giu nguyen 100% XML goc, chi xoa \u003crow\u003e khop SKU + danh so lai. Verify head XML giong nguyen goc."
+    "version":  "1.0.82",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.82/WalmartScannerProSetup-1.0.82.exe",
+    "sha256":  "E9643529ED9421E159B05B6690D3404FAA954C89F6C4BA6ACB93601A7EE048E7",
+    "notes":  "Walmart Scanner Pro 1.0.82 release."
 }
