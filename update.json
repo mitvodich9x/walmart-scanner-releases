@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.84",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.84/WalmartScannerProSetup-1.0.84.exe",
-    "sha256":  "11C67CB737F0387DA7ECD04EAAA9419E3EA8BA93AF83F3AEFF89D6F382132B5C",
-    "notes":  "Chia tool thanh 2 group Walmart/eBay. Nhom eBay chi hien voi key duoc cap quyen."
+    "version":  "1.0.85",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.85/WalmartScannerProSetup-1.0.85.exe",
+    "sha256":  "E9211A51AC46593B4D1F1F00354CB56A387AEC83255A1B1466770D8A66343C44",
+    "notes":  "Sua loi khong mo duoc app sau khi cap nhat (pytz). Ban cai nay xoa sach thu vien ban cu truoc khi cai."
 }
