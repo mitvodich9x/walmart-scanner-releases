@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.86",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.86/WalmartScannerProSetup-1.0.86.exe",
-    "sha256":  "B4D291A9CCEDB5B01FDF9E777FB68CAA58016F449C1D2C7C22924A1406C74F8A",
-    "notes":  "Sua loi Tai file tu web khong doc duoc CSV co dau ngoac kep trong tieu de san pham."
+    "version":  "1.0.87",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.87/WalmartScannerProSetup-1.0.87.exe",
+    "sha256":  "C7B97E6DB9B31774DA94FD8026370097C18D281FF29CB92909F81C776BF0B09E",
+    "notes":  "Sua loi khong mo duoc app (thieu thu vien PIL). Bat buoc cai de ban nay."
 }
