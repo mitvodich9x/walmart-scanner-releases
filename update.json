@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.87",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.87/WalmartScannerProSetup-1.0.87.exe",
-    "sha256":  "C7B97E6DB9B31774DA94FD8026370097C18D281FF29CB92909F81C776BF0B09E",
-    "notes":  "Sua loi khong mo duoc app (thieu thu vien PIL). Bat buoc cai de ban nay."
+    "version":  "1.0.88",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.88/WalmartScannerProSetup-1.0.88.exe",
+    "sha256":  "F437B609CB5DD8993F846BFE99E7750BCF88282AF3673768CC4C9DF35D25EB3B",
+    "notes":  "Convert anh: lay them tieu de, mo ta, lua chon va toan bo link tu 1 link eBay. Them lua chon CDN Lumi."
 }
