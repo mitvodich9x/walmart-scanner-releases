@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.88",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.88/WalmartScannerProSetup-1.0.88.exe",
-    "sha256":  "F437B609CB5DD8993F846BFE99E7750BCF88282AF3673768CC4C9DF35D25EB3B",
-    "notes":  "Convert anh: lay them tieu de, mo ta, lua chon va toan bo link tu 1 link eBay. Them lua chon CDN Lumi."
+    "version":  "1.0.89",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.89/WalmartScannerProSetup-1.0.89.exe",
+    "sha256":  "3755FAA3B92D786CE82A060198E0C8552A9177AE3DD7EE856EBF4B80879D37F3",
+    "notes":  "Thêm trang \u0027Cào đa site\u0027: cào tiêu đề/giá/mô tả/toàn bộ ảnh từ 9 site US (Staples, Williams-Sonoma, Victoria\u0027s Secret, Revolve, Danner, Vionic, Bando, OGL Move, BestBuy), xuất Excel/TSV, đẩy ảnh sang Convert ảnh. Kèm nhiều sửa lỗi ổn định."
 }
