@@ -1,6 +1,6 @@
 {
-    "version": "1.0.90",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.90/WalmartScannerProSetup-1.0.90.exe",
-    "sha256": "D7955290B23D3F6B76B1C0DF5B77479EA81A3428D91CFA2C4D57EA8E8A96D42B",
-    "notes": "Phân quyền nhóm eBay theo TÀI KHOẢN LUMI (không còn theo license key): quyền lấy từ cờ can_access_walmart / can_access_ebay của tài khoản đang đăng nhập ở Settings > Lumi API; mất mạng thì dùng quyền đã lưu của chính tài khoản đó. Mục Lumi API tự điền sẵn địa chỉ https://lumi.vgplay.vn — chỉ cần dán Token."
+    "version":  "1.0.91",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.91/WalmartScannerProSetup-1.0.91.exe",
+    "sha256":  "C45C856F304994CAEB1C77A06D42DE2C45DF50CA650B79FF3CDA1036699888DE",
+    "notes":  "Cao da site - Vionic day du bien the + Bang eBay + listing nhap\n\n- Vionic: lay du tat ca mau, size (con/het), variant width, ma tran ton kho,\n  Details, Fit \u0026 Care, anh fit guide va gallery ca 3 mau (30 anh). Doc thang\n  jsonConfig nen khong phai cho trang render xong.\n- Loc thong tin lien he: dong nao chua website/email/SDT bi xoa khoi mo ta.\n- Nut \"Bang eBay\": bien tap tieu de/mo ta/gia goc/% gia list (mac dinh 7%),\n  bo sung tay link anh con thieu, chinh variant va them dong tuy y,\n  Note + Link web tuong tu.\n- Convert anh -\u003e CDN (mac dinh Lumi img.vgplay.vn): site chan hotlink thi tai\n  anh qua tab trinh duyet dang mo. Xong tu luu bang tam tren Lumi.\n- Nut \"Tao listing nhap\": sinh SKU theo cai dat, gia cai dat, variant chi to hop\n  con hang, day len bang listing nhap de nhom /ebay dung tiep.\n- Excel them cot: Mau, Size con/het, Variant, Ton kho theo mau, Details,\n  Fit \u0026 Care, Anh fit guide."
 }
