@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.90",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.90/WalmartScannerProSetup-1.0.90.exe",
-    "sha256":  "D7955290B23D3F6B76B1C0DF5B77479EA81A3428D91CFA2C4D57EA8E8A96D42B",
-    "notes":  "Phan quyen nhom eBay theo tai khoan Lumi (khong con theo license key): quyen lay tu cac co can_access_walmart/can_access_ebay cua tai khoan dang dang nhap o Settings \u003e Lumi API; mat mang thi dung quyen da luu cua chinh tai khoan do. Muc Lumi API tu dien san dia chi https://lumi.vgplay.vn - chi can dan Token."
+    "version": "1.0.90",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.90/WalmartScannerProSetup-1.0.90.exe",
+    "sha256": "D7955290B23D3F6B76B1C0DF5B77479EA81A3428D91CFA2C4D57EA8E8A96D42B",
+    "notes": "Phân quyền nhóm eBay theo TÀI KHOẢN LUMI (không còn theo license key): quyền lấy từ cờ can_access_walmart / can_access_ebay của tài khoản đang đăng nhập ở Settings > Lumi API; mất mạng thì dùng quyền đã lưu của chính tài khoản đó. Mục Lumi API tự điền sẵn địa chỉ https://lumi.vgplay.vn — chỉ cần dán Token."
 }
