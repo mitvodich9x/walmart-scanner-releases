@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.91",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.91/WalmartScannerProSetup-1.0.91.exe",
-    "sha256":  "C45C856F304994CAEB1C77A06D42DE2C45DF50CA650B79FF3CDA1036699888DE",
-    "notes":  "Cao da site - Vionic day du bien the + Bang eBay + listing nhap\n\n- Vionic: lay du tat ca mau, size (con/het), variant width, ma tran ton kho,\n  Details, Fit \u0026 Care, anh fit guide va gallery ca 3 mau (30 anh). Doc thang\n  jsonConfig nen khong phai cho trang render xong.\n- Loc thong tin lien he: dong nao chua website/email/SDT bi xoa khoi mo ta.\n- Nut \"Bang eBay\": bien tap tieu de/mo ta/gia goc/% gia list (mac dinh 7%),\n  bo sung tay link anh con thieu, chinh variant va them dong tuy y,\n  Note + Link web tuong tu.\n- Convert anh -\u003e CDN (mac dinh Lumi img.vgplay.vn): site chan hotlink thi tai\n  anh qua tab trinh duyet dang mo. Xong tu luu bang tam tren Lumi.\n- Nut \"Tao listing nhap\": sinh SKU theo cai dat, gia cai dat, variant chi to hop\n  con hang, day len bang listing nhap de nhom /ebay dung tiep.\n- Excel them cot: Mau, Size con/het, Variant, Ton kho theo mau, Details,\n  Fit \u0026 Care, Anh fit guide."
+    "version":  "1.0.92",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.92/WalmartScannerProSetup-1.0.92.exe",
+    "sha256":  "A55536A5728E84ADD55C03E1F7A185551C38BD957BF2FCF0159C8C4849B773D8",
+    "notes":  "Trang Tao Listing them 2 cot Nhom va Style theo form moi cua Lumi (che do Group): cac dong cung Nhom gop thanh 1 listing Walmart, moi Style la 1 mau trong listing do - khong duoc trung Style trong cung 1 Nhom, chi dung cho necklace/bracelet/phonecase/suncatcher, listing thuong de trong ca 2 cot. Sua loi file Gui file sang web bi mat toan bo cot mau khi web doc file."
 }
