@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.96",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.96/WalmartScannerProSetup-1.0.96.exe",
-    "sha256":  "8C651C447EF20F9E2DE802F3B4B9748C12EB03168996748344C51BE5607684B5",
-    "notes":  "Cai thien thao tac bang. Them o vuong tick chon dong o cac bang Broad/Direct/Import, Tao Listing, Tao HJ va Cao shop - tick roi xoa hoac ap gia tri hang loat, tick khong mat khi doi trang. Bang Tao Listing: an/hien cot, chuyen Loai SP len truoc Danh muc va loc Danh muc theo Loai SP, them cot xem anh cho 5 link anh. Cai dat \u003e Hien thi bang: chinh chieu cao hang cho tat ca bang, anh to theo chieu cao. Bang Cao shop cho sua truc tiep Tieu de va Gia."
+    "version":  "1.0.97",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.97/WalmartScannerProSetup-1.0.97.exe",
+    "sha256":  "86FD07011200175F488A6B19763519AFE0C01EDE0568C7966C3D4F5220D1605C",
+    "notes":  "Cot Size chi hien size cua danh muc dang chon, khong con do het 343 size cua moi danh muc. Bang Tao Listing: don cac cot xem anh len dau bang. Chuot phai tieu de cot o bat ky bang nao deu an/hien duoc cot, va luu duoc bo hien thi dat ten de doi nhanh. Bang Tao Listing va Tao HJ khong con phai cuon xuong moi thay thanh cuon ngang."
 }
