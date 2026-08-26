@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.97",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.97/WalmartScannerProSetup-1.0.97.exe",
-    "sha256":  "86FD07011200175F488A6B19763519AFE0C01EDE0568C7966C3D4F5220D1605C",
-    "notes":  "Cot Size chi hien size cua danh muc dang chon, khong con do het 343 size cua moi danh muc. Bang Tao Listing: don cac cot xem anh len dau bang. Chuot phai tieu de cot o bat ky bang nao deu an/hien duoc cot, va luu duoc bo hien thi dat ten de doi nhanh. Bang Tao Listing va Tao HJ khong con phai cuon xuong moi thay thanh cuon ngang."
+    "version":  "1.0.98",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.98/WalmartScannerProSetup-1.0.98.exe",
+    "sha256":  "A08A86BCC610EE0E1D265A86EF745414D8D3B55D3B617EC6F3A78207E72F2C9F",
+    "notes":  "Sua loi phai cuon xuong moi thay footer va thanh cuon ngang o bang Tao Listing. Nguyen nhan: vung cuon boc ca khu noi dung nen moi trang deu bi keo cao theo trang cao nhat (trang Cai dat). Gio moi trang co vung cuon rieng - trang nao ngan thi khong con cuon thua. Cac trang Dashboard, Cao shop, Tao HJ, Cao da site cung het cuon thua."
 }
