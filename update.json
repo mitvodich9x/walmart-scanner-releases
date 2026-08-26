@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.98",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.98/WalmartScannerProSetup-1.0.98.exe",
-    "sha256":  "A08A86BCC610EE0E1D265A86EF745414D8D3B55D3B617EC6F3A78207E72F2C9F",
-    "notes":  "Sua loi phai cuon xuong moi thay footer va thanh cuon ngang o bang Tao Listing. Nguyen nhan: vung cuon boc ca khu noi dung nen moi trang deu bi keo cao theo trang cao nhat (trang Cai dat). Gio moi trang co vung cuon rieng - trang nao ngan thi khong con cuon thua. Cac trang Dashboard, Cao shop, Tao HJ, Cao da site cung het cuon thua."
+    "version":  "1.0.99",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.99/WalmartScannerProSetup-1.0.99.exe",
+    "sha256":  "2DF07A5E9939B3E7D964BB871EF247B93BCABAC149AA0C9EC2DE22CFA7FC425D",
+    "notes":  "Phan an/hien cot gio la mot form co nut Dong: tick bao nhieu cot cung duoc ma form khong tu dong giua chung nhu truoc. Trong form co san nut Hien tat ca cot, nut An cot link anh (bang Tao Listing), va hang Bo hien thi de luu / dung / xoa cac bo cot dat ten. Dung chung cho tat ca cac bang - mo bang cach chuot phai vao tieu de cot."
 }
