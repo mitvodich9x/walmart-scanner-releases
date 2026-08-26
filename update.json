@@ -1,6 +1,6 @@
 {
-    "version": "1.0.93",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.93/WalmartScannerProSetup-1.0.93.exe",
-    "sha256": "8B91F080287EBAC35A5EBEB69BDCD9DC4B07F35124F95B11A7668EDC04202AD1",
-    "notes": "Trang Cào đa site có 4 thứ mới:\n• Proxy: dán proxy US vào ô Proxy (IP:cổng, IP:cổng:user:mật khẩu, http://user:pass@IP:cổng, socks5://IP:cổng) — bấm Kiểm tra proxy để xem proxy còn sống và ra IP nước nào, hoặc Mở Chrome với proxy để tool mở sẵn một cửa sổ Chrome riêng đã cắm proxy đó, không cần VMLogin. Proxy có mật khẩu vẫn dùng được.\n• Bảng eBay: thêm bảng Variant chi tiết — dòng đầu là variant chính, các dòng sau là từng variant con (Màu luôn ở đầu, Size luôn ở cuối, width/length gộp theo màu).\n• Link CDN sau convert hiện thành bảng, mỗi hàng 1 link, double-click 1 hàng để copy.\n• Kiểm tra hàng: mở danh sách sản phẩm đã lưu trên Lumi, mỗi ngày bấm 1 lần để xem sản phẩm nào còn hàng, hết hàng hay còn một phần; kết quả lưu lên Lumi nên máy khác cũng thấy. Bảng kết quả cào và file Excel thêm cột Hàng."
+    "version":  "1.0.94",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.94/WalmartScannerProSetup-1.0.94.exe",
+    "sha256":  "0049DC921CF92C7B531F7F0C03E8FBEF14409740D97DFE71C277A8309EB2ABC6",
+    "notes":  "Extension Chrome Cao da site (dung tren may khong cai tool) gio cao them size, mau va tinh trang con-het hang: bang ket qua co 2 cot Size va Hang, nut Copy size con hang, file TSV/CSV them cot Hang va day du Mau/Size/Size con/Size het/Variant/Ton kho theo mau. Trong app, muc Huong dan chi ro thu muc va file zip extension de copy sang may khac."
 }
