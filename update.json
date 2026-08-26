@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.94",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.94/WalmartScannerProSetup-1.0.94.exe",
-    "sha256":  "0049DC921CF92C7B531F7F0C03E8FBEF14409740D97DFE71C277A8309EB2ABC6",
-    "notes":  "Extension Chrome Cao da site (dung tren may khong cai tool) gio cao them size, mau va tinh trang con-het hang: bang ket qua co 2 cot Size va Hang, nut Copy size con hang, file TSV/CSV them cot Hang va day du Mau/Size/Size con/Size het/Variant/Ton kho theo mau. Trong app, muc Huong dan chi ro thu muc va file zip extension de copy sang may khac."
+    "version": "1.0.94",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.94/WalmartScannerProSetup-1.0.94.exe",
+    "sha256": "0049DC921CF92C7B531F7F0C03E8FBEF14409740D97DFE71C277A8309EB2ABC6",
+    "notes": "Extension Chrome \"Cào đa site\" (dùng trên máy không cài tool) giờ cào thêm size, màu và tình trạng còn/hết hàng:\n• Bảng kết quả có 2 cột mới — Size (size còn hàng, di chuột xem đủ màu/size/variant/tồn kho theo màu) và Hàng (còn hàng · hết hàng · còn một phần · không rõ · lỗi).\n• Nút \"Copy size còn hàng\": 3 cột Tiêu đề / Size còn / Size hết, dán thẳng vào Excel.\n• File TSV/CSV thêm cột Hàng; link nào có dữ liệu biến thể thì có đủ Màu, Size, Size còn, Size hết, Variant, Tồn kho theo màu, Details, Fit & Care, Ảnh fit guide — đúng bố cục cột của bản cài đặt.\nTải file cao-da-site-extension.zip ngay dưới đây, giải nén rồi vào Chrome → chrome://extensions → bật Developer mode → Load unpacked → chọn thư mục. Copy sang bao nhiêu máy cũng được, không cần cài tool.\nTrong app: mục Hướng dẫn đã ghi rõ chỗ lấy extension."
 }
