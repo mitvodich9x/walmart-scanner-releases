@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.6",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.6/WalmartScannerProSetup-1.1.6.exe",
-    "sha256":  "998F6FFC87D99FF0FBEF36B0F13204E8B1A9889BBF35836B2384C2F67DDC98B4",
-    "notes":  "Bang ket qua trang Cao da site: cot Thao tac them nut Convert anh (convert rieng san pham do sang CDN) va nut Them anh (dan anh chup man hinh hoac chon file, tu dua len CDN) - khoi phai mo Bang eBay. Them cot Anh convert cho biet da convert may anh. Extension Chrome them nut Kiem tra cap nhat: tu bao khi co ban moi va tai zip ve giup."
+    "version": "1.1.6",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.6/WalmartScannerProSetup-1.1.6.exe",
+    "sha256": "998F6FFC87D99FF0FBEF36B0F13204E8B1A9889BBF35836B2384C2F67DDC98B4",
+    "notes": "Bảng kết quả trang Cào đa site — cột Thao tác thêm 2 nút, khỏi phải mở Bảng eBay:\n• ⚡ Convert ảnh: convert riêng sản phẩm đó sang CDN (ảnh đã convert lần trước thì dùng lại link cũ, không upload lại).\n• ➕ Thêm ảnh: dán ảnh chụp màn hình (bảng Size & Fit) hoặc chọn file ảnh — tự đưa lên CDN và nối vào cuối danh sách link.\n• Thêm cột \"Ảnh convert\" cho biết đã convert mấy ảnh; di chuột vào xem danh sách link.\nExtension Chrome: thêm nút 🔄 Kiểm tra cập nhật — tự báo khi có bản mới và tải file zip về giúp, chỉ còn giải nén đè rồi bấm Reload."
 }
