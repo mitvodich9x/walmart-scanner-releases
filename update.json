@@ -1,6 +1,6 @@
 {
-    "version": "1.1.5",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.5/WalmartScannerProSetup-1.1.5.exe",
-    "sha256": "92D4DFB0CA4669459B9D631D9A06C4AC0EDC3F048BE051AF8C64F5714DE89ECA",
-    "notes": "Bảng Size Guide tự chụp: tool tự bấm nút Size Guide trên trang, chờ bảng hiện ra (tới ~8 giây) rồi chụp đúng khung bảng — mỗi loại sản phẩm một ảnh riêng. Nhận cả bảng nằm trong iframe. Bấm không ra bảng thì tự mở thẳng link bảng size của sản phẩm đó rồi chụp. Ảnh này lên CDN khi bấm Convert ảnh và được nối vào cuối danh sách link (trong file Excel nằm ở hàng riêng, cột Ảnh gốc để trống)."
+    "version":  "1.1.6",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.6/WalmartScannerProSetup-1.1.6.exe",
+    "sha256":  "998F6FFC87D99FF0FBEF36B0F13204E8B1A9889BBF35836B2384C2F67DDC98B4",
+    "notes":  "Bang ket qua trang Cao da site: cot Thao tac them nut Convert anh (convert rieng san pham do sang CDN) va nut Them anh (dan anh chup man hinh hoac chon file, tu dua len CDN) - khoi phai mo Bang eBay. Them cot Anh convert cho biet da convert may anh. Extension Chrome them nut Kiem tra cap nhat: tu bao khi co ban moi va tai zip ve giup."
 }
