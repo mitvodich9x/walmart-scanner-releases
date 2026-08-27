@@ -1,6 +1,6 @@
 {
-    "version": "1.1.2",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.2/WalmartScannerProSetup-1.1.2.exe",
-    "sha256": "53FCD04E74EC7BD2EAF11A0ECA5A9AF29055463BE9BDD44FC30B0506FCBB4B9D",
-    "notes": "• Sửa mô tả Revolve bị thiếu phần Description — khối mô tả nằm ở tab riêng nên trước đây lấy lẫn sang tab \"size & fit\" và \"about the brand\".\n• Dán bảng vào Excel: ô nhiều dòng (mô tả, Size & Fit, variant, danh sách ảnh) giờ xuống dòng THẬT trong ô, không còn hiện chữ \n.\n• Không convert lại ảnh đã convert: tool nhớ cặp link gốc → link CDN trong data\\cdn_cache.json. Cào lại đúng link cũ thì dùng lại link CDN cũ, không tải và không upload lên CDN lần nữa (nhật ký ghi rõ số ảnh dùng lại). Muốn convert lại thật thì xoá file đó.\n• Extension Chrome: có bộ nhớ tương đương (bấm Xoá bảng không làm mất), và bảng xuất ra đổi sang MỖI ẢNH 1 DÒNG với 2 cột \"Ảnh gốc\" và \"Ảnh đã convert\" cạnh nhau; thêm nút Copy bảng đầy đủ / Copy bảng SP này.\nTải cao-da-site-extension.zip ngay dưới đây để cập nhật extension."
+    "version":  "1.1.3",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.3/WalmartScannerProSetup-1.1.3.exe",
+    "sha256":  "C2C4192967F10073471290116C660BF4B28B237B61EA84F0BA00D2A5F4921BEB",
+    "notes":  "File Excel va Copy Excel cua trang Cao da site gio xuat MOI ANH 1 DONG giong extension: bo cac cot Image_1..Image_N, thay bang 3 cot Anh # / Anh goc / Anh da convert nam canh nhau. Link da convert lay tu Bang eBay hoac tu bo nho cdn_cache.json nen xuat tu trang cao van co. Anh dan tay (bang Size \u0026 Fit) thanh dong rieng, khong con bi gan nham vao anh goc chua convert."
 }
