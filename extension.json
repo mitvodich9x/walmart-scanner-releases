@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.8/cao-da-site-extension.zip",
-    "notes": "Không mất kết quả cào khi nạp lại extension + nút 📐 chụp bảng Size Guide",
-    "released_at": "2026-08-27T09:39:56Z"
+    "version": "1.4.1",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.9/cao-da-site-extension.zip",
+    "notes": "Ảnh bảng Size Guide dựng từ HTML+CSS nên sạch và đủ nội dung",
+    "released_at": "2026-08-27T10:08:57Z"
 }
