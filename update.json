@@ -1,6 +1,6 @@
 {
-    "version": "1.1.6",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.6/WalmartScannerProSetup-1.1.6.exe",
-    "sha256": "998F6FFC87D99FF0FBEF36B0F13204E8B1A9889BBF35836B2384C2F67DDC98B4",
-    "notes": "Bảng kết quả trang Cào đa site — cột Thao tác thêm 2 nút, khỏi phải mở Bảng eBay:\n• ⚡ Convert ảnh: convert riêng sản phẩm đó sang CDN (ảnh đã convert lần trước thì dùng lại link cũ, không upload lại).\n• ➕ Thêm ảnh: dán ảnh chụp màn hình (bảng Size & Fit) hoặc chọn file ảnh — tự đưa lên CDN và nối vào cuối danh sách link.\n• Thêm cột \"Ảnh convert\" cho biết đã convert mấy ảnh; di chuột vào xem danh sách link.\nExtension Chrome: thêm nút 🔄 Kiểm tra cập nhật — tự báo khi có bản mới và tải file zip về giúp, chỉ còn giải nén đè rồi bấm Reload."
+    "version":  "1.1.7",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.7/WalmartScannerProSetup-1.1.7.exe",
+    "sha256":  "8CE9D55BCA57274D3136729AB3AE8C1B594044BE17452F4674FFAA294B5458B3",
+    "notes":  "Anh bang Size Guide gio nhin thay duoc: them nut 📐 o cot Thao tac de xem anh da chup va dua len CDN ngay (co nut copy link); nut ⚡ Convert cung tu day anh bang size len CDN va noi vao danh sach anh - truoc day anh chup xong chi nam trong bo nho neu khong mo Bang eBay. Cao xong co dong bao da chup duoc bang size cho bao nhieu san pham. Nhan dien hop bang size sat voi giao dien that cua Revolve."
 }
