@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.7",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.7/WalmartScannerProSetup-1.1.7.exe",
-    "sha256":  "8CE9D55BCA57274D3136729AB3AE8C1B594044BE17452F4674FFAA294B5458B3",
-    "notes":  "Anh bang Size Guide gio nhin thay duoc: them nut 📐 o cot Thao tac de xem anh da chup va dua len CDN ngay (co nut copy link); nut ⚡ Convert cung tu day anh bang size len CDN va noi vao danh sach anh - truoc day anh chup xong chi nam trong bo nho neu khong mo Bang eBay. Cao xong co dong bao da chup duoc bang size cho bao nhieu san pham. Nhan dien hop bang size sat voi giao dien that cua Revolve."
+    "version": "1.1.7",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.7/WalmartScannerProSetup-1.1.7.exe",
+    "sha256": "8CE9D55BCA57274D3136729AB3AE8C1B594044BE17452F4674FFAA294B5458B3",
+    "notes": "Ảnh bảng Size Guide giờ nhìn thấy được:\n• Thêm nút 📐 ở cột Thao tác (hiện ở dòng nào có bảng size) — bấm để xem ảnh đã chụp, trong cửa sổ xem có nút \"Đưa lên CDN & copy link\".\n• Nút ⚡ Convert cũng tự đẩy ảnh bảng size lên CDN và nối vào cuối danh sách ảnh. Trước đây ảnh chụp xong chỉ nằm trong bộ nhớ nếu không mở Bảng eBay, nên không thấy ở đâu.\n• Cào xong có dòng báo đã chụp được bảng size cho bao nhiêu sản phẩm.\n• Nhận diện hộp bảng size sát với giao diện thật của Revolve (nút Size Guide mở dialog modal__content), và bắt buộc hộp phải chứa bảng số đo mới chụp."
 }
