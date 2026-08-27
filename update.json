@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.1/WalmartScannerProSetup-1.1.1.exe",
-    "sha256":  "199DDD41D14E507EFB5ADB2EACB39C85733699D4E22EAC3A553E783BE11D43C7",
-    "notes":  "Extension Chrome Cao da site gio bien tap duoc nhu Bang eBay: bam 1 dong de sua tieu de/gia/mo ta/Size \u0026 Fit, chinh variant (co bang variant chi tiet), xem va sua link anh, convert anh sang CDN Lumi, bang link CDN moi hang 1 link, va dan anh chup man hinh de dua len CDN. Tool desktop them nut Dan anh -\u003e CDN (Ctrl+V) trong Bang eBay - dung cho bang Size \u0026 Fit khi tool khong tu chup duoc."
+    "version": "1.1.1",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.1/WalmartScannerProSetup-1.1.1.exe",
+    "sha256": "199DDD41D14E507EFB5ADB2EACB39C85733699D4E22EAC3A553E783BE11D43C7",
+    "notes": "Extension Chrome \"Cào đa site\" giờ biên tập được như Bảng eBay của bản cài đặt — bấm 1 dòng ở bảng kết quả để mở khung Chi tiết sản phẩm:\n• Sửa tiêu đề · giá gốc · % giá list (tự hiện giá list) · mô tả · Size & Fit.\n• Variant: tự điền từ link cào, thêm/xoá dòng tay, kèm bảng Variant chi tiết (dòng đầu là variant chính, các dòng sau là từng tổ hợp).\n• Link ảnh: xem/sửa/thêm link thiếu; Convert ảnh sang CDN Lumi cho 1 sản phẩm hoặc tất cả; bảng link CDN mỗi hàng 1 link, bấm 1 hàng là copy.\n• Dán ảnh chụp màn hình (nút, Ctrl+V, hoặc chọn file) — dùng cho bảng Size & Fit / Size Guide: ảnh tự lên CDN Lumi và nối vào cuối danh sách link.\n• Cấu hình CDN Lumi ngay trong panel (URL + token + nút kiểm tra đăng nhập); mọi chỉnh sửa lưu theo link nên đóng/mở lại panel vẫn còn.\nBản cài đặt: Bảng eBay thêm nút \"Dán ảnh → CDN\" (hoặc Ctrl+V) — dùng khi tool không tự chụp được bảng Size Guide.\nTải file cao-da-site-extension.zip ngay dưới đây để dùng trên máy không cài tool."
 }
