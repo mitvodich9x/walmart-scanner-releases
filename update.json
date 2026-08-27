@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.0/WalmartScannerProSetup-1.1.0.exe",
-    "sha256":  "5DD3544A852047A00AA0EC1414CDC3F6BCDD083C816C45C1159A50F531294204",
-    "notes":  "Trang Cao da site: Revolve gio cao day du nhu Vionic - ten (bo duoi \u0027in mau\u0027), gia, TAT CA mau, size con / size het (nhan biet qua preorder, size bi gach giua, va giao hang qua 4 ngay), Description day du, Size \u0026 Fit (so do nguoi mau + so do san pham) va anh bang Size Guide chup thang tu man hinh roi day len CDN khi convert anh. File Excel/TSV them 2 cot Size \u0026 Fit va Bang Size Guide; extension Chrome cung co 2 cot nay. Sua loi ghep ket qua cua 1 link bi bao NameError khi trang Shopify thieu mo ta."
+    "version": "1.1.0",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.0/WalmartScannerProSetup-1.1.0.exe",
+    "sha256": "5DD3544A852047A00AA0EC1414CDC3F6BCDD083C816C45C1159A50F531294204",
+    "notes": "Trang Cào đa site — Revolve giờ cào đầy đủ như Vionic:\n• Tên (bỏ đuôi \"in <màu>\"), giá, TẤT CẢ màu của sản phẩm.\n• Size còn / size hết — nhận biết theo đúng 3 cách: size đang preorder, size bị gạch giữa (bấm không được), và giao hàng quá 4 ngày.\n• Description đầy đủ (kèm Revolve Style No. và Manufacturer Style No.) và Size & Fit (số đo người mẫu + số đo sản phẩm).\n• Bảng View Size Guide: tool tự bấm rồi chụp lại bảng số đo; khi Convert ảnh sẽ đẩy ảnh đó lên CDN và nối vào cuối danh sách link ảnh. Có ô tích bật/tắt trên trang.\nFile Excel/TSV thêm 2 cột \"Size & Fit\" và \"Bảng Size Guide\"; extension Chrome cũng có 2 cột này.\nSửa lỗi: link Shopify thiếu mô tả bị báo lỗi khi ghép kết quả (lọt từ bản 1.0.93), và cờ còn/hết hàng trước đây không được lưu vào kết quả cào."
 }
