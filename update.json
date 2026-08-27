@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.3",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.3/WalmartScannerProSetup-1.1.3.exe",
-    "sha256":  "C2C4192967F10073471290116C660BF4B28B237B61EA84F0BA00D2A5F4921BEB",
-    "notes":  "File Excel va Copy Excel cua trang Cao da site gio xuat MOI ANH 1 DONG giong extension: bo cac cot Image_1..Image_N, thay bang 3 cot Anh # / Anh goc / Anh da convert nam canh nhau. Link da convert lay tu Bang eBay hoac tu bo nho cdn_cache.json nen xuat tu trang cao van co. Anh dan tay (bang Size \u0026 Fit) thanh dong rieng, khong con bi gan nham vao anh goc chua convert."
+    "version":  "1.1.4",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.4/WalmartScannerProSetup-1.1.4.exe",
+    "sha256":  "05D749F4DFC019F7F0F897248F4DDA18FB7705202631F000FFFD772206B8106D",
+    "notes":  "Bang xuat ra gon hon: o giong nhau chi dien 1 lan (thong tin chung cua san pham chi nam o hang dau, cac hang sau de trong), va moi dong variant chi tiet la 1 hang Excel rieng thay vi gom chung 1 o. So hang cua 1 san pham = max(so anh, so dong variant). Tool va extension dung chung bo cuc nay."
 }
