@@ -1,6 +1,6 @@
 {
-    "version": "1.4.1",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.9/cao-da-site-extension.zip",
-    "notes": "Ảnh bảng Size Guide dựng từ HTML+CSS nên sạch và đủ nội dung",
-    "released_at": "2026-08-27T10:08:57Z"
+    "version": "1.4.2",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.0/cao-da-site-extension.zip",
+    "notes": "Sửa ảnh Size Guide bị cắt mất mép trái (cắt từ góc, không theo toạ độ)",
+    "released_at": "2026-08-27T10:27:03Z"
 }
