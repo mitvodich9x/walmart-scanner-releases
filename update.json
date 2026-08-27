@@ -1,6 +1,6 @@
 {
-    "version": "1.1.7",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.7/WalmartScannerProSetup-1.1.7.exe",
-    "sha256": "8CE9D55BCA57274D3136729AB3AE8C1B594044BE17452F4674FFAA294B5458B3",
-    "notes": "Ảnh bảng Size Guide giờ nhìn thấy được:\n• Thêm nút 📐 ở cột Thao tác (hiện ở dòng nào có bảng size) — bấm để xem ảnh đã chụp, trong cửa sổ xem có nút \"Đưa lên CDN & copy link\".\n• Nút ⚡ Convert cũng tự đẩy ảnh bảng size lên CDN và nối vào cuối danh sách ảnh. Trước đây ảnh chụp xong chỉ nằm trong bộ nhớ nếu không mở Bảng eBay, nên không thấy ở đâu.\n• Cào xong có dòng báo đã chụp được bảng size cho bao nhiêu sản phẩm.\n• Nhận diện hộp bảng size sát với giao diện thật của Revolve (nút Size Guide mở dialog modal__content), và bắt buộc hộp phải chứa bảng số đo mới chụp."
+    "version":  "1.1.8",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.8/WalmartScannerProSetup-1.1.8.exe",
+    "sha256":  "646E0FB473E0F97FFB4C94F50C1F2F37F8D38C0E1EFCE4AD29AC1EB32A0FB45F",
+    "notes":  "Nut 📐 (bang Size Guide) gio LUON hien o cot Thao tac cua bang ket qua. Dong da chup duoc thi bam de xem anh va dua len CDN; dong chua chup duoc thi bam de CHUP LAI ngay rieng link do - tool mo trang, bam nut Size Guide, cho bang hien roi chup, khong phai cao lai ca danh sach. Bao loi ro tung truong hop: chua co trinh duyet, trang khong co nut Size Guide, hoac bam duoc ma khong thay bang."
 }
