@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.99",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.0.99/WalmartScannerProSetup-1.0.99.exe",
-    "sha256":  "2DF07A5E9939B3E7D964BB871EF247B93BCABAC149AA0C9EC2DE22CFA7FC425D",
-    "notes":  "Phan an/hien cot gio la mot form co nut Dong: tick bao nhieu cot cung duoc ma form khong tu dong giua chung nhu truoc. Trong form co san nut Hien tat ca cot, nut An cot link anh (bang Tao Listing), va hang Bo hien thi de luu / dung / xoa cac bo cot dat ten. Dung chung cho tat ca cac bang - mo bang cach chuot phai vao tieu de cot."
+    "version":  "1.1.0",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.0/WalmartScannerProSetup-1.1.0.exe",
+    "sha256":  "5DD3544A852047A00AA0EC1414CDC3F6BCDD083C816C45C1159A50F531294204",
+    "notes":  "Trang Cao da site: Revolve gio cao day du nhu Vionic - ten (bo duoi \u0027in mau\u0027), gia, TAT CA mau, size con / size het (nhan biet qua preorder, size bi gach giua, va giao hang qua 4 ngay), Description day du, Size \u0026 Fit (so do nguoi mau + so do san pham) va anh bang Size Guide chup thang tu man hinh roi day len CDN khi convert anh. File Excel/TSV them 2 cot Size \u0026 Fit va Bang Size Guide; extension Chrome cung co 2 cot nay. Sua loi ghep ket qua cua 1 link bi bao NameError khi trang Shopify thieu mo ta."
 }
