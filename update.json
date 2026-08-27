@@ -1,6 +1,6 @@
 {
-    "version": "1.1.9",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.9/WalmartScannerProSetup-1.1.9.exe",
-    "sha256": "E4AA8640C0A83FF3EB317148DF8C6ED82B52B6F405E561FFA727517FD9F66B89",
-    "notes": "Ảnh bảng Size Guide giờ chuẩn như trên web.\nTrước đây tool chụp thẳng màn hình nên ảnh dính lớp phủ mờ, thanh cuộn, mảng trang sản phẩm phía sau và mất phần bảng nằm ngoài màn hình.\nGiờ tool lấy nguyên HTML của bảng + toàn bộ CSS của trang, dựng lại thành một trang sạch chỉ có bảng size (nền trắng, ẩn nút đóng, bỏ thanh cuộn) rồi chụp trọn chiều cao với độ nét gấp đôi. Dựng không được thì tự lùi về cách chụp cũ.\nExtension Chrome 1.4.1 cũng làm y hệt (có thu nhỏ cho lọt màn hình vì Chrome chỉ cho extension chụp phần đang hiện)."
+    "version":  "1.2.0",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.0/WalmartScannerProSetup-1.2.0.exe",
+    "sha256":  "D1C2F44EBBB2B6E520D9A69710E4F276803D56C8A1C5E23A095D305995F3C304",
+    "notes":  "Sua anh Size Guide bi cat mep trai"
 }
