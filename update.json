@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.5",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.5/WalmartScannerProSetup-1.1.5.exe",
-    "sha256":  "92D4DFB0CA4669459B9D631D9A06C4AC0EDC3F048BE051AF8C64F5714DE89ECA",
-    "notes":  "Bang Size Guide: tool tu bam nut Size Guide tren trang, cho bang hien ra toi ~8 giay roi tu chup dung khung bang - moi loai san pham 1 anh rieng. Nhan ca bang nam trong iframe. Neu bam khong ra bang thi tu mo thang link bang size cua san pham do roi chup. Anh nay len CDN khi bam Convert anh va noi vao cuoi danh sach link."
+    "version": "1.1.5",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.5/WalmartScannerProSetup-1.1.5.exe",
+    "sha256": "92D4DFB0CA4669459B9D631D9A06C4AC0EDC3F048BE051AF8C64F5714DE89ECA",
+    "notes": "Bảng Size Guide tự chụp: tool tự bấm nút Size Guide trên trang, chờ bảng hiện ra (tới ~8 giây) rồi chụp đúng khung bảng — mỗi loại sản phẩm một ảnh riêng. Nhận cả bảng nằm trong iframe. Bấm không ra bảng thì tự mở thẳng link bảng size của sản phẩm đó rồi chụp. Ảnh này lên CDN khi bấm Convert ảnh và được nối vào cuối danh sách link (trong file Excel nằm ở hàng riêng, cột Ảnh gốc để trống)."
 }
