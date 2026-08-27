@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.1/WalmartScannerProSetup-1.1.1.exe",
-    "sha256": "199DDD41D14E507EFB5ADB2EACB39C85733699D4E22EAC3A553E783BE11D43C7",
-    "notes": "Extension Chrome \"Cào đa site\" giờ biên tập được như Bảng eBay của bản cài đặt — bấm 1 dòng ở bảng kết quả để mở khung Chi tiết sản phẩm:\n• Sửa tiêu đề · giá gốc · % giá list (tự hiện giá list) · mô tả · Size & Fit.\n• Variant: tự điền từ link cào, thêm/xoá dòng tay, kèm bảng Variant chi tiết (dòng đầu là variant chính, các dòng sau là từng tổ hợp).\n• Link ảnh: xem/sửa/thêm link thiếu; Convert ảnh sang CDN Lumi cho 1 sản phẩm hoặc tất cả; bảng link CDN mỗi hàng 1 link, bấm 1 hàng là copy.\n• Dán ảnh chụp màn hình (nút, Ctrl+V, hoặc chọn file) — dùng cho bảng Size & Fit / Size Guide: ảnh tự lên CDN Lumi và nối vào cuối danh sách link.\n• Cấu hình CDN Lumi ngay trong panel (URL + token + nút kiểm tra đăng nhập); mọi chỉnh sửa lưu theo link nên đóng/mở lại panel vẫn còn.\nBản cài đặt: Bảng eBay thêm nút \"Dán ảnh → CDN\" (hoặc Ctrl+V) — dùng khi tool không tự chụp được bảng Size Guide.\nTải file cao-da-site-extension.zip ngay dưới đây để dùng trên máy không cài tool."
+    "version":  "1.1.2",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.2/WalmartScannerProSetup-1.1.2.exe",
+    "sha256":  "53FCD04E74EC7BD2EAF11A0ECA5A9AF29055463BE9BDD44FC30B0506FCBB4B9D",
+    "notes":  "Sua mo ta Revolve bi thieu phan Description (khoi mo ta nam o tab rieng). Dan bang vao Excel: o nhieu dong (mo ta, Size \u0026 Fit, variant) gio xuong dong THAT trong o thay vi hien chu \\n. Khong convert lai anh da convert: tool nho cap link goc - link CDN o data/cdn_cache.json, cao lai dung link cu thi dung lai link CDN cu, khong upload len CDN lan nua. Extension co bo nho tuong duong va bang xuat moi anh 1 dong voi 2 cot Anh goc / Anh da convert."
 }
