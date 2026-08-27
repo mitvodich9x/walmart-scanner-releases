@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.0/WalmartScannerProSetup-1.1.0.exe",
-    "sha256": "5DD3544A852047A00AA0EC1414CDC3F6BCDD083C816C45C1159A50F531294204",
-    "notes": "Trang Cào đa site — Revolve giờ cào đầy đủ như Vionic:\n• Tên (bỏ đuôi \"in <màu>\"), giá, TẤT CẢ màu của sản phẩm.\n• Size còn / size hết — nhận biết theo đúng 3 cách: size đang preorder, size bị gạch giữa (bấm không được), và giao hàng quá 4 ngày.\n• Description đầy đủ (kèm Revolve Style No. và Manufacturer Style No.) và Size & Fit (số đo người mẫu + số đo sản phẩm).\n• Bảng View Size Guide: tool tự bấm rồi chụp lại bảng số đo; khi Convert ảnh sẽ đẩy ảnh đó lên CDN và nối vào cuối danh sách link ảnh. Có ô tích bật/tắt trên trang.\nFile Excel/TSV thêm 2 cột \"Size & Fit\" và \"Bảng Size Guide\"; extension Chrome cũng có 2 cột này.\nSửa lỗi: link Shopify thiếu mô tả bị báo lỗi khi ghép kết quả (lọt từ bản 1.0.93), và cờ còn/hết hàng trước đây không được lưu vào kết quả cào."
+    "version":  "1.1.1",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.1.1/WalmartScannerProSetup-1.1.1.exe",
+    "sha256":  "199DDD41D14E507EFB5ADB2EACB39C85733699D4E22EAC3A553E783BE11D43C7",
+    "notes":  "Extension Chrome Cao da site gio bien tap duoc nhu Bang eBay: bam 1 dong de sua tieu de/gia/mo ta/Size \u0026 Fit, chinh variant (co bang variant chi tiet), xem va sua link anh, convert anh sang CDN Lumi, bang link CDN moi hang 1 link, va dan anh chup man hinh de dua len CDN. Tool desktop them nut Dan anh -\u003e CDN (Ctrl+V) trong Bang eBay - dung cho bang Size \u0026 Fit khi tool khong tu chup duoc."
 }
