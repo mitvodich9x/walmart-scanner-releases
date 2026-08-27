@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.0/WalmartScannerProSetup-1.2.0.exe",
-    "sha256":  "D1C2F44EBBB2B6E520D9A69710E4F276803D56C8A1C5E23A095D305995F3C304",
-    "notes":  "Sua anh Size Guide bi cat mep trai"
+    "version": "1.2.0",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.0/WalmartScannerProSetup-1.2.0.exe",
+    "sha256": "D1C2F44EBBB2B6E520D9A69710E4F276803D56C8A1C5E23A095D305995F3C304",
+    "notes": "Sửa ảnh Size Guide bị cắt mất mép trái.\nBản trước đã dựng được trang sạch nhưng ảnh vẫn mất cột \"Size\" và mấy nhãn runs small / true to size / runs large ở bên trái.\nLý do: chỗ cắt ảnh tính theo toạ độ nhân với độ nét màn hình — khi Chrome đang phóng to hay thu nhỏ trang thì tỉ lệ đó sai nên vùng cắt lệch sang phải. Không phải do panel extension chiếm chỗ trên màn hình.\nGiờ bảng size được dán sát góc trái-trên và ảnh luôn cắt từ (0,0), kích thước lấy theo phần trăm khung nhìn nên không còn phụ thuộc mức phóng to.\nExtension Chrome 1.4.2 sửa y hệt."
 }
