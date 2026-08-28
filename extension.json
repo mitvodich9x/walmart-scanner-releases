@@ -1,6 +1,6 @@
 {
-    "version": "1.4.6",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.4/cao-da-site-extension.zip",
-    "notes": "Ô tích ẩn cột \"Variant chi tiết\" khi copy bảng / tải CSV",
-    "released_at": "2026-08-28T08:17:17Z"
+    "version": "1.4.7",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.5/cao-da-site-extension.zip",
+    "notes": "Duluth chỉ lấy ảnh của màu trong link + ô tích ẩn cột Variant chi tiết",
+    "released_at": "2026-08-28T08:31:53Z"
 }
