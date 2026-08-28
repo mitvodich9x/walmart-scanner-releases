@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.1",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.1/WalmartScannerProSetup-1.2.1.exe",
-    "sha256":  "67469F1DEA4B51FE2B1CD79CDF28A2FCB302DEDF8B1CB15374569435FCAE51E6",
-    "notes":  "Them site Duluth Trading"
+    "version": "1.2.1",
+    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.1/WalmartScannerProSetup-1.2.1.exe",
+    "sha256": "67469F1DEA4B51FE2B1CD79CDF28A2FCB302DEDF8B1CB15374569435FCAE51E6",
+    "notes": "Thêm site Duluth Trading vào phần Cào đa site.\nCào được: tên, giá đúng của màu đang xem, tất cả màu, size còn / size hết, Description (3 khối Features · Fit + Sizing · Fabrication + Care) và toàn bộ link ảnh.\nTrang Duluth là app React nên mã nguồn trả về chỉ là khung rỗng — không có tên, không có nút màu, không có nút size. Tool đọc thẳng khối dữ liệu sản phẩm mà trang nhúng sẵn nên lấy đủ và nhanh, không phải chờ trang vẽ xong.\nBa chỗ dễ lấy nhầm đã xử lý: giá phải lấy của đúng màu đang xem (dữ liệu chuẩn của trang trả giá thấp nhất trong các màu), mô tả phải lấy 3 khối chứ không lấy đoạn quảng cáo, và bỏ ảnh của những màu đã ngừng bán.\nExtension Chrome 1.4.3 cào Duluth y hệt."
 }
