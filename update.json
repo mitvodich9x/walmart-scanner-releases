@@ -1,6 +1,6 @@
 {
-    "version": "1.2.4",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.4/WalmartScannerProSetup-1.2.4.exe",
-    "sha256": "4A2DC461D6B620E530AA47A4AB6AB6A4C329CDD6C09C4160E08788B27604D45B",
-    "notes": "Thêm ô tích \"Ẩn cột Variant chi tiết\".\nCó ở cả tool và extension, mặc định không tích. Tích vào thì cột đó biến mất khỏi file .xlsx, khỏi bảng copy sang Excel và khỏi file CSV của extension.\nẨn cột thì bỏ luôn mấy hàng trống sinh ra chỉ để chứa dòng variant — bảng gọn đúng bằng số ảnh.\nTiện thể chuyển cột \"Variant chi tiết\" về cuối nhóm cột biến thể cho khớp đúng thứ tự cột của extension (trước đây hai bản để lệch chỗ nhau).\nExtension Chrome 1.4.6 có ô tích y hệt."
+    "version":  "1.2.5",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.5/WalmartScannerProSetup-1.2.5.exe",
+    "sha256":  "CECD2D64A158349EFC462C882E6FF6EA4BED199743BB24B74D91AA2F8C4F9C23",
+    "notes":  "Duluth chi lay anh cua mau trong link"
 }
