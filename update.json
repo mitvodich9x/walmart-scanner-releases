@@ -1,6 +1,6 @@
 {
-    "version": "1.2.3",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.3/WalmartScannerProSetup-1.2.3.exe",
-    "sha256": "9EB4B879B07015EE6E5F9E53283EAAF7F2FB11C65DB2B12C55CA8B710E3CAC24",
-    "notes": "Biết được ảnh nào là của màu nào.\nSite bán nhiều màu trả cả loạt ảnh của mọi màu trong một danh sách, trước đây không biết ảnh nào thuộc màu nào. Giờ bảng xuất ra có thêm cột \"Màu ảnh\" đứng ngay trước cột Ảnh gốc — cả file Excel của tool lẫn bảng của extension.\nÁp dụng cho cả 3 site có nhiều màu: Vionic, Duluth Trading và Revolve. Ảnh chụp phụ dùng chung cho mọi màu và ảnh dán tay thì để trống.\nSửa kèm một lỗi phát hiện lúc rà soát: cột Details và Fit & Care trong Excel trước nay luôn trống, cột Màu và Size mất nhãn riêng của site, và nhóm variant eBay tụt về \"Color\"/\"Size\" thay vì \"Waist x Inseam\" của Duluth.\nExtension Chrome 1.4.5 có cột mới y hệt."
+    "version":  "1.2.4",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.4/WalmartScannerProSetup-1.2.4.exe",
+    "sha256":  "4A2DC461D6B620E530AA47A4AB6AB6A4C329CDD6C09C4160E08788B27604D45B",
+    "notes":  "O tich an cot Variant chi tiet"
 }
