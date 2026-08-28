@@ -1,6 +1,6 @@
 {
-    "version": "1.4.3",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.1/cao-da-site-extension.zip",
-    "notes": "Thêm site Duluth Trading (tên, giá, màu, size còn/hết, mô tả, ảnh)",
-    "released_at": "2026-08-28T04:24:01Z"
+    "version": "1.4.4",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.2/cao-da-site-extension.zip",
+    "notes": "Chụp được ảnh bảng size Duluth (đủ 16 cột, đủ chiều cao)",
+    "released_at": "2026-08-28T05:22:35Z"
 }
