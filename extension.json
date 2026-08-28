@@ -1,6 +1,6 @@
 {
-    "version": "1.4.4",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.2/cao-da-site-extension.zip",
-    "notes": "Chụp được ảnh bảng size Duluth (đủ 16 cột, đủ chiều cao)",
-    "released_at": "2026-08-28T05:22:35Z"
+    "version": "1.4.5",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.3/cao-da-site-extension.zip",
+    "notes": "Thêm cột \"Màu ảnh\" — biết ảnh nào của màu nào",
+    "released_at": "2026-08-28T05:52:12Z"
 }
