@@ -1,6 +1,6 @@
 {
-    "version": "1.2.2",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.2/WalmartScannerProSetup-1.2.2.exe",
-    "sha256": "F5C199E4FA0FF073A94A1B8225AC8043503D2A8C94A903CE3BFAD3A6819CA840",
-    "notes": "Chụp được ảnh bảng size của Duluth Trading.\nNút mở bảng và cả ngăn kéo bảng size của Duluth không có tên cố định (đổi mỗi lần hãng cập nhật web) nên tool tìm nút theo đúng chữ trên nút — \"Size Chart\" / \"Size Guide\" — rồi mới bấm.\nBảng size Duluth có 16 cột, trên web phải cuộn ngang mới thấy hết, lại còn phải cuộn xuống mới thấy phần Waist/Inseam và Pants Fit Guide. Tool tự đo bề ngang thật của bảng rồi nới khung ảnh cho vừa và chụp trọn cả chiều cao — ảnh ra đủ hết, không mất cột nào. Nút đóng (X) cũng được gỡ khỏi ảnh.\nExtension Chrome 1.4.4 làm y hệt."
+    "version":  "1.2.3",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.3/WalmartScannerProSetup-1.2.3.exe",
+    "sha256":  "9EB4B879B07015EE6E5F9E53283EAAF7F2FB11C65DB2B12C55CA8B710E3CAC24",
+    "notes":  "Cot Mau anh - biet anh nao cua mau nao"
 }
