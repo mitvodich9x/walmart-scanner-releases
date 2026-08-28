@@ -1,6 +1,6 @@
 {
-    "version": "1.4.2",
-    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.0/cao-da-site-extension.zip",
-    "notes": "Sửa ảnh Size Guide bị cắt mất mép trái (cắt từ góc, không theo toạ độ)",
-    "released_at": "2026-08-27T10:27:03Z"
+    "version": "1.4.3",
+    "zip_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.1/cao-da-site-extension.zip",
+    "notes": "Thêm site Duluth Trading (tên, giá, màu, size còn/hết, mô tả, ảnh)",
+    "released_at": "2026-08-28T04:24:01Z"
 }
