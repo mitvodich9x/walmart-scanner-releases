@@ -1,6 +1,6 @@
 {
-    "version": "1.2.5",
-    "installer_url": "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.5/WalmartScannerProSetup-1.2.5.exe",
-    "sha256": "CECD2D64A158349EFC462C882E6FF6EA4BED199743BB24B74D91AA2F8C4F9C23",
-    "notes": "Duluth chỉ lấy ảnh của đúng màu trong link, không lấy ảnh của màu khác nữa.\nTrước đây danh sách ảnh gom cả 15 màu chứ không phải đúng dãy ảnh trang đang hiện, nhìn vào tưởng ảnh bị lẫn màu. Ví dụ mã 45507 màu Brown: 19 ảnh giờ còn 5 ảnh — đúng bằng gallery trên web (1 ảnh màu Brown + 4 ảnh chụp phụ).\nĐã đối chiếu kỹ trên 3 sản phẩm nhiều màu nhiều size nhất (15 màu/358 biến thể, 11 màu/229, 6 màu/95): không có ảnh nào bị ghi sai tên màu.\nVionic thì giữ nguyên gallery của mọi màu như cũ.\nThêm ô tích \"Ẩn cột Variant chi tiết\" (bản 1.2.4) vẫn dùng bình thường.\nExtension Chrome 1.4.7 sửa y hệt."
+    "version":  "1.2.6",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.6/WalmartScannerProSetup-1.2.6.exe",
+    "sha256":  "F6B83E5962E3035D8F8D773B70F237A1DB35FE74DD3F590F874D0C44F2CB7996",
+    "notes":  "Bang xuat theo checklist eBay (21 cot) + dinh danh variant; adapter moi Talbots/Hernest/Staples/Danner/VS; extension 1.5.0"
 }
