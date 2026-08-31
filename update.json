@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.6",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.6/WalmartScannerProSetup-1.2.6.exe",
-    "sha256":  "F6B83E5962E3035D8F8D773B70F237A1DB35FE74DD3F590F874D0C44F2CB7996",
-    "notes":  "Bang xuat theo checklist eBay (21 cot) + dinh danh variant; adapter moi Talbots/Hernest/Staples/Danner/VS; extension 1.5.0"
+    "version":  "1.2.7",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.7/WalmartScannerProSetup-1.2.7.exe",
+    "sha256":  "22817B628E4AC181976618898D77B2FCDA0F92F179997032AC5B24921611E506",
+    "notes":  "Them page Cao listing: cao link Amazon (title + toan bo anh), chon 5 anh chinh, day sang Tao Listing theo group/style; hover link anh de xem anh."
 }
