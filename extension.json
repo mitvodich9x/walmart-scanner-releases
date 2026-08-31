@@ -1,6 +1,6 @@
 {
     "version":  "1.5.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.8/cao-da-site-extension.zip",
-    "notes":  "Sua loi Cao listing: dan link tu Excel co cot trong (nhieu TAB lien tiep) bi mat Group/Style.",
-    "released_at":  "2026-08-31T13:42:13Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.9/cao-da-site-extension.zip",
+    "notes":  "Cao listing: kho link chong trung (link da day duoc danh dau Trung, khong cao lai; tick \u0027Cao lai link trung\u0027 de ep), tu xoa kho theo 30/60/90 ngay tuy cai dat.",
+    "released_at":  "2026-08-31T14:07:38Z"
 }
