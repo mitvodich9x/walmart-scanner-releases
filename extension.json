@@ -1,6 +1,6 @@
 {
     "version":  "1.5.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.7/cao-da-site-extension.zip",
-    "notes":  "Them page Cao listing: cao link Amazon (title + toan bo anh), chon 5 anh chinh, day sang Tao Listing theo group/style; hover link anh de xem anh.",
-    "released_at":  "2026-08-31T13:28:35Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.8/cao-da-site-extension.zip",
+    "notes":  "Sua loi Cao listing: dan link tu Excel co cot trong (nhieu TAB lien tiep) bi mat Group/Style.",
+    "released_at":  "2026-08-31T13:42:13Z"
 }
