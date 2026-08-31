@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.8",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.8/WalmartScannerProSetup-1.2.8.exe",
-    "sha256":  "C2E1593948CCFB19215D6C4BBD89777B631C2D00DF0F7460C7E861F82BEA8C51",
-    "notes":  "Sua loi Cao listing: dan link tu Excel co cot trong (nhieu TAB lien tiep) bi mat Group/Style."
+    "version":  "1.2.9",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.9/WalmartScannerProSetup-1.2.9.exe",
+    "sha256":  "15BBBFB254B095FA69BA8501F25D3FF6C622E9974C8E9C2D9D743FF848E9D89A",
+    "notes":  "Cao listing: kho link chong trung (link da day duoc danh dau Trung, khong cao lai; tick \u0027Cao lai link trung\u0027 de ep), tu xoa kho theo 30/60/90 ngay tuy cai dat."
 }
