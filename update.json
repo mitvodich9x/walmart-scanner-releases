@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.7",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.7/WalmartScannerProSetup-1.2.7.exe",
-    "sha256":  "22817B628E4AC181976618898D77B2FCDA0F92F179997032AC5B24921611E506",
-    "notes":  "Them page Cao listing: cao link Amazon (title + toan bo anh), chon 5 anh chinh, day sang Tao Listing theo group/style; hover link anh de xem anh."
+    "version":  "1.2.8",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.8/WalmartScannerProSetup-1.2.8.exe",
+    "sha256":  "C2E1593948CCFB19215D6C4BBD89777B631C2D00DF0F7460C7E861F82BEA8C51",
+    "notes":  "Sua loi Cao listing: dan link tu Excel co cot trong (nhieu TAB lien tiep) bi mat Group/Style."
 }
