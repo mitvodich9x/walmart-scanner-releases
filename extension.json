@@ -1,6 +1,6 @@
 {
     "version":  "1.5.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.9/cao-da-site-extension.zip",
-    "notes":  "Cao listing: kho link chong trung (link da day duoc danh dau Trung, khong cao lai; tick \u0027Cao lai link trung\u0027 de ep), tu xoa kho theo 30/60/90 ngay tuy cai dat.",
-    "released_at":  "2026-08-31T14:07:38Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.10/cao-da-site-extension.zip",
+    "notes":  "Cao listing: kho link CHUNG tren Lumi (cac sale khong cao trung nhau, bao ro sale nao da day bao nhieu ngay truoc), tu xuat CSV link trung cho sale doi chieu. Can server Lumi da deploy bang scanner_crawl_links.",
+    "released_at":  "2026-08-31T14:20:09Z"
 }
