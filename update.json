@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.9",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.9/WalmartScannerProSetup-1.2.9.exe",
-    "sha256":  "15BBBFB254B095FA69BA8501F25D3FF6C622E9974C8E9C2D9D743FF848E9D89A",
-    "notes":  "Cao listing: kho link chong trung (link da day duoc danh dau Trung, khong cao lai; tick \u0027Cao lai link trung\u0027 de ep), tu xoa kho theo 30/60/90 ngay tuy cai dat."
+    "version":  "1.2.10",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.10/WalmartScannerProSetup-1.2.10.exe",
+    "sha256":  "0C3FA89A308E3ED9C75C7D865861DC5DF4AF485CAB41805951A1E3CD410A680D",
+    "notes":  "Cao listing: kho link CHUNG tren Lumi (cac sale khong cao trung nhau, bao ro sale nao da day bao nhieu ngay truoc), tu xuat CSV link trung cho sale doi chieu. Can server Lumi da deploy bang scanner_crawl_links."
 }
