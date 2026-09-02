@@ -1,6 +1,6 @@
 {
     "version":  "1.5.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.10/cao-da-site-extension.zip",
-    "notes":  "Cao listing: kho link CHUNG tren Lumi (cac sale khong cao trung nhau, bao ro sale nao da day bao nhieu ngay truoc), tu xuat CSV link trung cho sale doi chieu. Can server Lumi da deploy bang scanner_crawl_links.",
-    "released_at":  "2026-08-31T14:20:09Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.11/cao-da-site-extension.zip",
+    "notes":  "Them page Cao Style (Amazon): moi style 1 dong voi ten style + anh goc, ho tro dan link kem group va bo 4 anh, day thang sang Tao Listing",
+    "released_at":  "2026-09-02T10:58:10Z"
 }
