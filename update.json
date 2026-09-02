@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.10",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.10/WalmartScannerProSetup-1.2.10.exe",
-    "sha256":  "0C3FA89A308E3ED9C75C7D865861DC5DF4AF485CAB41805951A1E3CD410A680D",
-    "notes":  "Cao listing: kho link CHUNG tren Lumi (cac sale khong cao trung nhau, bao ro sale nao da day bao nhieu ngay truoc), tu xuat CSV link trung cho sale doi chieu. Can server Lumi da deploy bang scanner_crawl_links."
+    "version":  "1.2.11",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.11/WalmartScannerProSetup-1.2.11.exe",
+    "sha256":  "1FF4B9C24DBB715B7928D0FF71B1549DFE9A757B7E6C11AF2344CF4FFA6429CB",
+    "notes":  "Them page Cao Style (Amazon): moi style 1 dong voi ten style + anh goc, ho tro dan link kem group va bo 4 anh, day thang sang Tao Listing"
 }
