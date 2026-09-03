@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.13",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.13/WalmartScannerProSetup-1.2.13.exe",
-    "sha256":  "E312C66137D5649CF88B00C6CEBFFFF26EE4691DCE162CDEAC20B8DF47E19E03",
-    "notes":  "Cao Listing: tim/thay the kieu Excel (Ctrl+F, Ctrl+H, F3), xoa dong tick (Delete), xuat CSV theo bo cuc bang Tao Listing. Tao Listing: dan tu Excel nhan dung cot group/style."
+    "version":  "1.2.14",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.14/WalmartScannerProSetup-1.2.14.exe",
+    "sha256":  "DE204EDD8EAAC9CB9883B39B81F80407BD23E8D3509804215750BE40FA5721CA",
+    "notes":  "Cao Listing: cao them Etsy (title + toan bo anh), tu nhan dien san Amazon/Etsy/eBay theo link. Cao Style: lay Color nhu Style, co ca hai thi lay chieu nam tren. Title Amazon giai ma HTML entity."
 }
