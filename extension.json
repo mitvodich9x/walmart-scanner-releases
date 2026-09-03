@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.11/cao-da-site-extension.zip",
-    "notes":  "Them page Cao Style (Amazon): moi style 1 dong voi ten style + anh goc, ho tro dan link kem group va bo 4 anh, day thang sang Tao Listing",
-    "released_at":  "2026-09-02T10:58:10Z"
+    "version":  "1.5.1",
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.12/cao-da-site-extension.zip",
+    "notes":  "Cao da site: Duluth lay du anh phu theo tung mau + mo ta co tieu de/doan gioi thieu; Williams-Sonoma cao lai duoc (site bo JSON-LD, doc __INITIAL_STATE__); extension 1.5.1",
+    "released_at":  "2026-09-03T09:57:36Z"
 }
