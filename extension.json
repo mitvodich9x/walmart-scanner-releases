@@ -1,6 +1,6 @@
 {
     "version":  "1.5.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.12/cao-da-site-extension.zip",
-    "notes":  "Cao da site: Duluth lay du anh phu theo tung mau + mo ta co tieu de/doan gioi thieu; Williams-Sonoma cao lai duoc (site bo JSON-LD, doc __INITIAL_STATE__); extension 1.5.1",
-    "released_at":  "2026-09-03T09:57:36Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.13/cao-da-site-extension.zip",
+    "notes":  "Cao Listing: tim/thay the kieu Excel (Ctrl+F, Ctrl+H, F3), xoa dong tick (Delete), xuat CSV theo bo cuc bang Tao Listing. Tao Listing: dan tu Excel nhan dung cot group/style.",
+    "released_at":  "2026-09-03T15:00:08Z"
 }
