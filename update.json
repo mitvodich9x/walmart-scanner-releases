@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.11",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.11/WalmartScannerProSetup-1.2.11.exe",
-    "sha256":  "1FF4B9C24DBB715B7928D0FF71B1549DFE9A757B7E6C11AF2344CF4FFA6429CB",
-    "notes":  "Them page Cao Style (Amazon): moi style 1 dong voi ten style + anh goc, ho tro dan link kem group va bo 4 anh, day thang sang Tao Listing"
+    "version":  "1.2.12",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.12/WalmartScannerProSetup-1.2.12.exe",
+    "sha256":  "97772834F9EB6DCB302A4EEA436E0FFE16DBCAE2442951D20727050A94C45059",
+    "notes":  "Cao da site: Duluth lay du anh phu theo tung mau + mo ta co tieu de/doan gioi thieu; Williams-Sonoma cao lai duoc (site bo JSON-LD, doc __INITIAL_STATE__); extension 1.5.1"
 }
