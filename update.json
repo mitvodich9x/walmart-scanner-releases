@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.16",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.16/WalmartScannerProSetup-1.2.16.exe",
-    "sha256":  "E06AFF822968C50FA64073AC01A57DD703BA81C1C2F31A3762ED93A037B5681D",
-    "notes":  "Tao Listing canh bao Title tu 150 ky tu; Cao Style them Xuat CSV + Tim/Thay the + Xoa dong tick; them extension moi Cao listing \u0026 Cao Style chay trong trinh duyet that"
+    "version":  "1.2.17",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.17/WalmartScannerProSetup-1.2.17.exe",
+    "sha256":  "35DCC3E2CBFFB299FAD1EAC6E86F0BD854625E5264E81D93DACC0E7E5CC82400",
+    "notes":  "Ext Cao listing \u0026 Cao Style 1.0.1: keo doi chieu cao hang, anh xem truoc to nho theo; tab Cao Style co them cot anh xem truoc"
 }
