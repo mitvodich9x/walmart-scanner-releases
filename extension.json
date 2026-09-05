@@ -1,6 +1,6 @@
 {
     "version":  "1.5.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.15/cao-da-site-extension.zip",
-    "notes":  "Tao Listing: nut Tai file tu web nap thang vao bang Tao Listing, khong con bao thieu cot SKU",
-    "released_at":  "2026-09-05T08:02:54Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.16/cao-da-site-extension.zip",
+    "notes":  "Tao Listing canh bao Title tu 150 ky tu; Cao Style them Xuat CSV + Tim/Thay the + Xoa dong tick; them extension moi Cao listing \u0026 Cao Style chay trong trinh duyet that",
+    "released_at":  "2026-09-05T12:58:10Z"
 }
