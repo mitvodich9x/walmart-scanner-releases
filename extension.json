@@ -1,6 +1,6 @@
 {
     "version":  "1.5.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.14/cao-da-site-extension.zip",
-    "notes":  "Cao Listing: cao them Etsy (title + toan bo anh), tu nhan dien san Amazon/Etsy/eBay theo link. Cao Style: lay Color nhu Style, co ca hai thi lay chieu nam tren. Title Amazon giai ma HTML entity.",
-    "released_at":  "2026-09-03T16:31:22Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.15/cao-da-site-extension.zip",
+    "notes":  "Tao Listing: nut Tai file tu web nap thang vao bang Tao Listing, khong con bao thieu cot SKU",
+    "released_at":  "2026-09-05T08:02:54Z"
 }
