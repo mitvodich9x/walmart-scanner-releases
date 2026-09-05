@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.15",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.15/WalmartScannerProSetup-1.2.15.exe",
-    "sha256":  "8D622542E28DD8F7061F4BB0908197EA2AD35E3DBD4AF9117C55FBC4C1984CD4",
-    "notes":  "Tao Listing: nut Tai file tu web nap thang vao bang Tao Listing, khong con bao thieu cot SKU"
+    "version":  "1.2.16",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.16/WalmartScannerProSetup-1.2.16.exe",
+    "sha256":  "E06AFF822968C50FA64073AC01A57DD703BA81C1C2F31A3762ED93A037B5681D",
+    "notes":  "Tao Listing canh bao Title tu 150 ky tu; Cao Style them Xuat CSV + Tim/Thay the + Xoa dong tick; them extension moi Cao listing \u0026 Cao Style chay trong trinh duyet that"
 }
