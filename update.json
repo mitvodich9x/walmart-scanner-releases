@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.14",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.14/WalmartScannerProSetup-1.2.14.exe",
-    "sha256":  "DE204EDD8EAAC9CB9883B39B81F80407BD23E8D3509804215750BE40FA5721CA",
-    "notes":  "Cao Listing: cao them Etsy (title + toan bo anh), tu nhan dien san Amazon/Etsy/eBay theo link. Cao Style: lay Color nhu Style, co ca hai thi lay chieu nam tren. Title Amazon giai ma HTML entity."
+    "version":  "1.2.15",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.15/WalmartScannerProSetup-1.2.15.exe",
+    "sha256":  "8D622542E28DD8F7061F4BB0908197EA2AD35E3DBD4AF9117C55FBC4C1984CD4",
+    "notes":  "Tao Listing: nut Tai file tu web nap thang vao bang Tao Listing, khong con bao thieu cot SKU"
 }
