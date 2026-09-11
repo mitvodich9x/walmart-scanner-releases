@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.17",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.17/WalmartScannerProSetup-1.2.17.exe",
-    "sha256":  "35DCC3E2CBFFB299FAD1EAC6E86F0BD854625E5264E81D93DACC0E7E5CC82400",
-    "notes":  "Ext Cao listing \u0026 Cao Style 1.0.1: keo doi chieu cao hang, anh xem truoc to nho theo; tab Cao Style co them cot anh xem truoc"
+    "version":  "1.2.18",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.18/WalmartScannerProSetup-1.2.18.exe",
+    "sha256":  "A0AA4F0BE7068C5DBEC50533879AA28C05CF2ABFA8A0780255E6AA33062CA370",
+    "notes":  "Cao da site 1.5.2: them 2 site Free People va Crate and Barrel"
 }
