@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.19/cao-listing-extension.zip",
-    "notes":  "Cao da site 1.5.3: sua bang variant - moi mau lay dung size con hang cua chinh mau do. Them trang Loc SKU va trang Lam gia.",
-    "released_at":  "2026-09-14T13:53:18Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.20/cao-listing-extension.zip",
+    "notes":  "Trang Loc SKU: xuat thang 3 file import Walmart (Inventory / LagTime / Repricer) tu danh sach SKU vua loc.",
+    "released_at":  "2026-09-14T15:34:26Z"
 }
