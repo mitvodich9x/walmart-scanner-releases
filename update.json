@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.19",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.19/WalmartScannerProSetup-1.2.19.exe",
-    "sha256":  "9673D50CA79DFDDC9EDA356A2047B84EBD1A80B4DB26006F2777246006F3BA20",
-    "notes":  "Cao da site 1.5.3: sua bang variant - moi mau lay dung size con hang cua chinh mau do. Them trang Loc SKU va trang Lam gia."
+    "version":  "1.2.20",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.20/WalmartScannerProSetup-1.2.20.exe",
+    "sha256":  "9BD00487CB3A125F7BD2FEC952C5C705392D6516A0E263B5B5C133B1311338EB",
+    "notes":  "Trang Loc SKU: xuat thang 3 file import Walmart (Inventory / LagTime / Repricer) tu danh sach SKU vua loc."
 }
