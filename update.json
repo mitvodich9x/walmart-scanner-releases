@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.18",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.18/WalmartScannerProSetup-1.2.18.exe",
-    "sha256":  "A0AA4F0BE7068C5DBEC50533879AA28C05CF2ABFA8A0780255E6AA33062CA370",
-    "notes":  "Cao da site 1.5.2: them 2 site Free People va Crate and Barrel"
+    "version":  "1.2.19",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.19/WalmartScannerProSetup-1.2.19.exe",
+    "sha256":  "9673D50CA79DFDDC9EDA356A2047B84EBD1A80B4DB26006F2777246006F3BA20",
+    "notes":  "Cao da site 1.5.3: sua bang variant - moi mau lay dung size con hang cua chinh mau do. Them trang Loc SKU va trang Lam gia."
 }
