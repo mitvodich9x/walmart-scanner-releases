@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.20",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.20/WalmartScannerProSetup-1.2.20.exe",
-    "sha256":  "9BD00487CB3A125F7BD2FEC952C5C705392D6516A0E263B5B5C133B1311338EB",
-    "notes":  "Trang Loc SKU: xuat thang 3 file import Walmart (Inventory / LagTime / Repricer) tu danh sach SKU vua loc."
+    "version":  "1.2.21",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.21/WalmartScannerProSetup-1.2.21.exe",
+    "sha256":  "59C3944C2BF2387DDAA73CE32961B85F7BC53DFC1479A7DA07EFD8EB41FA41A6",
+    "notes":  "Loc SKU: tu tra danh muc theo ma SKU va tu dien FCID tu Lumi khi xuat file import."
 }
