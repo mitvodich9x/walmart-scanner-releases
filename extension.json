@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.3",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.21/cao-da-site-extension.zip",
-    "notes":  "Loc SKU: tu tra danh muc theo ma SKU va tu dien FCID tu Lumi khi xuat file import.",
-    "released_at":  "2026-09-15T02:38:09Z"
+    "version":  "1.5.4",
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.22/cao-da-site-extension.zip",
+    "notes":  "Cao da site: them cot Mo ta HTML (mo ta goc dang HTML, du moi phan, chi bo lien he email/SDT/dia chi); cot Mo ta chu day du hon cho Danner, Staples, Talbots, Hernest, Victoria\u0027s Secret. Extension 1.5.4.",
+    "released_at":  "2026-09-22T17:32:57Z"
 }
