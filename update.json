@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.21",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.21/WalmartScannerProSetup-1.2.21.exe",
-    "sha256":  "59C3944C2BF2387DDAA73CE32961B85F7BC53DFC1479A7DA07EFD8EB41FA41A6",
-    "notes":  "Loc SKU: tu tra danh muc theo ma SKU va tu dien FCID tu Lumi khi xuat file import."
+    "version":  "1.2.22",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.22/WalmartScannerProSetup-1.2.22.exe",
+    "sha256":  "1C39B03CCEDBDADF188E4337CC10A85B519055F6B948403AB8A735DE5A97A809",
+    "notes":  "Cao da site: them cot Mo ta HTML (mo ta goc dang HTML, du moi phan, chi bo lien he email/SDT/dia chi); cot Mo ta chu day du hon cho Danner, Staples, Talbots, Hernest, Victoria\u0027s Secret. Extension 1.5.4."
 }
