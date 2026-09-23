@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.22/cao-listing-extension.zip",
-    "notes":  "Cao da site: them cot Mo ta HTML (mo ta goc dang HTML, du moi phan, chi bo lien he email/SDT/dia chi); cot Mo ta chu day du hon cho Danner, Staples, Talbots, Hernest, Victoria\u0027s Secret. Extension 1.5.4.",
-    "released_at":  "2026-09-22T17:33:00Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.23/cao-listing-extension.zip",
+    "notes":  "Tai file tu Lumi: them loc theo trang thai, an file da hoan thanh; cot Mo ta ngan hien ca ghi chu cua file gui them (VD: file da loc lan cuoi).",
+    "released_at":  "2026-09-23T05:56:40Z"
 }
