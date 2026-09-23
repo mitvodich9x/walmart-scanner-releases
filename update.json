@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.23",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.23/WalmartScannerProSetup-1.2.23.exe",
-    "sha256":  "3B8EB54D78E30F76D18E1C76C8EAEC67C0205135D96E7D27334688F4D571C192",
-    "notes":  "Tai file tu Lumi: them loc theo trang thai, an file da hoan thanh; cot Mo ta ngan hien ca ghi chu cua file gui them (VD: file da loc lan cuoi)."
+    "version":  "1.2.24",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.24/WalmartScannerProSetup-1.2.24.exe",
+    "sha256":  "C5997CBA667EC9960EEAAD3D4DA3113E479191C26289F6A610F3240500B59BE9",
+    "notes":  "Cao da site: them nut Cao tab dang mo - tu mo trang bang tay roi bam cao (vuot tuong chan, lay dung mau/size dang xem). Nhan dien them 3 kieu tuong chan (PerimeterX, Cloudflare, Williams-Sonoma 403) nen khong con dong rac lot ra bang xuat. Canh bao khi site tra gia khong phai USD."
 }
