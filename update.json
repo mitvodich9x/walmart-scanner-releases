@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.24",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.24/WalmartScannerProSetup-1.2.24.exe",
-    "sha256":  "C5997CBA667EC9960EEAAD3D4DA3113E479191C26289F6A610F3240500B59BE9",
-    "notes":  "Cao da site: them nut Cao tab dang mo - tu mo trang bang tay roi bam cao (vuot tuong chan, lay dung mau/size dang xem). Nhan dien them 3 kieu tuong chan (PerimeterX, Cloudflare, Williams-Sonoma 403) nen khong con dong rac lot ra bang xuat. Canh bao khi site tra gia khong phai USD."
+    "version":  "1.2.25",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.25/WalmartScannerProSetup-1.2.25.exe",
+    "sha256":  "4EB7D3E25CFE2D78F5FF9160404C18FE3CDE2560182FC02D3356E3ADF586994C",
+    "notes":  "Cao da site: them 9 site Lands\u0027 End, Tommy Bahama, Eileen Fisher, Personal Creations, Academy, Walmart, Etsy, Amazon, eBay (mau/size/ton kho/anh theo mau/mo ta day du); o tich Tach moi mau thanh 1 san pham khi xuat. Extension 1.6.0."
 }
