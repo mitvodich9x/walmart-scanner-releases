@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.5",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.24/cao-da-site-extension.zip",
-    "notes":  "Cao da site: them nut Cao tab dang mo - tu mo trang bang tay roi bam cao (vuot tuong chan, lay dung mau/size dang xem). Nhan dien them 3 kieu tuong chan (PerimeterX, Cloudflare, Williams-Sonoma 403) nen khong con dong rac lot ra bang xuat. Canh bao khi site tra gia khong phai USD.",
-    "released_at":  "2026-09-23T19:12:57Z"
+    "version":  "1.6.0",
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.25/cao-da-site-extension.zip",
+    "notes":  "Cao da site: them 9 site Lands\u0027 End, Tommy Bahama, Eileen Fisher, Personal Creations, Academy, Walmart, Etsy, Amazon, eBay (mau/size/ton kho/anh theo mau/mo ta day du); o tich Tach moi mau thanh 1 san pham khi xuat. Extension 1.6.0.",
+    "released_at":  "2026-09-24T08:45:51Z"
 }
