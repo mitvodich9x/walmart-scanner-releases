@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.25/cao-listing-extension.zip",
-    "notes":  "Extension Cao da site 1.6.1: moi mau hien 1 dong rieng (tieu de, gia, size, anh, link rieng); sua Walmart khong cao duoc, Eileen Fisher/Academy cao cham - gio cao ngay khi trang doc duoc.",
-    "released_at":  "2026-09-25T02:10:46Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.26/cao-listing-extension.zip",
+    "notes":  "Broad Search: xep ket qua theo thu tu ID nhap; dong bo anh variant cung ID/ten/brand de Lumi gom 1 san pham",
+    "released_at":  "2026-09-25T18:17:13Z"
 }
