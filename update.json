@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.25",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.25/WalmartScannerProSetup-1.2.25.exe",
-    "sha256":  "4EB7D3E25CFE2D78F5FF9160404C18FE3CDE2560182FC02D3356E3ADF586994C",
-    "notes":  "Cao da site: them 9 site Lands\u0027 End, Tommy Bahama, Eileen Fisher, Personal Creations, Academy, Walmart, Etsy, Amazon, eBay (mau/size/ton kho/anh theo mau/mo ta day du); o tich Tach moi mau thanh 1 san pham khi xuat. Extension 1.6.0."
+    "version":  "1.2.26",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.26/WalmartScannerProSetup-1.2.26.exe",
+    "sha256":  "22596F065366A34E2D6AEECF515FC95AC1369B09FCAACBFDDAFD6F4E423AC641",
+    "notes":  "Broad Search: xep ket qua theo thu tu ID nhap; dong bo anh variant cung ID/ten/brand de Lumi gom 1 san pham"
 }
