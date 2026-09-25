@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0",
+    "version":  "1.6.1",
     "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.25/cao-da-site-extension.zip",
-    "notes":  "Cao da site: them 9 site Lands\u0027 End, Tommy Bahama, Eileen Fisher, Personal Creations, Academy, Walmart, Etsy, Amazon, eBay (mau/size/ton kho/anh theo mau/mo ta day du); o tich Tach moi mau thanh 1 san pham khi xuat. Extension 1.6.0.",
-    "released_at":  "2026-09-24T08:45:51Z"
+    "notes":  "Extension Cao da site 1.6.1: moi mau hien 1 dong rieng (tieu de, gia, size, anh, link rieng); sua Walmart khong cao duoc, Eileen Fisher/Academy cao cham - gio cao ngay khi trang doc duoc.",
+    "released_at":  "2026-09-25T02:10:42Z"
 }
