@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.26",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.26/WalmartScannerProSetup-1.2.26.exe",
-    "sha256":  "22596F065366A34E2D6AEECF515FC95AC1369B09FCAACBFDDAFD6F4E423AC641",
-    "notes":  "Broad Search: xep ket qua theo thu tu ID nhap; dong bo anh variant cung ID/ten/brand de Lumi gom 1 san pham"
+    "version":  "1.2.27",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.27/WalmartScannerProSetup-1.2.27.exe",
+    "sha256":  "BBC5CF9F042997A8555DE82751479D39EC27C0583714E38B641A73237A7992E9",
+    "notes":  "Lumi File Import: them buoc File cho up (web tu chuyen Dang xu ly) + tick gan Nguoi nhan task / cao bien the / cao GTIN / lam gia khi gui them file"
 }
