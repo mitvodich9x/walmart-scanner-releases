@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.26/cao-listing-extension.zip",
-    "notes":  "Broad Search: xep ket qua theo thu tu ID nhap; dong bo anh variant cung ID/ten/brand de Lumi gom 1 san pham",
-    "released_at":  "2026-09-25T18:17:13Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.27/cao-listing-extension.zip",
+    "notes":  "Lumi File Import: them buoc File cho up (web tu chuyen Dang xu ly) + tick gan Nguoi nhan task / cao bien the / cao GTIN / lam gia khi gui them file",
+    "released_at":  "2026-09-26T06:47:02Z"
 }
