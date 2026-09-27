@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.27",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.27/WalmartScannerProSetup-1.2.27.exe",
-    "sha256":  "BBC5CF9F042997A8555DE82751479D39EC27C0583714E38B641A73237A7992E9",
-    "notes":  "Lumi File Import: them buoc File cho up (web tu chuyen Dang xu ly) + tick gan Nguoi nhan task / cao bien the / cao GTIN / lam gia khi gui them file"
+    "version":  "1.2.28",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.28/WalmartScannerProSetup-1.2.28.exe",
+    "sha256":  "727FD857AF838FE63CC4F3B4B1C756700B1245A8A7ECAD635A66BDF7F025C808",
+    "notes":  "Loc SKU loi: chuyen mau file Repricer v2 \u003c-\u003e v1 (BUYBOX), chon noi luu file ket qua, bo luon SKU loi khi chuyen"
 }
