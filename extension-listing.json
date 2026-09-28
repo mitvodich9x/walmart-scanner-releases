@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
     "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.28/cao-listing-extension.zip",
-    "notes":  "Cao da site Walmart: giu Size Chart + Note trong mo ta, them muc Directions va Warranty",
-    "released_at":  "2026-09-28T04:14:21Z"
+    "notes":  "Cao da site: mo ta HTML loc bo bao hanh, lien he, ship, doi tra giong mo ta chu",
+    "released_at":  "2026-09-28T04:28:56Z"
 }
