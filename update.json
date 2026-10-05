@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.28",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.28/WalmartScannerProSetup-1.2.28.exe",
-    "sha256":  "727FD857AF838FE63CC4F3B4B1C756700B1245A8A7ECAD635A66BDF7F025C808",
-    "notes":  "Loc SKU loi: chuyen mau file Repricer v2 \u003c-\u003e v1 (BUYBOX), chon noi luu file ket qua, bo luon SKU loi khi chuyen"
+    "version":  "1.2.29",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.29/WalmartScannerProSetup-1.2.29.exe",
+    "sha256":  "06096300CD7D5D725888A80652470F9C8C56E62BDAC66369EFD1DE275204512A",
+    "notes":  "Ket noi GoLogin song song VMLogin: chon GoLogin o trang VMLogin, nhap API Token, tool tu mo profile va lay cong"
 }
