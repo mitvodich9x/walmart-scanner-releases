@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.28/cao-listing-extension.zip",
-    "notes":  "Cao da site: mo ta HTML loc bo bao hanh, lien he, ship, doi tra giong mo ta chu",
-    "released_at":  "2026-09-28T04:28:56Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.29/cao-listing-extension.zip",
+    "notes":  "Ket noi GoLogin song song VMLogin: chon GoLogin o trang VMLogin, nhap API Token, tool tu mo profile va lay cong",
+    "released_at":  "2026-10-05T08:35:25Z"
 }
