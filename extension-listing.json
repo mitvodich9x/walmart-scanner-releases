@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.30/cao-listing-extension.zip",
-    "notes":  "Trang Loc san pham: nap file Item Report, loc nhu Excel, xem anh, tu doc anh ao 1/2 mat, danh muc + gia moi theo Lumi, xuat Delete/Inventory/LagTime/Repricer, retire SKU + xoa san pham tren Lumi",
-    "released_at":  "2026-10-06T14:49:18Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.31/cao-listing-extension.zip",
+    "notes":  "Loc san pham: So gia Lumi (gia min/max moi cho ao, day chuyen, suncatcher + lag time chuan), Tim item_id thua tren Lumi (xoa dong HJ + SKU khong con tren Walmart), Repricer mau v1 BUYBOX",
+    "released_at":  "2026-10-06T16:12:52Z"
 }
