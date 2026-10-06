@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.29/cao-listing-extension.zip",
-    "notes":  "Ket noi GoLogin song song VMLogin: chon GoLogin o trang VMLogin, nhap API Token, tool tu mo profile va lay cong",
-    "released_at":  "2026-10-05T08:35:25Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.30/cao-listing-extension.zip",
+    "notes":  "Trang Loc san pham: nap file Item Report, loc nhu Excel, xem anh, tu doc anh ao 1/2 mat, danh muc + gia moi theo Lumi, xuat Delete/Inventory/LagTime/Repricer, retire SKU + xoa san pham tren Lumi",
+    "released_at":  "2026-10-06T14:49:18Z"
 }
