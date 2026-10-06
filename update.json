@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.29",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.29/WalmartScannerProSetup-1.2.29.exe",
-    "sha256":  "06096300CD7D5D725888A80652470F9C8C56E62BDAC66369EFD1DE275204512A",
-    "notes":  "Ket noi GoLogin song song VMLogin: chon GoLogin o trang VMLogin, nhap API Token, tool tu mo profile va lay cong"
+    "version":  "1.2.30",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.30/WalmartScannerProSetup-1.2.30.exe",
+    "sha256":  "08DE338AE432EC51738A0F8248BF1B49078516760A8DBDCC81F97056CC227574",
+    "notes":  "Trang Loc san pham: nap file Item Report, loc nhu Excel, xem anh, tu doc anh ao 1/2 mat, danh muc + gia moi theo Lumi, xuat Delete/Inventory/LagTime/Repricer, retire SKU + xoa san pham tren Lumi"
 }
