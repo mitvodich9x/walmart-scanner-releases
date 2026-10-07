@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.35",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.35/WalmartScannerProSetup-1.2.35.exe",
-    "sha256":  "6EC636F252CF7226C69F6E10B78CB8DDBCBA6CDCB65DE5421F108147329F2318",
-    "notes":  "Loc san pham: cot Da xu ly (da xuat file / retire / xoa Lumi) + nut Xoa khoi bang, Xoa dong da xu ly, Hien lai (chi an tren tool, khong dung file goc / Walmart / Lumi)"
+    "version":  "1.2.36",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.36/WalmartScannerProSetup-1.2.36.exe",
+    "sha256":  "67C28CD89BEC3B1FDB7550506280E639850DD5E58E4F2CCCDBF82AC87CCAA83F",
+    "notes":  "Loc san pham: gia moi theo size khach chon tren Walmart (SKU ghi size khac variant Walmart thi lay size Walmart, can soat); Chon size them lua chon theo size trong SKU"
 }
