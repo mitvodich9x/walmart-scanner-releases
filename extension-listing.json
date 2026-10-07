@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.35/cao-listing-extension.zip",
-    "notes":  "Loc san pham: cot Da xu ly (da xuat file / retire / xoa Lumi) + nut Xoa khoi bang, Xoa dong da xu ly, Hien lai (chi an tren tool, khong dung file goc / Walmart / Lumi)",
-    "released_at":  "2026-10-07T08:54:51Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.36/cao-listing-extension.zip",
+    "notes":  "Loc san pham: gia moi theo size khach chon tren Walmart (SKU ghi size khac variant Walmart thi lay size Walmart, can soat); Chon size them lua chon theo size trong SKU",
+    "released_at":  "2026-10-07T09:45:49Z"
 }
