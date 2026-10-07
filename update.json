@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.36",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.36/WalmartScannerProSetup-1.2.36.exe",
-    "sha256":  "67C28CD89BEC3B1FDB7550506280E639850DD5E58E4F2CCCDBF82AC87CCAA83F",
-    "notes":  "Loc san pham: gia moi theo size khach chon tren Walmart (SKU ghi size khac variant Walmart thi lay size Walmart, can soat); Chon size them lua chon theo size trong SKU"
+    "version":  "1.2.37",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.37/WalmartScannerProSetup-1.2.37.exe",
+    "sha256":  "089CDF55E174AE3BF8CF15566EF08FCE978E698703039ADFA2C7580E16B95D6D",
+    "notes":  "Broad Search / Cao Shop: tu chon danh muc Lumi + size chuan + doc anh ao 1/2 mat nhu Loc san pham (mau Gildan co thi Gildan, khong thi Comfort; Comfort khong co size lon thi Gildan; suncatcher/mug/op/trang suc theo tieu de + variant); nut Tu chon danh muc, tu chay sau Broad Search va Mining; HJ giu danh muc khi nhan tu Broad"
 }
