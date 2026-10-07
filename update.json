@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.32",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.32/WalmartScannerProSetup-1.2.32.exe",
-    "sha256":  "1D3373335156C3E7F4032B64017167CCF948BA7D61BB5361543EB9527C3E22C6",
-    "notes":  "Loc san pham: moi nhom hang (op, trang suc, suncatcher, mug) co danh muc + size moi; chuan hoa size ao (Medium -\u003e M, 2X-Large -\u003e 2XL); gia min/max theo moc lai (von /docs/prices + lai rieng tung loai, sweatshirt min lai 10$ max lai 100% von)"
+    "version":  "1.2.33",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.33/WalmartScannerProSetup-1.2.33.exe",
+    "sha256":  "A911F6D69E7C707900FEF0905B60FDA937286F3CC5A1378370A1D3F44E4B679C",
+    "notes":  "Loc san pham: von trang suc theo mau mat day (SKU cu khong ghi mau: doc tu tieu de, khong ro thi von pho bien cua chat lieu-hop); o tich Chi tang gia (gia moi thap hon gia dang cai thi giu gia cu)"
 }
