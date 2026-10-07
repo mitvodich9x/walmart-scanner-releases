@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.31",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.31/WalmartScannerProSetup-1.2.31.exe",
-    "sha256":  "2D08B672026B36E870B7891922D137DBC766731F5AB77278BCD275861C1B686C",
-    "notes":  "Loc san pham: So gia Lumi (gia min/max moi cho ao, day chuyen, suncatcher + lag time chuan), Tim item_id thua tren Lumi (xoa dong HJ + SKU khong con tren Walmart), Repricer mau v1 BUYBOX"
+    "version":  "1.2.32",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.32/WalmartScannerProSetup-1.2.32.exe",
+    "sha256":  "1D3373335156C3E7F4032B64017167CCF948BA7D61BB5361543EB9527C3E22C6",
+    "notes":  "Loc san pham: moi nhom hang (op, trang suc, suncatcher, mug) co danh muc + size moi; chuan hoa size ao (Medium -\u003e M, 2X-Large -\u003e 2XL); gia min/max theo moc lai (von /docs/prices + lai rieng tung loai, sweatshirt min lai 10$ max lai 100% von)"
 }
