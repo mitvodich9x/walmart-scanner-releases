@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.31/cao-listing-extension.zip",
-    "notes":  "Loc san pham: So gia Lumi (gia min/max moi cho ao, day chuyen, suncatcher + lag time chuan), Tim item_id thua tren Lumi (xoa dong HJ + SKU khong con tren Walmart), Repricer mau v1 BUYBOX",
-    "released_at":  "2026-10-06T16:12:52Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.32/cao-listing-extension.zip",
+    "notes":  "Loc san pham: moi nhom hang (op, trang suc, suncatcher, mug) co danh muc + size moi; chuan hoa size ao (Medium -\u003e M, 2X-Large -\u003e 2XL); gia min/max theo moc lai (von /docs/prices + lai rieng tung loai, sweatshirt min lai 10$ max lai 100% von)",
+    "released_at":  "2026-10-07T02:33:05Z"
 }
