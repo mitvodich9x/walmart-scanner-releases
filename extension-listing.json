@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.33/cao-listing-extension.zip",
-    "notes":  "Loc san pham: von trang suc theo mau mat day (SKU cu khong ghi mau: doc tu tieu de, khong ro thi von pho bien cua chat lieu-hop); o tich Chi tang gia (gia moi thap hon gia dang cai thi giu gia cu)",
-    "released_at":  "2026-10-07T04:06:48Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.34/cao-listing-extension.zip",
+    "notes":  "Loc san pham: vong tay = danh muc JWL_BRC nhu Lumi; ao Comfort Colors khong co size lon (ao thun toi da 4XL, hoodie/sweatshirt 3XL) thi dung Gildan, het thieu gia 5XL; so mau gan dung (gray/grey, sai chinh ta, tien to ten phoi); khong co mau / mau la tam theo Comfort",
+    "released_at":  "2026-10-07T05:35:47Z"
 }
