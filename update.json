@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.34",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.34/WalmartScannerProSetup-1.2.34.exe",
-    "sha256":  "D3AC7C7D3ADD6FCBF833CE8C549B06D502DBC476CEF01409DF26CA44C76DCAAD",
-    "notes":  "Loc san pham: vong tay = danh muc JWL_BRC nhu Lumi; ao Comfort Colors khong co size lon (ao thun toi da 4XL, hoodie/sweatshirt 3XL) thi dung Gildan, het thieu gia 5XL; so mau gan dung (gray/grey, sai chinh ta, tien to ten phoi); khong co mau / mau la tam theo Comfort"
+    "version":  "1.2.35",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.35/WalmartScannerProSetup-1.2.35.exe",
+    "sha256":  "6EC636F252CF7226C69F6E10B78CB8DDBCBA6CDCB65DE5421F108147329F2318",
+    "notes":  "Loc san pham: cot Da xu ly (da xuat file / retire / xoa Lumi) + nut Xoa khoi bang, Xoa dong da xu ly, Hien lai (chi an tren tool, khong dung file goc / Walmart / Lumi)"
 }
