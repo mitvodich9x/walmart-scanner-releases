@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.37/cao-listing-extension.zip",
-    "notes":  "Broad Search / Cao Shop: tu chon danh muc Lumi + size chuan + doc anh ao 1/2 mat nhu Loc san pham (mau Gildan co thi Gildan, khong thi Comfort; Comfort khong co size lon thi Gildan; suncatcher/mug/op/trang suc theo tieu de + variant); nut Tu chon danh muc, tu chay sau Broad Search va Mining; HJ giu danh muc khi nhan tu Broad",
-    "released_at":  "2026-10-07T17:41:38Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.38/cao-listing-extension.zip",
+    "notes":  "Tao HJ Listing: nut Doi danh muc cu - dan bang hj_listings (danh muc cu nhu Suncatcher Glass, T-shirt 1 mat, Necklace) -\u003e xem truoc danh muc moi -\u003e cap nhat thang len hj_listings tren Lumi (can deploy web Lumi)",
+    "released_at":  "2026-10-08T09:07:57Z"
 }
