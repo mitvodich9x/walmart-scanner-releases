@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.38/cao-listing-extension.zip",
-    "notes":  "Tao HJ Listing: nut Doi danh muc cu - dan bang hj_listings (danh muc cu nhu Suncatcher Glass, T-shirt 1 mat, Necklace) -\u003e xem truoc danh muc moi -\u003e cap nhat thang len hj_listings tren Lumi (can deploy web Lumi)",
-    "released_at":  "2026-10-08T09:07:57Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.39/cao-listing-extension.zip",
+    "notes":  "Day file import len Lumi (xem truoc, day listing/HJ, dong bo, xuat Setup / Match GTIN), chuan hoa trang suc, doi HJ listing cu, mau trang suc kem anh",
+    "released_at":  "2026-10-17T18:19:39Z"
 }
