@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.38",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.38/WalmartScannerProSetup-1.2.38.exe",
-    "sha256":  "9481CB152516EEE17A46414C4AE6A80ABD6545528521B1CB8A75EA7B7171DC3A",
-    "notes":  "Tao HJ Listing: nut Doi danh muc cu - dan bang hj_listings (danh muc cu nhu Suncatcher Glass, T-shirt 1 mat, Necklace) -\u003e xem truoc danh muc moi -\u003e cap nhat thang len hj_listings tren Lumi (can deploy web Lumi)"
+    "version":  "1.2.39",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.39/WalmartScannerProSetup-1.2.39.exe",
+    "sha256":  "64A7D6F7DBAA208B420B7C1771AC8D8CD95FBA76D216042009BD923F9DFCCBE9",
+    "notes":  "Day file import len Lumi (xem truoc, day listing/HJ, dong bo, xuat Setup / Match GTIN), chuan hoa trang suc, doi HJ listing cu, mau trang suc kem anh"
 }
