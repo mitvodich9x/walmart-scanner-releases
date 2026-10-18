@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.40",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.40/WalmartScannerProSetup-1.2.40.exe",
-    "sha256":  "6C912C90CFD777853F11003060F83843E0D4C54E7589EA5C7347BB9F2A99AEBD",
-    "notes":  "Dan tiep tu Excel (khong de du lieu cu); soat mau trang suc theo catalog Lumi, danh dau va xoa dong mau khong co trong danh sach"
+    "version":  "1.2.41",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.41/WalmartScannerProSetup-1.2.41.exe",
+    "sha256":  "906583BCE9846127803B3F09C435D670CE2A07627DC647C2FACAA0EE1F6689AB",
+    "notes":  "Trang suc: chon Type thi Category/Color chi theo loai do (4 to hop kim loai x hop), tu suy mau va ma mau; dan bo dong ItemID khong phai so; bang HJ nhan max_price"
 }
