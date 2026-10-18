@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.40/cao-listing-extension.zip",
-    "notes":  "Dan tiep tu Excel (khong de du lieu cu); soat mau trang suc theo catalog Lumi, danh dau va xoa dong mau khong co trong danh sach",
-    "released_at":  "2026-10-18T11:53:59Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.41/cao-listing-extension.zip",
+    "notes":  "Trang suc: chon Type thi Category/Color chi theo loai do (4 to hop kim loai x hop), tu suy mau va ma mau; dan bo dong ItemID khong phai so; bang HJ nhan max_price",
+    "released_at":  "2026-10-18T12:44:09Z"
 }
