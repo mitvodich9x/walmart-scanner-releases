@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.41",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.41/WalmartScannerProSetup-1.2.41.exe",
-    "sha256":  "906583BCE9846127803B3F09C435D670CE2A07627DC647C2FACAA0EE1F6689AB",
-    "notes":  "Trang suc: chon Type thi Category/Color chi theo loai do (4 to hop kim loai x hop), tu suy mau va ma mau; dan bo dong ItemID khong phai so; bang HJ nhan max_price"
+    "version":  "1.2.42",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.42/WalmartScannerProSetup-1.2.42.exe",
+    "sha256":  "4FDBC2A6094EE9E66B405A386B5D079CD31F6C9C11551D4E37836F1A16EF485D",
+    "notes":  "Xem truoc va day file import giong web Lumi: form day + gia theo nhom, kiem tra tu cam, day Listing/HJ, sync san pham, xuat file Walmart ghi de gia theo nhom"
 }
