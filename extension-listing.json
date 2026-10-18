@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.39/cao-listing-extension.zip",
-    "notes":  "Day file import len Lumi (xem truoc, day listing/HJ, dong bo, xuat Setup / Match GTIN), chuan hoa trang suc, doi HJ listing cu, mau trang suc kem anh",
-    "released_at":  "2026-10-17T18:19:39Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.40/cao-listing-extension.zip",
+    "notes":  "Dan tiep tu Excel (khong de du lieu cu); soat mau trang suc theo catalog Lumi, danh dau va xoa dong mau khong co trong danh sach",
+    "released_at":  "2026-10-18T11:53:59Z"
 }
