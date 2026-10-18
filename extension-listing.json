@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.42/cao-listing-extension.zip",
-    "notes":  "Xem truoc va day file import giong web Lumi: form day + gia theo nhom, kiem tra tu cam, day Listing/HJ, sync san pham, xuat file Walmart ghi de gia theo nhom",
-    "released_at":  "2026-10-18T13:29:48Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.43/cao-listing-extension.zip",
+    "notes":  "Tu chon danh muc cho moi loai san pham theo danh muc he thong Lumi (doi ma cu sang moi), chuan hoa size; Soat mau cho moi loai: danh dau danh muc/size/mau khong co trong danh sach, loc va xoa",
+    "released_at":  "2026-10-18T15:16:03Z"
 }
