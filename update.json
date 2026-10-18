@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.43",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.43/WalmartScannerProSetup-1.2.43.exe",
-    "sha256":  "1CDDAC584A60CED0A066793F70F23408DF3F6C919E7EFA8E5B2FB0D9A4D83EC4",
-    "notes":  "Tu chon danh muc cho moi loai san pham theo danh muc he thong Lumi (doi ma cu sang moi), chuan hoa size; Soat mau cho moi loai: danh dau danh muc/size/mau khong co trong danh sach, loc va xoa"
+    "version":  "1.2.44",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.44/WalmartScannerProSetup-1.2.44.exe",
+    "sha256":  "E540ED52348456003AE87A2B1034C17FDC223DB05A61C2CFFEBEEED3CDEFC43E",
+    "notes":  "Doc anh chon danh muc (so anh mau Lumi, ap khi tin cay \u003e= 80%), soat mau them ly do anh khong khop, ma cu va mau theo danh muc lay tu API Lumi"
 }
