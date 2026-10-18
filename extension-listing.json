@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.43/cao-listing-extension.zip",
-    "notes":  "Tu chon danh muc cho moi loai san pham theo danh muc he thong Lumi (doi ma cu sang moi), chuan hoa size; Soat mau cho moi loai: danh dau danh muc/size/mau khong co trong danh sach, loc va xoa",
-    "released_at":  "2026-10-18T15:16:03Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.44/cao-listing-extension.zip",
+    "notes":  "Doc anh chon danh muc (so anh mau Lumi, ap khi tin cay \u003e= 80%), soat mau them ly do anh khong khop, ma cu va mau theo danh muc lay tu API Lumi",
+    "released_at":  "2026-10-18T15:38:26Z"
 }
