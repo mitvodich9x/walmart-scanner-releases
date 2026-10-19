@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.44",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.44/WalmartScannerProSetup-1.2.44.exe",
-    "sha256":  "E540ED52348456003AE87A2B1034C17FDC223DB05A61C2CFFEBEEED3CDEFC43E",
-    "notes":  "Doc anh chon danh muc (so anh mau Lumi, ap khi tin cay \u003e= 80%), soat mau them ly do anh khong khop, ma cu va mau theo danh muc lay tu API Lumi"
+    "version":  "1.2.45",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.45/WalmartScannerProSetup-1.2.45.exe",
+    "sha256":  "23EEDEBE2833AC5ECA6EE2BDFE0C67B76F3F4AD092B84CCFEBAA35E3B08F9389",
+    "notes":  "AI doc anh: tieu de moi + chat lieu suncatcher/ornament (can Lumi lam API); hologram chon size Hologram; chi dung GoLogin, tu mo VN02/VN03 roi ngau nhien folder Walmart GTIN"
 }
