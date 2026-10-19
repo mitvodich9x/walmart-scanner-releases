@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.46/cao-listing-extension.zip",
-    "notes":  "Tu dong tu Google Sheet: Broad ban dem + GTIN, tach file HJ theo Type Lumi, ghi trang thai sheet, bao Telegram; Broad chi dung Chrome that, Mining dung tai khoan Walmart GTIN co kiem tra dang nhap",
-    "released_at":  "2026-10-19T18:21:13Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.47/cao-listing-extension.zip",
+    "notes":  "Chọn danh mục suncatcher / ornament đọc thêm cột Material (thông số Walmart) và Color; Material khác tiêu đề thì Cần soát. Tự chọn size Hologram (Lumi đã bật size Hologram cho danh mục mica).",
+    "released_at":  "2026-10-19T18:55:22Z"
 }
