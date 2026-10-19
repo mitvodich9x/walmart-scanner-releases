@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.46",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.46/WalmartScannerProSetup-1.2.46.exe",
-    "sha256":  "5523830C74DF3EA4B2D66F4CD844EBC7458269AF613AA8151C0EBF0DB33681B3",
-    "notes":  "Tu dong tu Google Sheet: Broad ban dem + GTIN, tach file HJ theo Type Lumi, ghi trang thai sheet, bao Telegram; Broad chi dung Chrome that, Mining dung tai khoan Walmart GTIN co kiem tra dang nhap"
+    "version":  "1.2.47",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.47/WalmartScannerProSetup-1.2.47.exe",
+    "sha256":  "678DF54A415113DA7941020CC1CE2BB6EB70D2350665E78D1CCD8ED1E6F5DBDF",
+    "notes":  "Chọn danh mục suncatcher / ornament đọc thêm cột Material (thông số Walmart) và Color; Material khác tiêu đề thì Cần soát. Tự chọn size Hologram (Lumi đã bật size Hologram cho danh mục mica)."
 }
