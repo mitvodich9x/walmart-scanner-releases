@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.44/cao-listing-extension.zip",
-    "notes":  "Doc anh chon danh muc (so anh mau Lumi, ap khi tin cay \u003e= 80%), soat mau them ly do anh khong khop, ma cu va mau theo danh muc lay tu API Lumi",
-    "released_at":  "2026-10-18T15:38:26Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.45/cao-listing-extension.zip",
+    "notes":  "AI doc anh: tieu de moi + chat lieu suncatcher/ornament (can Lumi lam API); hologram chon size Hologram; chi dung GoLogin, tu mo VN02/VN03 roi ngau nhien folder Walmart GTIN",
+    "released_at":  "2026-10-19T10:44:51Z"
 }
