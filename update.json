@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.47",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.47/WalmartScannerProSetup-1.2.47.exe",
-    "sha256":  "13E8735E50D9A28CAA04AD58ABF8D876A30DA2BEED5EBDAAAE0D3DDB3C634048",
-    "notes":  "Tu dong tu Sheet: chay thu lay N link dau moi Loai SP (mac dinh 5)"
+    "version":  "1.2.48",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.48/WalmartScannerProSetup-1.2.48.exe",
+    "sha256":  "6319E004EE4CA02764BAA78F3E789EBDC139C541D887767558F8B9D1E201840F",
+    "notes":  "Chon danh muc doc cot Material + Color, size Hologram; Tu dong tu Sheet: chay thu N link dau moi Loai SP (mac dinh 5)"
 }
