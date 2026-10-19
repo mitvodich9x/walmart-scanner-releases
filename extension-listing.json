@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.45/cao-listing-extension.zip",
-    "notes":  "AI doc anh: tieu de moi + chat lieu suncatcher/ornament (can Lumi lam API); hologram chon size Hologram; chi dung GoLogin, tu mo VN02/VN03 roi ngau nhien folder Walmart GTIN",
-    "released_at":  "2026-10-19T10:44:51Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.46/cao-listing-extension.zip",
+    "notes":  "Tu dong tu Google Sheet: Broad ban dem + GTIN, tach file HJ theo Type Lumi, ghi trang thai sheet, bao Telegram; Broad chi dung Chrome that, Mining dung tai khoan Walmart GTIN co kiem tra dang nhap",
+    "released_at":  "2026-10-19T18:21:13Z"
 }
