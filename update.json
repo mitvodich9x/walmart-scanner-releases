@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.45",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.45/WalmartScannerProSetup-1.2.45.exe",
-    "sha256":  "23EEDEBE2833AC5ECA6EE2BDFE0C67B76F3F4AD092B84CCFEBAA35E3B08F9389",
-    "notes":  "AI doc anh: tieu de moi + chat lieu suncatcher/ornament (can Lumi lam API); hologram chon size Hologram; chi dung GoLogin, tu mo VN02/VN03 roi ngau nhien folder Walmart GTIN"
+    "version":  "1.2.46",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.46/WalmartScannerProSetup-1.2.46.exe",
+    "sha256":  "5523830C74DF3EA4B2D66F4CD844EBC7458269AF613AA8151C0EBF0DB33681B3",
+    "notes":  "Tu dong tu Google Sheet: Broad ban dem + GTIN, tach file HJ theo Type Lumi, ghi trang thai sheet, bao Telegram; Broad chi dung Chrome that, Mining dung tai khoan Walmart GTIN co kiem tra dang nhap"
 }
