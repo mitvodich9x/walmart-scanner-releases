@@ -1,6 +1,6 @@
 {
     "version":  "1.2.47",
     "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.47/WalmartScannerProSetup-1.2.47.exe",
-    "sha256":  "678DF54A415113DA7941020CC1CE2BB6EB70D2350665E78D1CCD8ED1E6F5DBDF",
-    "notes":  "Chọn danh mục suncatcher / ornament đọc thêm cột Material (thông số Walmart) và Color; Material khác tiêu đề thì Cần soát. Tự chọn size Hologram (Lumi đã bật size Hologram cho danh mục mica)."
+    "sha256":  "13E8735E50D9A28CAA04AD58ABF8D876A30DA2BEED5EBDAAAE0D3DDB3C634048",
+    "notes":  "Tu dong tu Sheet: chay thu lay N link dau moi Loai SP (mac dinh 5)"
 }
