@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.58/cao-listing-extension.zip",
-    "notes":  "Loc san pham: xuat Repricer sua gia theo nhom Danh muc moi / Mau (VD White Blackbox) cua SKU dang loc",
-    "released_at":  "2026-10-20T08:32:19Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.59/cao-listing-extension.zip",
+    "notes":  "Tu dong tu Sheet chay ngam, khong tu chuyen trang (lam Loc san pham song song)",
+    "released_at":  "2026-10-20T08:48:30Z"
 }
