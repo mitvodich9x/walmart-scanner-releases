@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.59",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.59/WalmartScannerProSetup-1.2.59.exe",
-    "sha256":  "27BA1D2AE04DEFE692251F8BC647A630A8DF3F9148F4C0CEFD65027BCB2B168B",
-    "notes":  "Tu dong tu Sheet chay ngam, khong tu chuyen trang (lam Loc san pham song song)"
+    "version":  "1.2.60",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.60/WalmartScannerProSetup-1.2.60.exe",
+    "sha256":  "371B7508B9A8BC25E1E671AE1DA2EA07747FE79461CAB1ECACC187607DC7A8E0",
+    "notes":  "Loc san pham: Repricer them lua chon Nhap tay gia theo danh muc / mau dang loc"
 }
