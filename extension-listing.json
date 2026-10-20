@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.52/cao-listing-extension.zip",
-    "notes":  "Chon profile tu dien tai khoan Walmart tu Lumi (ma 2FA Lumi tao khi Auto Login), chua co thi bao nhap tay; Mining mac dinh mo VN03",
-    "released_at":  "2026-10-20T03:03:31Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.53/cao-listing-extension.zip",
+    "notes":  "Tu Connect GoLogin khi mo tool neu da luu token",
+    "released_at":  "2026-10-20T03:44:09Z"
 }
