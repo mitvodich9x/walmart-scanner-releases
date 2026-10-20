@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.49",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.49/WalmartScannerProSetup-1.2.49.exe",
-    "sha256":  "957C43574891B117B14C2ECF073AFA8FC7F7933B4F6F33B1D73FD40905F1D677",
-    "notes":  "Broad: Chrome thu nho khong chiem chuot/man hinh, khong mo hang loat Chrome khi loi, dung Chrome that 9222; cap nhat bo qua cache manifest"
+    "version":  "1.2.50",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.50/WalmartScannerProSetup-1.2.50.exe",
+    "sha256":  "FB6A4459FB7EF08386106D4DB227964D2C9E74A7A28ED1DDC8E64DF75CC1D40F",
+    "notes":  "Cap nhat: doc manifest khong qua cache, het loi lech SHA256 ngay sau release"
 }
