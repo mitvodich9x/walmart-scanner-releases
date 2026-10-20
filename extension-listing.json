@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.49/cao-listing-extension.zip",
-    "notes":  "Broad: Chrome thu nho khong chiem chuot/man hinh, khong mo hang loat Chrome khi loi, dung Chrome that 9222; cap nhat bo qua cache manifest",
-    "released_at":  "2026-10-19T19:32:48Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.50/cao-listing-extension.zip",
+    "notes":  "Cap nhat: doc manifest khong qua cache, het loi lech SHA256 ngay sau release",
+    "released_at":  "2026-10-20T02:28:36Z"
 }
