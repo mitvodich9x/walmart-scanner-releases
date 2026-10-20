@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.60",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.60/WalmartScannerProSetup-1.2.60.exe",
-    "sha256":  "371B7508B9A8BC25E1E671AE1DA2EA07747FE79461CAB1ECACC187607DC7A8E0",
-    "notes":  "Loc san pham: Repricer them lua chon Nhap tay gia theo danh muc / mau dang loc"
+    "version":  "1.2.61",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.61/WalmartScannerProSetup-1.2.61.exe",
+    "sha256":  "5608F3E115E8A8341A805BC9AE5151AA4952479FAE2D08F877D3AE622D958AE7",
+    "notes":  "Broad Search: nut Them luong khi dang chay; tu dong dung giua chung van cao lai duoc link con lai"
 }
