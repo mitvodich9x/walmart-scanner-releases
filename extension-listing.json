@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.56/cao-listing-extension.zip",
-    "notes":  "Mining: moi profile Walmart chi 1 tab Seller Center, khong mo them tab add-items",
-    "released_at":  "2026-10-20T07:54:45Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.57/cao-listing-extension.zip",
+    "notes":  "Loc san pham: xuat LagTime = lag time hien tai + X ngay",
+    "released_at":  "2026-10-20T08:26:10Z"
 }
