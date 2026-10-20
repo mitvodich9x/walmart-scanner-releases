@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.56",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.56/WalmartScannerProSetup-1.2.56.exe",
-    "sha256":  "DD672E7A8289B3FED5C35292A3EE17457326D2C5FB6E2E5BFCFC69A66098B126",
-    "notes":  "Mining: moi profile Walmart chi 1 tab Seller Center, khong mo them tab add-items"
+    "version":  "1.2.57",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.57/WalmartScannerProSetup-1.2.57.exe",
+    "sha256":  "74DEA4B08A2A64E51857818331C640798E865810D7E3D941C5ABDB3A57A83C62",
+    "notes":  "Loc san pham: xuat LagTime = lag time hien tai + X ngay"
 }
