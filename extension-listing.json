@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.51/cao-listing-extension.zip",
-    "notes":  "Broad Search dung them profile GoLogin folder DIE EBAY (proxy My), bo profile dung chung proxy voi tai khoan Walmart",
-    "released_at":  "2026-10-20T02:51:38Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.52/cao-listing-extension.zip",
+    "notes":  "Chon profile tu dien tai khoan Walmart tu Lumi (ma 2FA Lumi tao khi Auto Login), chua co thi bao nhap tay; Mining mac dinh mo VN03",
+    "released_at":  "2026-10-20T03:03:31Z"
 }
