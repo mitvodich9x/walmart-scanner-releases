@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.51",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.51/WalmartScannerProSetup-1.2.51.exe",
-    "sha256":  "E44F898ACA0D0072E7753B9FDE8535507F5876309D9994B082A76BFB448A0DBE",
-    "notes":  "Broad Search dung them profile GoLogin folder DIE EBAY (proxy My), bo profile dung chung proxy voi tai khoan Walmart"
+    "version":  "1.2.52",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.52/WalmartScannerProSetup-1.2.52.exe",
+    "sha256":  "6AEEABF19103735DB9487964CCAB85435CA695AF1A99F3ED66305E4F13FCF380",
+    "notes":  "Chon profile tu dien tai khoan Walmart tu Lumi (ma 2FA Lumi tao khi Auto Login), chua co thi bao nhap tay; Mining mac dinh mo VN03"
 }
