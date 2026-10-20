@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.61",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.61/WalmartScannerProSetup-1.2.61.exe",
-    "sha256":  "5608F3E115E8A8341A805BC9AE5151AA4952479FAE2D08F877D3AE622D958AE7",
-    "notes":  "Broad Search: nut Them luong khi dang chay; tu dong dung giua chung van cao lai duoc link con lai"
+    "version":  "1.2.62",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.62/WalmartScannerProSetup-1.2.62.exe",
+    "sha256":  "7713CA9CCED25AE452F48896B44ADE86689B557DA5AEC91AD4924582932E71F6",
+    "notes":  "Cot Type hien du loai san pham co danh muc tren Lumi (ornament, flag...)"
 }
