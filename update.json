@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.54",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.54/WalmartScannerProSetup-1.2.54.exe",
-    "sha256":  "E4F5C685BA1692837CF369B7E0B23EF99E29B65EB4E33D6BCFFEC5191F0944AC",
-    "notes":  "Tu dong tu Sheet: Broad xong day file len Lumi ([AUTO] Da cao bien the), Cao GTIN lay file va day tiep vao file cu (File da lam gia)"
+    "version":  "1.2.55",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.55/WalmartScannerProSetup-1.2.55.exe",
+    "sha256":  "5244BED73806D321F233FE541DB067F64F83087840CD77F236B9197018DC7B4F",
+    "notes":  "Tu dong tu Sheet: dung trang thai + tag moi cua Lumi (Da cao bien the / Da cao GTIN + lam gia, tag auto)"
 }
