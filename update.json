@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.63",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.63/WalmartScannerProSetup-1.2.63.exe",
-    "sha256":  "BEA891E88A6EB9B8C607D045015A2BEBB144AC435D170094FC0AEE7C1A1E64F8",
-    "notes":  "Broad Search: dinh robot thi bao Telegram, tu dong dong va mo trinh duyet khac"
+    "version":  "1.2.64",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.64/WalmartScannerProSetup-1.2.64.exe",
+    "sha256":  "F0A77BA147CD21F27EB9BF45C24C7B361377A14561E288BD42C84D5D7E74AEC8",
+    "notes":  "Tu dong tu Sheet: khong bo luot khi Broad chay lau hon 8 gio, luu bang Broad ra file truoc khi xoa"
 }
