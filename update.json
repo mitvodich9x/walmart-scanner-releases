@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.52",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.52/WalmartScannerProSetup-1.2.52.exe",
-    "sha256":  "6AEEABF19103735DB9487964CCAB85435CA695AF1A99F3ED66305E4F13FCF380",
-    "notes":  "Chon profile tu dien tai khoan Walmart tu Lumi (ma 2FA Lumi tao khi Auto Login), chua co thi bao nhap tay; Mining mac dinh mo VN03"
+    "version":  "1.2.53",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.53/WalmartScannerProSetup-1.2.53.exe",
+    "sha256":  "204E03E5F5113DDB3AA1C80B693BFD82D3A17A82E1A3F553A78CF12C2DD3DDB3",
+    "notes":  "Tu Connect GoLogin khi mo tool neu da luu token"
 }
