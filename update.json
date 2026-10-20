@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.57",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.57/WalmartScannerProSetup-1.2.57.exe",
-    "sha256":  "74DEA4B08A2A64E51857818331C640798E865810D7E3D941C5ABDB3A57A83C62",
-    "notes":  "Loc san pham: xuat LagTime = lag time hien tai + X ngay"
+    "version":  "1.2.58",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.58/WalmartScannerProSetup-1.2.58.exe",
+    "sha256":  "10F6928FA49598A45E835BBDC9B1FDE43D0EB37D043C9B6A8093BCABCD13A498",
+    "notes":  "Loc san pham: xuat Repricer sua gia theo nhom Danh muc moi / Mau (VD White Blackbox) cua SKU dang loc"
 }
