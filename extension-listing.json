@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.57/cao-listing-extension.zip",
-    "notes":  "Loc san pham: xuat LagTime = lag time hien tai + X ngay",
-    "released_at":  "2026-10-20T08:26:10Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.58/cao-listing-extension.zip",
+    "notes":  "Loc san pham: xuat Repricer sua gia theo nhom Danh muc moi / Mau (VD White Blackbox) cua SKU dang loc",
+    "released_at":  "2026-10-20T08:32:19Z"
 }
