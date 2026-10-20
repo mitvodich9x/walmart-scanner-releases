@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.53/cao-listing-extension.zip",
-    "notes":  "Tu Connect GoLogin khi mo tool neu da luu token",
-    "released_at":  "2026-10-20T03:44:09Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.54/cao-listing-extension.zip",
+    "notes":  "Tu dong tu Sheet: Broad xong day file len Lumi ([AUTO] Da cao bien the), Cao GTIN lay file va day tiep vao file cu (File da lam gia)",
+    "released_at":  "2026-10-20T07:27:47Z"
 }
