@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.55/cao-listing-extension.zip",
-    "notes":  "Tu dong tu Sheet: dung trang thai + tag moi cua Lumi (Da cao bien the / Da cao GTIN + lam gia, tag auto)",
-    "released_at":  "2026-10-20T07:40:21Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.56/cao-listing-extension.zip",
+    "notes":  "Mining: moi profile Walmart chi 1 tab Seller Center, khong mo them tab add-items",
+    "released_at":  "2026-10-20T07:54:45Z"
 }
