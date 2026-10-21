@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.65/cao-listing-extension.zip",
-    "notes":  "Tu dong tu Sheet: khong mat lo GTIN khi nhieu file day cung luc; tai khoan Walmart chua vao duoc thi dung luot GTIN ngay",
-    "released_at":  "2026-10-21T01:52:08Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.66/cao-listing-extension.zip",
+    "notes":  "Chuan hoa size goi Lumi API: size ghi nhieu kich thuoc lay co lon nhat (12x18 / 28x40 -\u003e 28x40), 36x60 -\u003e 3x5 ft, 6in bien go",
+    "released_at":  "2026-10-21T11:35:35Z"
 }
