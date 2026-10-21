@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.66",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.66/WalmartScannerProSetup-1.2.66.exe",
-    "sha256":  "23D0EFEC386EC44C05BAB7C1A69957F2B92DDD88FE48BC16BA9FF2F72CDB61E1",
-    "notes":  "Chuan hoa size goi Lumi API: size ghi nhieu kich thuoc lay co lon nhat (12x18 / 28x40 -\u003e 28x40), 36x60 -\u003e 3x5 ft, 6in bien go"
+    "version":  "1.2.67",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.67/WalmartScannerProSetup-1.2.67.exe",
+    "sha256":  "D6E6237CF522172D2D26BB00BC95AF9D0D01032322862F577EB2EC10E79FCE98",
+    "notes":  "So sanh gia / lam gia / chuan hoa size mac dinh gia HJ (ca size tat dung cho listing); Repricer: SKU file HJ lay gia HJ, file Listing lay gia listing; Tao listing chi size dang bat dung cho listing"
 }
