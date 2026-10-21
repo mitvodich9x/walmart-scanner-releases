@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.66/cao-listing-extension.zip",
-    "notes":  "Chuan hoa size goi Lumi API: size ghi nhieu kich thuoc lay co lon nhat (12x18 / 28x40 -\u003e 28x40), 36x60 -\u003e 3x5 ft, 6in bien go",
-    "released_at":  "2026-10-21T11:35:35Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.67/cao-listing-extension.zip",
+    "notes":  "So sanh gia / lam gia / chuan hoa size mac dinh gia HJ (ca size tat dung cho listing); Repricer: SKU file HJ lay gia HJ, file Listing lay gia listing; Tao listing chi size dang bat dung cho listing",
+    "released_at":  "2026-10-21T15:15:13Z"
 }
