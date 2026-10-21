@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.64/cao-listing-extension.zip",
-    "notes":  "Tu dong tu Sheet: khong bo luot khi Broad chay lau hon 8 gio, luu bang Broad ra file truoc khi xoa",
-    "released_at":  "2026-10-20T17:23:21Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.65/cao-listing-extension.zip",
+    "notes":  "Tu dong tu Sheet: khong mat lo GTIN khi nhieu file day cung luc; tai khoan Walmart chua vao duoc thi dung luot GTIN ngay",
+    "released_at":  "2026-10-21T01:52:08Z"
 }
