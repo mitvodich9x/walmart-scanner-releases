@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.72",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.72/WalmartScannerProSetup-1.2.72.exe",
-    "sha256":  "1016EA58057E55F2B1209A91E9BC77FE8D18C7823B90C6F1B53A3B4781BE8E35",
-    "notes":  "Sửa lỗi kẹt \u0027Đang chạy bước khác của pipeline\u0027 khi đóng form chọn profile ở bước Cào biến thể / Cào GTIN; huỷ thì trả lại bảng Broad và ô nhập cũ."
+    "version":  "1.2.73",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.73/WalmartScannerProSetup-1.2.73.exe",
+    "sha256":  "1104E09A416808823729FFA9B13636C76FF456B38B8E1B7FBF89A0BD7CC8F2F8",
+    "notes":  "Pipeline cào Walmart: chọn file là tải bảng item (gốc + biến thể), hiện tiến độ trực tiếp khi cào biến thể / GTIN (item đang chạy, x/y, thời gian còn lại). Sửa Cào biến thể gộp nhầm sản phẩm không liên quan từ API tìm kiếm."
 }
