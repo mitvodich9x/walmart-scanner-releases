@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.68",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.68/WalmartScannerProSetup-1.2.68.exe",
-    "sha256":  "19279DDE85DFF9CA4690EBF9A67BBE68EF4D6A3898BF182433CF670854902F9F",
-    "notes":  "Bo VMLogin, chi dung GoLogin; menu chia nhom theo quy trinh; anh va ten moi san pham giu dung (khong dong bo anh variant cung ten); trang Quet Walmart gon cho tablet: nhat ky 1 dong, thanh nut gom menu Them, Bang gon khong cuon ngang, khung chi tiet dong; Fill cot theo dong da tick, Chon cung ten, thanh thao tac khi tick, Hoan tac (Ctrl+Z)"
+    "version":  "1.2.69",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.69/WalmartScannerProSetup-1.2.69.exe",
+    "sha256":  "4466BA0D0923E7DAC3558B5D591389D0D2C2B2906FC1AE51DACFBC7A7C648C19",
+    "notes":  "Them man Pipeline cao Walmart: nhap item ID lay thong tin SP, tao file Lumi, day buoc root / bien the / GTIN, cao lai GTIN thieu"
 }
