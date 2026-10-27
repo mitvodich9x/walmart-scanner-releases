@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.68/cao-listing-extension.zip",
-    "notes":  "Bo VMLogin, chi dung GoLogin; menu chia nhom theo quy trinh; anh va ten moi san pham giu dung (khong dong bo anh variant cung ten); trang Quet Walmart gon cho tablet: nhat ky 1 dong, thanh nut gom menu Them, Bang gon khong cuon ngang, khung chi tiet dong; Fill cot theo dong da tick, Chon cung ten, thanh thao tac khi tick, Hoan tac (Ctrl+Z)",
-    "released_at":  "2026-10-26T05:41:24Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.69/cao-listing-extension.zip",
+    "notes":  "Them man Pipeline cao Walmart: nhap item ID lay thong tin SP, tao file Lumi, day buoc root / bien the / GTIN, cao lai GTIN thieu",
+    "released_at":  "2026-10-27T13:05:14Z"
 }
