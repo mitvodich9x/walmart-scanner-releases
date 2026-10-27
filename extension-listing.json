@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.72/cao-listing-extension.zip",
-    "notes":  "Sửa lỗi kẹt \u0027Đang chạy bước khác của pipeline\u0027 khi đóng form chọn profile ở bước Cào biến thể / Cào GTIN; huỷ thì trả lại bảng Broad và ô nhập cũ.",
-    "released_at":  "2026-10-27T15:09:12Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.73/cao-listing-extension.zip",
+    "notes":  "Pipeline cào Walmart: chọn file là tải bảng item (gốc + biến thể), hiện tiến độ trực tiếp khi cào biến thể / GTIN (item đang chạy, x/y, thời gian còn lại). Sửa Cào biến thể gộp nhầm sản phẩm không liên quan từ API tìm kiếm.",
+    "released_at":  "2026-10-27T15:52:46Z"
 }
