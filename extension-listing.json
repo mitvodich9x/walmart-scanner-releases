@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.70/cao-listing-extension.zip",
-    "notes":  "Đọc ảnh listing bằng AI Gemini qua Lumi: tiêu đề viết theo ảnh, bỏ chất liệu khỏi tiêu đề suncatcher/ornament, tự đẩy ảnh thông số xuống cuối danh sách ảnh.",
-    "released_at":  "2026-10-27T13:35:34Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.71/cao-listing-extension.zip",
+    "notes":  "Lấy thông tin SP (Pipeline cào Walmart) chạy nhiều trình duyệt GoLogin song song (mặc định 3, tối đa 10), mỗi profile proxy riêng; bật lại folder Cào Broad.",
+    "released_at":  "2026-10-27T14:57:38Z"
 }
