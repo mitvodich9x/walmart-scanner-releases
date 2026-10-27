@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.70",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.70/WalmartScannerProSetup-1.2.70.exe",
-    "sha256":  "E70C6B4FACEB67466CA9C165A6114DF3685769D36CE2A0D4227C1A5FE4C042A9",
-    "notes":  "Đọc ảnh listing bằng AI Gemini qua Lumi: tiêu đề viết theo ảnh, bỏ chất liệu khỏi tiêu đề suncatcher/ornament, tự đẩy ảnh thông số xuống cuối danh sách ảnh."
+    "version":  "1.2.71",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.71/WalmartScannerProSetup-1.2.71.exe",
+    "sha256":  "51245FB86889DB88A2880BD5112B23BBC286FF197618E39C8064BB85B66E3B43",
+    "notes":  "Lấy thông tin SP (Pipeline cào Walmart) chạy nhiều trình duyệt GoLogin song song (mặc định 3, tối đa 10), mỗi profile proxy riêng; bật lại folder Cào Broad."
 }
