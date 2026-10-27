@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.69",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.69/WalmartScannerProSetup-1.2.69.exe",
-    "sha256":  "4466BA0D0923E7DAC3558B5D591389D0D2C2B2906FC1AE51DACFBC7A7C648C19",
-    "notes":  "Them man Pipeline cao Walmart: nhap item ID lay thong tin SP, tao file Lumi, day buoc root / bien the / GTIN, cao lai GTIN thieu"
+    "version":  "1.2.70",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.70/WalmartScannerProSetup-1.2.70.exe",
+    "sha256":  "E70C6B4FACEB67466CA9C165A6114DF3685769D36CE2A0D4227C1A5FE4C042A9",
+    "notes":  "Đọc ảnh listing bằng AI Gemini qua Lumi: tiêu đề viết theo ảnh, bỏ chất liệu khỏi tiêu đề suncatcher/ornament, tự đẩy ảnh thông số xuống cuối danh sách ảnh."
 }
