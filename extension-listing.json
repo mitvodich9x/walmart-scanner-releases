@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.73/cao-listing-extension.zip",
-    "notes":  "Pipeline cào Walmart: chọn file là tải bảng item (gốc + biến thể), hiện tiến độ trực tiếp khi cào biến thể / GTIN (item đang chạy, x/y, thời gian còn lại). Sửa Cào biến thể gộp nhầm sản phẩm không liên quan từ API tìm kiếm.",
-    "released_at":  "2026-10-27T15:52:46Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.74/cao-listing-extension.zip",
+    "notes":  "Pipeline cào Walmart: gộp 1 bảng chung (tải file Lumi đủ cột, biến thể hiện ngay dưới gốc khi cào, GTIN cập nhật tại chỗ); không tự đẩy lên Lumi nữa, thêm nút Đẩy biến thể / Đẩy GTIN có xác nhận; nút Dừng / Huỷ dừng thật Broad và Mining; thêm nút Xoá dữ liệu cào và cảnh báo khi đổi file còn dữ liệu chưa đẩy.",
+    "released_at":  "2026-10-27T17:05:59Z"
 }
