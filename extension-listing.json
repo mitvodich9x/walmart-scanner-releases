@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.69/cao-listing-extension.zip",
-    "notes":  "Them man Pipeline cao Walmart: nhap item ID lay thong tin SP, tao file Lumi, day buoc root / bien the / GTIN, cao lai GTIN thieu",
-    "released_at":  "2026-10-27T13:05:14Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.70/cao-listing-extension.zip",
+    "notes":  "Đọc ảnh listing bằng AI Gemini qua Lumi: tiêu đề viết theo ảnh, bỏ chất liệu khỏi tiêu đề suncatcher/ornament, tự đẩy ảnh thông số xuống cuối danh sách ảnh.",
+    "released_at":  "2026-10-27T13:35:34Z"
 }
