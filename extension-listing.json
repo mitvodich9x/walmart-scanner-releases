@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.75/cao-listing-extension.zip",
-    "notes":  "Pipeline cào Walmart nhanh hơn nhiều: biến thể (size/màu) có ngay ở bước lấy thông tin SP, lấy trang trong tab, nhịp tự điều chỉnh, chia đều ID cho các profile, dùng lại dữ liệu đã cào (Lumi + máy), nút Lấy chi tiết biến thể, Đối chiếu Seller Center (bổ sung biến thể thiếu, GTIN, giá Buy Box), chuẩn hoá size, đếm thời gian xử lý, tự đóng trình duyệt tool đã mở.",
-    "released_at":  "2026-10-28T10:11:51Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.76/cao-listing-extension.zip",
+    "notes":  "Trang Lọc sản phẩm: thêm nút Đọc từ Lumi (lấy listing Walmart của store) và Đẩy report lên Lumi (gửi file Item Report .csv); vẫn giữ nạp file CSV như cũ.",
+    "released_at":  "2026-10-28T15:25:35Z"
 }
