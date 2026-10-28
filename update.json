@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.75",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.75/WalmartScannerProSetup-1.2.75.exe",
-    "sha256":  "092C53FC2488636CC8EE3C57454AD3478A0D4F4D7B98F5A5C7B1D809098E16BC",
-    "notes":  "Pipeline cào Walmart nhanh hơn nhiều: biến thể (size/màu) có ngay ở bước lấy thông tin SP, lấy trang trong tab, nhịp tự điều chỉnh, chia đều ID cho các profile, dùng lại dữ liệu đã cào (Lumi + máy), nút Lấy chi tiết biến thể, Đối chiếu Seller Center (bổ sung biến thể thiếu, GTIN, giá Buy Box), chuẩn hoá size, đếm thời gian xử lý, tự đóng trình duyệt tool đã mở."
+    "version":  "1.2.76",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.76/WalmartScannerProSetup-1.2.76.exe",
+    "sha256":  "2DFEBB7BE577D381F04CDF054E11B57FD8322DB1085D460F3D9269FCF5F9B357",
+    "notes":  "Trang Lọc sản phẩm: thêm nút Đọc từ Lumi (lấy listing Walmart của store) và Đẩy report lên Lumi (gửi file Item Report .csv); vẫn giữ nạp file CSV như cũ."
 }
