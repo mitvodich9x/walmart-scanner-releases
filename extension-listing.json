@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.77/cao-listing-extension.zip",
-    "notes":  "Pipeline: gợi ý danh mục, Copy CSV, Xuất Excel, sửa/xoá dòng, cào GTIN đủ kiểu, IP:Cổng. Tự động từ Google Sheet chạy trên Pipeline (1h sáng). Chuẩn hoá và soát theo loại SP, soát trước khi đẩy. Lưu / Tải phiên theo từng màn (tắt tự lưu lên Lumi). Trang Gộp file Walmart. Sửa lỗi mất bảng Broad.",
-    "released_at":  "2026-10-29T07:34:47Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.78/cao-listing-extension.zip",
+    "notes":  "Kho design ngoai (Prestige): quet kho design ngoai day len Lumi, lich tu quet 05:00",
+    "released_at":  "2026-10-29T09:42:39Z"
 }
