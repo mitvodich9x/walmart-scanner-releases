@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.76",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.76/WalmartScannerProSetup-1.2.76.exe",
-    "sha256":  "2DFEBB7BE577D381F04CDF054E11B57FD8322DB1085D460F3D9269FCF5F9B357",
-    "notes":  "Trang Lọc sản phẩm: thêm nút Đọc từ Lumi (lấy listing Walmart của store) và Đẩy report lên Lumi (gửi file Item Report .csv); vẫn giữ nạp file CSV như cũ."
+    "version":  "1.2.77",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.77/WalmartScannerProSetup-1.2.77.exe",
+    "sha256":  "487ABB7A50D2CD1AE969AB4F8B0ACA8250F3F1C522D9592F1A3584B18FD77E1F",
+    "notes":  "Pipeline: gợi ý danh mục, Copy CSV, Xuất Excel, sửa/xoá dòng, cào GTIN đủ kiểu, IP:Cổng. Tự động từ Google Sheet chạy trên Pipeline (1h sáng). Chuẩn hoá và soát theo loại SP, soát trước khi đẩy. Lưu / Tải phiên theo từng màn (tắt tự lưu lên Lumi). Trang Gộp file Walmart. Sửa lỗi mất bảng Broad."
 }
