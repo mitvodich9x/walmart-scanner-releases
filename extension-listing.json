@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.78/cao-listing-extension.zip",
-    "notes":  "Kho design ngoai (Prestige): quet kho design ngoai day len Lumi, lich tu quet 05:00",
-    "released_at":  "2026-10-29T09:42:39Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.79/cao-listing-extension.zip",
+    "notes":  "Sửa lỗi Pipeline: \u0027Không mở được trình duyệt (lý do: không nối được CDP)\u0027 ở các profile CAO khi bước Gợi ý danh mục / chi tiết biến thể chạy ngay sau bước trước — tool chờ profile vừa tắt đóng hẳn rồi mới mở lại; trạng thái trình duyệt hiện rõ lý do lỗi và cách xử lý.",
+    "released_at":  "2026-10-29T13:51:41Z"
 }
