@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.81/cao-listing-extension.zip",
-    "notes":  "Bước Cào GTIN (tay và tự động Sheet) bỏ qua dòng đã có SKU trên store đối chiếu.",
-    "released_at":  "2026-10-29T15:54:26Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.82/cao-listing-extension.zip",
+    "notes":  "Tin Telegram Kho design ngoai (Prestige) dung su kien rieng: het phien Prestige bao \u0027Prestige (Kho design ngoai) het phien dang nhap\u0027, khong con ghi nham \u0027tai khoan Walmart\u0027.",
+    "released_at":  "2026-10-29T16:16:51Z"
 }
