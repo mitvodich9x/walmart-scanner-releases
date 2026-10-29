@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.80",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.80/WalmartScannerProSetup-1.2.80.exe",
-    "sha256":  "12281213374181F16C03E38434D47FBAA811892E28980272903D9FDD3FA8DD30",
-    "notes":  "Nut Gui sang Lumi sua danh muc o trang Loc san pham"
+    "version":  "1.2.81",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.81/WalmartScannerProSetup-1.2.81.exe",
+    "sha256":  "52BACEAF9AEA58700DB88A3BF47844B051BFA25EB4C98C0B35B89AD493470C60",
+    "notes":  "Bước Cào GTIN (tay và tự động Sheet) bỏ qua dòng đã có SKU trên store đối chiếu."
 }
