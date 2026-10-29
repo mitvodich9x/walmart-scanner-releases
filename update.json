@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.81",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.81/WalmartScannerProSetup-1.2.81.exe",
-    "sha256":  "52BACEAF9AEA58700DB88A3BF47844B051BFA25EB4C98C0B35B89AD493470C60",
-    "notes":  "Bước Cào GTIN (tay và tự động Sheet) bỏ qua dòng đã có SKU trên store đối chiếu."
+    "version":  "1.2.82",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.82/WalmartScannerProSetup-1.2.82.exe",
+    "sha256":  "5FEE2319D8287BF74EC7639015760BFD7A8949887A0E7C6EF86E40AD7A595F64",
+    "notes":  "Tin Telegram Kho design ngoai (Prestige) dung su kien rieng: het phien Prestige bao \u0027Prestige (Kho design ngoai) het phien dang nhap\u0027, khong con ghi nham \u0027tai khoan Walmart\u0027."
 }
