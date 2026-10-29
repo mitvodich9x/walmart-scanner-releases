@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.78",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.78/WalmartScannerProSetup-1.2.78.exe",
-    "sha256":  "B3514D1F8CF54A0EF9E76E70DC17506F5CA0214581B9BAB88EFD3BAFA198F202",
-    "notes":  "Kho design ngoai (Prestige): quet kho design ngoai day len Lumi, lich tu quet 05:00"
+    "version":  "1.2.79",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.79/WalmartScannerProSetup-1.2.79.exe",
+    "sha256":  "576F93EFAF90FAFDC27110E523662BAF5CA9EBD6BD21A60788A5062FA0AEAA2F",
+    "notes":  "Sửa lỗi Pipeline: \u0027Không mở được trình duyệt (lý do: không nối được CDP)\u0027 ở các profile CAO khi bước Gợi ý danh mục / chi tiết biến thể chạy ngay sau bước trước — tool chờ profile vừa tắt đóng hẳn rồi mới mở lại; trạng thái trình duyệt hiện rõ lý do lỗi và cách xử lý."
 }
