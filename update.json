@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.82",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.82/WalmartScannerProSetup-1.2.82.exe",
-    "sha256":  "5FEE2319D8287BF74EC7639015760BFD7A8949887A0E7C6EF86E40AD7A595F64",
-    "notes":  "Tin Telegram Kho design ngoai (Prestige) dung su kien rieng: het phien Prestige bao \u0027Prestige (Kho design ngoai) het phien dang nhap\u0027, khong con ghi nham \u0027tai khoan Walmart\u0027."
+    "version":  "1.2.83",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.83/WalmartScannerProSetup-1.2.83.exe",
+    "sha256":  "B62073DDF598F92FA7CD163BE9063848437DFDDA11070139D36EA239D2F56C9E",
+    "notes":  "Luong nhanh tron goi: Chay tron goi + Tu dong tu Sheet; lay nhieu link/luot; Seller Center nhieu profile, cho dang nhap/giai robot 5 phut; ten file [AUTO] tien to + ma danh muc + ngay; tai sheet mau"
 }
