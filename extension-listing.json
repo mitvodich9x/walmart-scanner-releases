@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.83/cao-listing-extension.zip",
-    "notes":  "Luong nhanh tron goi: Chay tron goi + Tu dong tu Sheet; lay nhieu link/luot; Seller Center nhieu profile, cho dang nhap/giai robot 5 phut; ten file [AUTO] tien to + ma danh muc + ngay; tai sheet mau",
-    "released_at":  "2026-10-31T19:09:41Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.84/cao-listing-extension.zip",
+    "notes":  "Cao GTIN Seller Center (trang Add Items) chay nhieu profile, cho dang nhap / giai robot 5 phut; auto mac dinh Cao Seller Center",
+    "released_at":  "2026-10-31T19:19:46Z"
 }
