@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.83",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.83/WalmartScannerProSetup-1.2.83.exe",
-    "sha256":  "B62073DDF598F92FA7CD163BE9063848437DFDDA11070139D36EA239D2F56C9E",
-    "notes":  "Luong nhanh tron goi: Chay tron goi + Tu dong tu Sheet; lay nhieu link/luot; Seller Center nhieu profile, cho dang nhap/giai robot 5 phut; ten file [AUTO] tien to + ma danh muc + ngay; tai sheet mau"
+    "version":  "1.2.84",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.84/WalmartScannerProSetup-1.2.84.exe",
+    "sha256":  "E6540776EC5A828861B4156EA6515B68CF0EFD5A54DCB97B2134E3EAA4D846BC",
+    "notes":  "Cao GTIN Seller Center (trang Add Items) chay nhieu profile, cho dang nhap / giai robot 5 phut; auto mac dinh Cao Seller Center"
 }
