@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/title-ext-v1.2.0/tao-tieu-de-extension.zip",
-    "notes":  "- Mục 2 có ô chọn Mẫu prompt: Chung (như cũ) / Trang sức có thiệp / Suncatcher / Ornament. Chọn mẫu sẽ điền lại 2 prompt và luật tự kiểm (giữ từ cấm thêm và cụm được phép); nút Khôi phục prompt mặc định trả về prompt của mẫu đang chọn.\n- Luật mới \"Tối đa số từ\" (0 = không giới hạn); mẫu Trang sức có thiệp đặt tối đa 21 từ.\n- Chọn phạm vi kiểm chất liệu: Suncatcher / ornament, Chỉ suncatcher (ornament được ghi chất liệu khi dữ liệu xác nhận), Mọi sản phẩm (thêm chất liệu trang sức: silver, gold, stainless steel, 925, 14K...).",
-    "released_at":  "2026-10-29T10:33:21Z"
+    "version":  "1.3.0",
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/title-ext-v1.3.0/tao-tieu-de-extension.zip",
+    "notes":  "- Đăng nhập Lumi mới: khoá kích hoạt (lumi_sk_) hoặc email + mật khẩu, tự gia hạn phiên, Đăng xuất. Token cũ vẫn dùng được trong giai đoạn chuyển.\n- ChatGPT / Grok: gửi prompt mẫu 1 lần mỗi đoạn chat, sau đó dán danh sách tối đa 50 link ảnh / tin (không gắn ảnh), AI trả mảng JSON tiêu đề.\n- Gửi ID extension (mục Tài khoản Lumi, nút Copy) cho admin Lumi để đăng ký.",
+    "released_at":  "2026-11-05T12:44:36Z"
 }
