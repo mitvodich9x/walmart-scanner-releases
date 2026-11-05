@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/title-ext-v1.3.1/tao-tieu-de-extension.zip",
-    "notes":  "- Phải nhập khoá kích hoạt hoặc đăng nhập Lumi trước, sau đó mới hiện các tính năng tạo tiêu đề.\n- Bỏ ô Token cũ.",
-    "released_at":  "2026-11-05T12:59:22Z"
+    "version":  "1.4.0",
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/title-ext-v1.4.0/tao-tieu-de-extension.zip",
+    "notes":  "- Mẫu prompt tải từ Lumi (admin thêm / sửa mẫu trên Lumi, không cần cập nhật extension). Nút \"↻ Tải mẫu từ Lumi\" cạnh ô Mẫu.\n- Lumi chưa có mẫu thì dùng 4 mẫu có sẵn như cũ.",
+    "released_at":  "2026-11-05T19:55:08Z"
 }
