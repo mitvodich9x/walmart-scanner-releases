@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.84/cao-listing-extension.zip",
-    "notes":  "Cao GTIN Seller Center (trang Add Items) chay nhieu profile, cho dang nhap / giai robot 5 phut; auto mac dinh Cao Seller Center",
-    "released_at":  "2026-10-31T19:19:46Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.85/cao-listing-extension.zip",
+    "notes":  "Lay item bang API khi trinh duyet bi chan; GoLogin loi thi dung Chrome/Edge tren may; auto bo qua khi het dong; bang item them cot Link anh, anh nho, an/hien cot, sap xep, Ctrl+C",
+    "released_at":  "2026-11-05T03:35:00Z"
 }
