@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.86/cao-listing-extension.zip",
-    "notes":  "Trang Pipeline tach tab HJListing / Tao Listing; HJListing them cot tick, trang thai, danh dau loi, day dong da chon, Nguoi day, preset Can lay nhung gi; bang co tu cam, loc cot, dan Excel/CSV, dien hang loat, hoan tac, cot ghi chu; giao dien sang/toi; Quet Walmart nhap ID/link moi; Tao Listing them cot tick, cot ID, sua loi tai danh muc",
-    "released_at":  "2026-11-05T13:02:06Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.87/cao-listing-extension.zip",
+    "notes":  "Tao Listing: cot Xem anh + hover phong to, ghi chu tu dong khi sua de day lai, them cot chuan file listing Lumi (Loai SP, Acc, Size, Color, Nhom, Style) + kiem tra truoc khi day, Goi y danh muc (top 5 + ly do), Shift + tick chon ca doan, An/hien cot",
+    "released_at":  "2026-11-06T13:25:34Z"
 }
