@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.87",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.87/WalmartScannerProSetup-1.2.87.exe",
-    "sha256":  "7503F5126D5F3DAF6E28D6DA3A500E07D65FA4055FE7E0FCF6D060D92B10C790",
-    "notes":  "Tao Listing: cot Xem anh + hover phong to, ghi chu tu dong khi sua de day lai, them cot chuan file listing Lumi (Loai SP, Acc, Size, Color, Nhom, Style) + kiem tra truoc khi day, Goi y danh muc (top 5 + ly do), Shift + tick chon ca doan, An/hien cot"
+    "version":  "1.2.88",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.88/WalmartScannerProSetup-1.2.88.exe",
+    "sha256":  "7E4A17EADB05AB346012B6837F53CC0A4611E845D58D62F864265FA6824FF53C",
+    "notes":  "Chay tron goi hien bang truc tiep, Lay lai dong loi, cao GTIN Add Items khong lap vo han, chan acc Seller Center bi chan tam thoi, bao ro GoLogin khong mo duoc"
 }
