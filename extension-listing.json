@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.87/cao-listing-extension.zip",
-    "notes":  "Tao Listing: cot Xem anh + hover phong to, ghi chu tu dong khi sua de day lai, them cot chuan file listing Lumi (Loai SP, Acc, Size, Color, Nhom, Style) + kiem tra truoc khi day, Goi y danh muc (top 5 + ly do), Shift + tick chon ca doan, An/hien cot",
-    "released_at":  "2026-11-06T13:25:34Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.88/cao-listing-extension.zip",
+    "notes":  "Chay tron goi hien bang truc tiep, Lay lai dong loi, cao GTIN Add Items khong lap vo han, chan acc Seller Center bi chan tam thoi, bao ro GoLogin khong mo duoc",
+    "released_at":  "2026-11-06T18:56:52Z"
 }
