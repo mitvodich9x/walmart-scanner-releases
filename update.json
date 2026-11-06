@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.86",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.86/WalmartScannerProSetup-1.2.86.exe",
-    "sha256":  "14F59DF3420AEF7ED8BFDE4D094C27309D3A60E008F48835D32D8DF8CDCC2B3C",
-    "notes":  "Trang Pipeline tach tab HJListing / Tao Listing; HJListing them cot tick, trang thai, danh dau loi, day dong da chon, Nguoi day, preset Can lay nhung gi; bang co tu cam, loc cot, dan Excel/CSV, dien hang loat, hoan tac, cot ghi chu; giao dien sang/toi; Quet Walmart nhap ID/link moi; Tao Listing them cot tick, cot ID, sua loi tai danh muc"
+    "version":  "1.2.87",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.87/WalmartScannerProSetup-1.2.87.exe",
+    "sha256":  "7503F5126D5F3DAF6E28D6DA3A500E07D65FA4055FE7E0FCF6D060D92B10C790",
+    "notes":  "Tao Listing: cot Xem anh + hover phong to, ghi chu tu dong khi sua de day lai, them cot chuan file listing Lumi (Loai SP, Acc, Size, Color, Nhom, Style) + kiem tra truoc khi day, Goi y danh muc (top 5 + ly do), Shift + tick chon ca doan, An/hien cot"
 }
