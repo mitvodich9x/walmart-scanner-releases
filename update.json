@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.88",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.88/WalmartScannerProSetup-1.2.88.exe",
-    "sha256":  "7E4A17EADB05AB346012B6837F53CC0A4611E845D58D62F864265FA6824FF53C",
-    "notes":  "Chay tron goi hien bang truc tiep, Lay lai dong loi, cao GTIN Add Items khong lap vo han, chan acc Seller Center bi chan tam thoi, bao ro GoLogin khong mo duoc"
+    "version":  "1.2.89",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.89/WalmartScannerProSetup-1.2.89.exe",
+    "sha256":  "4AE39D611C2EE115400DE5EE0B81C1C2628147CE7A95B8AA42B028B456A9C9BC",
+    "notes":  "Tu dong Sheet: chon chay toi buoc day goc + bien the (bo cao GTIN), tat lay nhom bien the qua Seller Center. Chi mo acc Seller Center khi toi buoc can, hoi xac nhan va cho doi acc truoc khi mo."
 }
