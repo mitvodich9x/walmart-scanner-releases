@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.88/cao-listing-extension.zip",
-    "notes":  "Chay tron goi hien bang truc tiep, Lay lai dong loi, cao GTIN Add Items khong lap vo han, chan acc Seller Center bi chan tam thoi, bao ro GoLogin khong mo duoc",
-    "released_at":  "2026-11-06T18:56:52Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.89/cao-listing-extension.zip",
+    "notes":  "Tu dong Sheet: chon chay toi buoc day goc + bien the (bo cao GTIN), tat lay nhom bien the qua Seller Center. Chi mo acc Seller Center khi toi buoc can, hoi xac nhan va cho doi acc truoc khi mo.",
+    "released_at":  "2026-11-07T04:17:53Z"
 }
