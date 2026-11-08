@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.89/cao-listing-extension.zip",
-    "notes":  "Tu dong Sheet: chon chay toi buoc day goc + bien the (bo cao GTIN), tat lay nhom bien the qua Seller Center. Chi mo acc Seller Center khi toi buoc can, hoi xac nhan va cho doi acc truoc khi mo.",
-    "released_at":  "2026-11-07T04:17:53Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.90/cao-listing-extension.zip",
+    "notes":  "Giao viec Pipeline: dan link, chon ma sale, loai SP tu API Lumi, giao nhan vien; nhan vien chay tron goi vao dung file. Form Tao file listing chon sale code + loai SP, tu dat ten file. Hien lai mui ten o chon.",
+    "released_at":  "2026-11-08T17:48:55Z"
 }
