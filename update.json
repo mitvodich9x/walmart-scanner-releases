@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.89",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.89/WalmartScannerProSetup-1.2.89.exe",
-    "sha256":  "4AE39D611C2EE115400DE5EE0B81C1C2628147CE7A95B8AA42B028B456A9C9BC",
-    "notes":  "Tu dong Sheet: chon chay toi buoc day goc + bien the (bo cao GTIN), tat lay nhom bien the qua Seller Center. Chi mo acc Seller Center khi toi buoc can, hoi xac nhan va cho doi acc truoc khi mo."
+    "version":  "1.2.90",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.90/WalmartScannerProSetup-1.2.90.exe",
+    "sha256":  "970A0507FE9A1C6E930A47D2DA881BD986B921D845F626CF2D2E9DA1F16C4F0D",
+    "notes":  "Giao viec Pipeline: dan link, chon ma sale, loai SP tu API Lumi, giao nhan vien; nhan vien chay tron goi vao dung file. Form Tao file listing chon sale code + loai SP, tu dat ten file. Hien lai mui ten o chon."
 }
