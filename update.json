@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.90",
-    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.90/WalmartScannerProSetup-1.2.90.exe",
-    "sha256":  "970A0507FE9A1C6E930A47D2DA881BD986B921D845F626CF2D2E9DA1F16C4F0D",
-    "notes":  "Giao viec Pipeline: dan link, chon ma sale, loai SP tu API Lumi, giao nhan vien; nhan vien chay tron goi vao dung file. Form Tao file listing chon sale code + loai SP, tu dat ten file. Hien lai mui ten o chon."
+    "version":  "1.2.91",
+    "installer_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.91/WalmartScannerProSetup-1.2.91.exe",
+    "sha256":  "86F187E46EE20A3CDBF0414B1FDDE64552A977D7122A06D579E24638C22BBF62",
+    "notes":  "Walmart Scanner Pro da ngung. Ban 1.2.91 la ban cuoi: mo len chi hien huong dan tai LumiHub Studio (nut Tai LumiHub Studio). Moi chuc nang da chuyen sang LumiHub Studio."
 }
