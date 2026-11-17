@@ -1,6 +1,6 @@
 {
     "version":  "1.0.1",
-    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.90/cao-listing-extension.zip",
-    "notes":  "Giao viec Pipeline: dan link, chon ma sale, loai SP tu API Lumi, giao nhan vien; nhan vien chay tron goi vao dung file. Form Tao file listing chon sale code + loai SP, tu dat ten file. Hien lai mui ten o chon.",
-    "released_at":  "2026-11-08T17:48:55Z"
+    "zip_url":  "https://github.com/mitvodich9x/walmart-scanner-releases/releases/download/v1.2.91/cao-listing-extension.zip",
+    "notes":  "Walmart Scanner Pro da ngung. Ban 1.2.91 la ban cuoi: mo len chi hien huong dan tai LumiHub Studio (nut Tai LumiHub Studio). Moi chuc nang da chuyen sang LumiHub Studio.",
+    "released_at":  "2026-11-17T05:55:31Z"
 }
